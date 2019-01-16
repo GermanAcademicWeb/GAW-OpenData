@@ -1,7 +1,7 @@
 ---
 layout: article
 titles:
-  en      : &EN       About
+  en      : &EN       Overview on the GAW data
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -18,49 +18,25 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+## basic statistics
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+The following table shows for each directory under `/data/web/gaw/`
+the statistics for all WARC files (i.e., only files with the extension
+`warc.gz` - files ending in `warc.gz.open` or `warc.gz._COPYING_` were
+ignored):
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
-
-## Features
-
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors (Email, Facebook, Twitter, Linkedin, Weibo, Zhihu, etc)
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
-
-## Skins
-
-TeXt has 6 built-in skins, you can also set up your own skin.
-
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
-
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
-
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+| directory | WARC count | WARC [TB] | start time          | end time            |   Pig [Bytes] | Pig [TB] | URLs Pig    |
+|-----------+------------+-----------+---------------------+---------------------+---------------+----------+-------------|
+|   2012-10 |       2923 |       2.7 | 2012-10-09 10:50:36 | 2012-10-29 11-03-00 | 2271932169392 |      2.1 | 37,403,178  |
+|   2013-02 |       6493 |       5.9 | 2013-02-11 16:27:43 | 2013-03-05 12-16-15 | 4398271080796 |      4.0 | 151,118,068 |
+|   2013-12 |       7091 |       6.5 | 2013-12-04 15:01:14 | 2014-01-16 06-59-35 | 3891315199201 |      3.5 | 95,516,522  |
+|   2014-05 |       6339 |       5.8 | 2014-04-30 06:40:49 | 2014-05-13 14-51-21 | 4439249058032 |      4.0 | 96,715,303  |
+|   2014-12 |       6154 |       5.6 | 2014-12-01 08:28:56 | 2014-12-08 06-01-53 | 4667035723316 |      4.2 | 90,148,660  |
+|   2015-05 |       6449 |       6.0 | 2015-05-27 08:25:50 | 2015-06-09 06-04-34 | 4738292602035 |      4.3 | 93,034,670  |
+|   2015-12 |       5928 |       5.5 | 2015-12-15 09:42:56 | 2016-01-05 07-40-02 | 4076677166643 |      3.7 | 85,308,013  |
+|   2016-06 |       7289 |       6.8 | 2016-06-01 07:34:12 | 2016-06-13 07-01-58 | 5065004775318 |      4.6 | 94,834,662  |
+|   2016-12 |       7088 |       6.6 | 2016-12-08 08:13:23 | 2016-12-17 12-15-04 | 4981601206700 |      4.5 | 83,699,207  |
+|   2017-06 |       7417 |       6.9 | 2017-06-12 07:44:06 | 2017-06-21 07-09-56 | 5239518470050 |      4.8 | 82,584,780  |
+|   2017-12 |       7374 |       6.8 | 2017-12-05 12:42:27 | 2017-12-17 10-17-47 | 4843662285159 |      4.4 | 85,744,182  |
+|   2018-06 |       7116 |       6.6 | 2018-06-18 07:08:26 | 2018-06-29 21-31-07 | 4792082039827 |      4.4 | 84,370,004  |
+#+TBLFM: $7=$-1/1024/1024/1024/1024;%2.1f
