@@ -22,7 +22,7 @@ url     : https://scm.cms.hu-berlin.de # the base hostname & protocol for your s
 baseurl : /ganselar/gaw-opendata # does not include hostname
 title   : German Academic Web OpenData
 description: > # this means to ignore newlines until "Language & timezone"
-  biannuelle Webcrawls deutscher Hochschulen mit Promotionsrecht und FHG/MPG
+  biannual Webcrawls of German universities and FHG/MPG
 
 
 ## => Language and Timezone
