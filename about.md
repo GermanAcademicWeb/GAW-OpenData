@@ -1,11 +1,6 @@
 ---
 layout: article
-titles:
-  en      : &EN       Overview on the GAW data
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
+title: Overview on the GAW data
 key: page-about
 ---
 
