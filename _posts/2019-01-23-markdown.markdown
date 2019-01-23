@@ -1,0 +1,33 @@
+---
+layout: "article"
+title: "Markdown"
+date: "2019-01-23 10:24"
+---
+
+# Headings
+
+_Italics_
+**Bold**
+~~Strike~~
+
+first
+
+>Block Quote
+
+```
+Code
+
+```
+
+`Inline code`
+
+  |   |  
+--|---|--
+  |   |  
+
+
+---
+
+Footnote[¹]
+
+[¹]: Reference
