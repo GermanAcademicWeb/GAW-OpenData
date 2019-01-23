@@ -12,6 +12,7 @@
   a {
     @include link-colors ($footer-text-color, $main-color-1);
   }
+
   .site-info {
     font-size: map-get($base, font-size-xs);
     text-align: center;
