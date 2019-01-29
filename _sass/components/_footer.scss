@@ -13,27 +13,49 @@
     @include link-colors ($footer-text-color, $main-color-1);
   }
   
-  .footer__brand {
-    @include flexbox();
-    @include align-items(center);
-    & > svg {
-      width: map-get($base, font-size-h4) * 1.6;
-      height: map-get($base, font-size-h4) * 1.6;
-      margin-right: map-get($spacers, 3);
-      vertical-align: middle;
-      @include media-breakpoint-down(md) {
-        width: map-get($base, font-size-h4) * 1.2;
-        height: map-get($base, font-size-h4) * 1.2;
-      }
-    }
-    & > a {
-      display: inline-block;
-      font-size: map-get($base, font-size-h4);
-      @include media-breakpoint-down(md) {
-        font-size: map-get($base, font-size-h4-small);
-      }
-    }
-  }
+.footer-col-wrapper {
+  font-size: 15px;
+  color: $footer-background;
+  margin-left: -15px; }
+
+.footer-col {
+  float: left;
+  margin-bottom: 15px;
+  padding-left: 15px; }
+
+.footer-col-1 {
+  width: -webkit-calc(35% - (30px / 2));
+  width: calc(35% - (30px / 2));
+  float: right; }
+
+.footer-col-2 {
+  width: -webkit-calc(20% - (30px / 2));
+  width: calc(20% - (30px / 2));
+  float: bottom; }
+
+.footer-col-3 {
+  width: -webkit-calc(45% - (30px / 2));
+  width: calc(45% - (30px / 2));
+  float: right; }
+
+.footer__brand {
+  float: left; }
+
+@media screen and (max-width: 800px) {
+  .footer-col-1,
+  .footer-col-2 {
+    width: -webkit-calc(50% - (30px / 2));
+    width: calc(50% - (30px / 2)); }
+
+  .footer-col-3 {
+    width: -webkit-calc(100% - (30px / 2));
+    width: calc(100% - (30px / 2)); } }
+@media screen and (max-width: 600px) {
+  .footer-col {
+    float: none;
+    width: -webkit-calc(100% - (30px / 2));
+    width: calc(100% - (30px / 2)); } }
+  
   .site-info {
     font-size: map-get($base, font-size-xs);
     text-align: center;
