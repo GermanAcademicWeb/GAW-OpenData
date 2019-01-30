@@ -4,7 +4,6 @@ title: Overview on the GAW data
 key: page-about
 ---
 
-# Overview on the GAW data
 ## basic statistics
 
 The following table shows for each directory under `/data/web/gaw/`
