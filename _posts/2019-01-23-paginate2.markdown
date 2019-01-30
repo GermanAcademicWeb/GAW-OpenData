@@ -1,5 +1,0 @@
----
-layout: "article"
-title: "paginate2"
-date: "2019-01-23 10:34"
----
