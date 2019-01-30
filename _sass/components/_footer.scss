@@ -12,7 +12,7 @@
   a {
     @include link-colors ($footer-text-color, $main-color-1);
   }
-  
+
 .footer-col-wrapper {
   font-size: 15px;
   color: $footer-background;
@@ -41,6 +41,10 @@
 .footer__brand {
   float: left; }
 
+.footer__contact {
+  float: right;
+}
+
 @media screen and (max-width: 800px) {
   .footer-col-1,
   .footer-col-2 {
@@ -55,7 +59,7 @@
     float: none;
     width: -webkit-calc(100% - (30px / 2));
     width: calc(100% - (30px / 2)); } }
-  
+
   .site-info {
     font-size: map-get($base, font-size-xs);
     text-align: center;
