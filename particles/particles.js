@@ -8,34 +8,44 @@
 /* v0.0.1
 /* ----------------------------------------------- */
 
-var xpos;
-var ypos;
+var posList = [];
 
 var readPositions = new XMLHttpRequest();
 readPositions.open('GET', 'particles/positions.csv', false);
 readPositions.onreadystatechange = function (data) {
     if (readPositions.readyState == 4) {
         if (readPositions.status == 200) {
-            function readData(data) {
-                var rows = data.split(/\s+/);
-                var rowNum;
-                var cells;
-                var cellNum;
-
-                for (rowNum = 0; rowNum < rows.length; ++rowNum) {
-                    cells = rows[rowNum].split(",");
-                    xpos[rowNum] = cells[2];
-                    ypos[rowNum] = cells[1];
-                }
-            }
-
+            readData(readPositions.responseText);
         } else {
             console.log('Error pJS - XMLHttpRequest status: ' + readPositions.status);
             console.log('Error pJS - File config not found');
         }
+
+        function readData(data) {
+            var rows = data.split(/\s+/);
+            //alert (rows.length);
+            var rowNum;
+            var cells;
+            var cellNum;
+            var xpos;
+            var ypos;
+
+            for (rowNum = 1; rowNum < rows.length; ++rowNum) {
+                cells = rows[rowNum].split(",");
+                //alert (cells[1]);
+                xpos = cells[2];
+                //alert (xpos);
+                ypos = cells[1];
+                uniPos = [xpos, ypos];
+                posList.push(uniPos);
+            }
+            return posList;
+        }
     }
 }
 readPositions.send();
+
+//alert(posList[1][1]);
 
 var pJS = function (tag_id, params) {
 
@@ -278,29 +288,26 @@ var pJS = function (tag_id, params) {
             }
         }
 
-         /* position */
+        /* position */
         //this.x = position ? position.x : Math.random() * pJS.canvas.w;
         //this.y = position ? position.y : Math.random() * pJS.canvas.h;
 
-        /* position (now HU Berlin) */
-        this.x = position ? position.x : 0.7893333333333 * pJS.canvas.w;
-        this.y = position ? position.y : 0.326828410689114 * pJS.canvas.h;
+        /* position (now RWTH) */
+        //alert('in loop');
+        this.x = position ? position.x : posList[posc][0] * pJS.canvas.w;
+        this.y = position ? position.y : posList[posc][1] * pJS.canvas.h;
 
-        /* position single particle */
-       // this.x = position ? position.x : xpos * pJS.canvas.w
-       // this.y = position ? position.y : ypos * pJS.canvas.h;
-
-            /* check position  - into the canvas */
-        if (this.x > pJS.canvas.w - this.radius * 2) this.x = this.x - this.radius;
+        /* check position  - into the canvas */
+        /*if (this.x > pJS.canvas.w - this.radius * 2) this.x = this.x - this.radius;
         else if (this.x < this.radius * 2) this.x = this.x + this.radius;
         if (this.y > pJS.canvas.h - this.radius * 2) this.y = this.y - this.radius;
         else if (this.y < this.radius * 2) this.y = this.y + this.radius;
 
-        /* check position - avoid overlap */
+        /!* check position - avoid overlap *!/
         if (pJS.particles.move.bounce) {
             pJS.fn.vendors.checkOverlap(this, position);
         }
-
+*/
         /* color */
         this.color = {};
         if (typeof (color.value) == 'object') {
@@ -528,11 +535,13 @@ var pJS = function (tag_id, params) {
 
     };
 
-    // TODO: Position insert here?
+    var posc = 0;
 
     pJS.fn.particlesCreate = function () {
         for (var i = 0; i < pJS.particles.number.value; i++) {
-            pJS.particles.array.push(new pJS.fn.particle(pJS.particles.color, pJS.particles.opacity.value, pJS.particles.position));
+            pJS.particles.array.push(new pJS.fn.particle(pJS.particles.color, pJS.particles.opacity.value));
+            posc++;
+            //alert(posc);
         }
     };
 
