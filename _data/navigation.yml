@@ -1,4 +1,7 @@
 header:
+  - title: Visualization
+    url: /visualization.html
+    
   - title: Datasets
     url: /datasets.html
 
