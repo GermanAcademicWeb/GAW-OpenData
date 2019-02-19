@@ -29,6 +29,7 @@ readPositions.onreadystatechange = function (data) {
             var cellNum;
             var xpos;
             var ypos;
+            var uniName;
 
             for (rowNum = 1; rowNum < rows.length; ++rowNum) {
                 cells = rows[rowNum].split(",");
@@ -36,7 +37,8 @@ readPositions.onreadystatechange = function (data) {
                 xpos = cells[2];
                 //alert (xpos);
                 ypos = cells[1];
-                uniPos = [xpos, ypos];
+                uniName = cells[0]
+                uniPos = [xpos, ypos, uniName];
                 posList.push(uniPos);
             }
             return posList;
@@ -145,7 +147,8 @@ var pJS = function (tag_id, params) {
                     distance: 100,
                     line_linked: {
                         opacity: 1
-                    }
+                    },
+                    duration: 0.1
                 },
                 bubble: {
                     distance: 200,
@@ -277,6 +280,9 @@ var pJS = function (tag_id, params) {
     /* --------- pJS functions - particles ----------- */
 
     pJS.fn.particle = function (color, opacity, position) {
+
+        /* name */
+        this.name = posList[posc][2];
 
         /* size */
         this.radius = (pJS.particles.size.random ? Math.random() : 1) * pJS.particles.size.value;
@@ -541,8 +547,7 @@ var pJS = function (tag_id, params) {
         for (var i = 0; i < pJS.particles.number.value; i++) {
             pJS.particles.array.push(new pJS.fn.particle(pJS.particles.color, pJS.particles.opacity.value));
             posc++;
-            //alert(posc);
-        }
+            }
     };
 
     pJS.fn.particlesUpdate = function () {
@@ -634,7 +639,7 @@ var pJS = function (tag_id, params) {
             }
 
             /* events */
-            if (isInArray('grab', pJS.interactivity.events.onhover.mode)) {
+            if (isInArray('grab', pJS.interactivity.events.onhover.mode) || isInArray('grab', pJS.interactivity.events.onclick.mode)) {
                 pJS.fn.modes.grabParticle(p);
             }
 
@@ -1067,6 +1072,8 @@ var pJS = function (tag_id, params) {
             /* draw a line between the cursor and the particle if the distance between them is under the config distance */
             if (dist_mouse <= pJS.interactivity.modes.grab.distance) {
 
+                //alert(posList[0][2]);
+
                 var opacity_line = pJS.interactivity.modes.grab.line_linked.opacity - (dist_mouse / (1 / pJS.interactivity.modes.grab.line_linked.opacity)) / pJS.interactivity.modes.grab.distance;
 
                 if (opacity_line > 0) {
@@ -1088,6 +1095,45 @@ var pJS = function (tag_id, params) {
 
             }
 
+        } else if (pJS.interactivity.events.onclick.enable && isInArray('grab', pJS.interactivity.events.onclick.mode)) {
+
+            /*
+                        var dx_mouse = p.x - pJS.interactivity.mouse.pos_x,
+                            dy_mouse = p.y - pJS.interactivity.mouse.pos_y,
+                            dist_mouse = Math.sqrt(dx_mouse * dx_mouse + dy_mouse * dy_mouse);
+            */
+
+            if (pJS.tmp.grab_clicking) {
+
+                var dx_mouse = p.x - pJS.interactivity.mouse.click_pos_x,
+                    dy_mouse = p.y - pJS.interactivity.mouse.click_pos_y,
+                    dist_mouse = Math.sqrt(dx_mouse * dx_mouse + dy_mouse * dy_mouse);
+            }
+
+            if (dist_mouse <= pJS.interactivity.modes.grab.distance) {
+
+                alert(p.name);
+
+                var opacity_line = pJS.interactivity.modes.grab.line_linked.opacity - (dist_mouse / (1 / pJS.interactivity.modes.grab.line_linked.opacity)) / pJS.interactivity.modes.grab.distance;
+
+                if (opacity_line > 0) {
+
+                    /* style */
+                    var color_line = pJS.particles.line_linked.color_rgb_line;
+                    pJS.canvas.ctx.strokeStyle = 'rgba(' + color_line.r + ',' + color_line.g + ',' + color_line.b + ',' + opacity_line + ')';
+                    pJS.canvas.ctx.lineWidth = pJS.particles.line_linked.width;
+                    //pJS.canvas.ctx.lineCap = 'round'; /* performance issue */
+
+                    /* path */
+                    pJS.canvas.ctx.beginPath();
+                    pJS.canvas.ctx.moveTo(p.x, p.y);
+                    pJS.canvas.ctx.lineTo(pJS.interactivity.mouse.pos_x, pJS.interactivity.mouse.pos_y);
+                    pJS.canvas.ctx.stroke();
+                    pJS.canvas.ctx.closePath();
+
+                }
+
+            }
         }
 
     };
@@ -1182,6 +1228,13 @@ var pJS = function (tag_id, params) {
                             setTimeout(function () {
                                 pJS.tmp.repulse_clicking = false;
                             }, pJS.interactivity.modes.repulse.duration * 1000)
+                            break;
+
+                        case 'grab':
+                            pJS.tmp.grab_clicking = true;
+                            setTimeout(function () {
+                                pJS.tmp.grab_clicking = false;
+                            }, pJS.interactivity.modes.grab.duration * 1000)
                             break;
 
                     }
