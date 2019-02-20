@@ -11,7 +11,7 @@
 var posList = [];
 
 var readPositions = new XMLHttpRequest();
-readPositions.open('GET', 'particles/positions.csv', false);
+readPositions.open('GET', 'particles/positions2.csv', false);
 readPositions.onreadystatechange = function (data) {
     if (readPositions.readyState == 4) {
         if (readPositions.status == 200) {
