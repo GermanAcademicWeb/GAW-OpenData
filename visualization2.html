@@ -1,0 +1,95 @@
+---
+layout: article
+---
+
+    <link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/css/ol.css" type="text/css">
+    <style>
+      .map {
+        height: 800px;
+        width: 100%;
+      }
+    </style>
+    <script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/build/ol.js"></script>
+
+    <div id="map" class="map"></div>
+    <div id="information">No institution selected</div>
+    <script type="text/javascript">
+
+      var vectorSource = new ol.source.Vector({
+        url: 'assets/geodata.geojson',
+        format: new ol.format.GeoJSON(),
+      });
+
+      var map = new ol.Map({
+        target: 'map',
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.OSM()
+          }),
+          new ol.layer.Vector({
+            source: vectorSource,
+            style: new ol.style.Style({
+              image: new ol.style.Circle({
+                radius: 3,
+                fill: new ol.style.Fill({color: 'blue'})
+              })
+            })
+          })
+        ],
+        view: new ol.View({
+          center: ol.proj.fromLonLat([10.018343, 51.133481]),
+          zoom: 6
+        })
+      });
+
+      // Click Interaction
+      // var select = new ol.Interaction.Select();
+      // ol.map.addInteraction(select);
+      //
+      // var selectedFeatures = select.getFeatures();
+      //
+      // var infoBox = document.getElementById('info');
+      //
+      // selectedFeatures.on(['add', 'remove'], function() {
+      //   var names = selectedFeatures.getArray().map(function(feature) {
+      //     return feature.get('Name');
+      //   });
+      //   if (names.length > 0) {
+      //     infoBox.innerHTML = names.join(', ');
+      //   } else {
+      //     infoBox.innerHTML = 'No i selected';
+      //   }
+      // });
+
+      var selectInteraction = new ol.interaction.Select({
+        layers: function(layer) {
+          // return layer.get('selectable') == true;
+        },
+      });
+
+      map.getInteractions().extend([selectInteraction]);
+
+
+      var displayFeatureInfo = function(pixel) {
+        var features = [];
+        map.forEachFeatureAtPixel(pixel, function(feature, layer) {
+          features.push(feature);
+        });
+        var container = document.getElementById('information');
+        if (features.length > 0) {
+          var info = [];
+          for (var i = 0, ii = features.length; i < ii; ++i) {
+            info.push(features[i].get('Name'));
+          }
+          container.innerHTML = info.join(', ') || '(unknown)';
+        } else {
+          container.innerHTML = 'No institution selected';
+        }
+      };
+
+      map.on('click', function(evt) {
+        var pixel = evt.pixel;
+        displayFeatureInfo(pixel);
+      });
+
+    </script>
