@@ -2,15 +2,39 @@
 layout: article
 ---
 
-<div id="particles-js">
-</div>
+    <link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/css/ol.css" type="text/css">
+    <style>
+      .map {
+        height: 800px;
+        width: 100%;
+      }
+    </style>
+    <script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/build/ol.js"></script>
 
-<script src="particles/particles.js"></script>
-<link rel="stylesheet" media="screen" href="particles/css/style.css">
-
-<script>
-particlesJS.load('particles-js', 'particles/particles.json', function() {
-  console.log('callback - particles.js config loaded');
-});
-</script>
-Background map by <a href="//commons.wikimedia.org/wiki/User:NordNordWest" title="User:NordNordWest">NordNordWest</a> - <span class="int-own-work" lang="en">Own work</span>, using United States National Imagery and Mapping Agency data, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4303601">Link</a>
+    <div id="map" class="map"></div>
+    <script type="text/javascript">
+      var map = new ol.Map({
+        target: 'map',
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.OSM()
+          }),
+          new ol.layer.Vector({
+            source: new ol.source.Vector({
+              url: 'assets/geodata.geojson',
+              format: new ol.format.GeoJSON()
+            }),
+            style: new ol.style.Style({
+              image: new ol.style.Circle({
+                radius: 3,
+                fill: new ol.style.Fill({color: 'black'})
+              })
+            })
+          })
+        ],
+        view: new ol.View({
+          center: ol.proj.fromLonLat([10.018343, 51.133481]),
+          zoom: 6
+        })
+      });
+    </script>
