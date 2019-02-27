@@ -219,3 +219,14 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll_json
+  - jekyll_mapping
+
+## => Mapping
+##############################
+mapping:
+    provider: openstreetmap
+    zoom: 10
+    dimensions:
+        width: 600
+        height: 400
