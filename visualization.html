@@ -136,7 +136,12 @@ layout: article
           for (var i = 0, ii = features.length; i < ii; ++i) {
             info.push(features[i].get('Name'));
           }
-          content.innerHTML = info.join(', ') || '(unknown)';
+          if (info.length > 1) {
+            content.innerHTML = info.join(', ') || '(unknown)';
+          }
+          else if (info.length == 1) {
+            content.innerHTML = '<a target="_blank" href="' + info + '">' + info + '</a>';
+          }
         } else {
           content.innerHTML = 'No institution selected';
         }
