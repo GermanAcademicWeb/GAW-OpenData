@@ -1,5 +1,5 @@
 ---
 layout: institution
 title: FU Berlin
-myvariable: header.html
+myvariable: svg/hu-logo.svg
 ---
