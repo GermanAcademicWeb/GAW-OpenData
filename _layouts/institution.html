@@ -11,7 +11,12 @@ type: institution
 <div class="layout--institution">
   {%- include article/top/custom.html -%}
 
-  <div class="article__content" itemprop="articleBody">{{ content }}</div>
+  <div class="article__content" itemprop="articleBody">
+    {{ content }}
+    {% if page.myvariable %}
+      {% include {{ page.myvariable }} %}
+    {% endif %}
+  </div>
 
   {%- if _sharing -%}
     <section class="article__sharing d-print-none">{%- include sharing.html -%}</section>

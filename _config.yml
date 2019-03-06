@@ -38,7 +38,7 @@ author:
   name      : HU Berlin
   url       : https://www.hu-berlin.de
   avatar    : # path or url of avatar image
-  bio       : 
+  bio       :
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -230,3 +230,9 @@ mapping:
     dimensions:
         width: 600
         height: 400
+
+## => collections
+##############################
+collections:
+  institution:
+    output: true
