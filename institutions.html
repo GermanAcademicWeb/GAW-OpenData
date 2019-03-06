@@ -1,6 +1,12 @@
 ---
-layout: institution
+layout: article
 title: Institutions
 ---
 
 Search for your institute or select on the map in the visualization.
+
+<ul>
+  {% for item in site.institution  %}
+     <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+  {% endfor %}
+</ul>
