@@ -6,7 +6,8 @@
       "properties": {
         "Name": "Alanus Hochschule für Kunst und Gesellschaft (AHKG)",
         "URL": "https://www.alanus.edu/de/home/",
-        "Subsite": "institution/AlanusHochschulefuerKunstundGesellschaft(AHKG).html"
+        "Subsite": "institution/AlanusHochschulefuerKunstundGesellschaft(AHKG).html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +22,8 @@
       "properties": {
         "Name": "Albert-Ludwigs-Universität Freiburg",
         "URL": "http://www.uni-freiburg.de/",
-        "Subsite": "institution/Albert-Ludwigs-UniversitaetFreiburg.html"
+        "Subsite": "institution/Albert-Ludwigs-UniversitaetFreiburg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +38,8 @@
       "properties": {
         "Name": "Augustana-Hochschule Neuendettelsau",
         "URL": "http://www.augustana.de",
-        "Subsite": "institution/Augustana-HochschuleNeuendettelsau.html"
+        "Subsite": "institution/Augustana-HochschuleNeuendettelsau.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +54,8 @@
       "properties": {
         "Name": "Bauhaus-Universität Weimar",
         "URL": "http://www.uni-weimar.de/",
-        "Subsite": "institution/Bauhaus-UniversitaetWeimar.html"
+        "Subsite": "institution/Bauhaus-UniversitaetWeimar.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +70,8 @@
       "properties": {
         "Name": "Bergische Universität Wuppertal",
         "URL": "http://www.uni-wuppertal.de/",
-        "Subsite": "institution/BergischeUniversitaetWuppertal.html"
+        "Subsite": "institution/BergischeUniversitaetWuppertal.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +86,8 @@
       "properties": {
         "Name": "Bibliotheca Hertziana",
         "URL": "http://www.biblhertz.it/",
-        "Subsite": "institution/BibliothecaHertziana.html"
+        "Subsite": "institution/BibliothecaHertziana.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +102,8 @@
       "properties": {
         "Name": "Brandenburgische Technische Universität Cottbus-Senftenberg",
         "URL": "https://www.b-tu.de/",
-        "Subsite": "institution/BrandenburgischeTechnischeUniversitaetCottbus-Senftenberg.html"
+        "Subsite": "institution/BrandenburgischeTechnischeUniversitaetCottbus-Senftenberg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +118,8 @@
       "properties": {
         "Name": "Bucerius Law School",
         "URL": "http://www.law-school.de",
-        "Subsite": "institution/BuceriusLawSchool.html"
+        "Subsite": "institution/BuceriusLawSchool.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +134,8 @@
       "properties": {
         "Name": "Carl von Ossietzky Universität Oldenburg",
         "URL": "https://uol.de/",
-        "Subsite": "institution/CarlvonOssietzkyUniversitaetOldenburg.html"
+        "Subsite": "institution/CarlvonOssietzkyUniversitaetOldenburg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -141,7 +150,8 @@
       "properties": {
         "Name": "Christian-Albrechts-Universität zu Kiel",
         "URL": "http://www.uni-kiel.de/",
-        "Subsite": "institution/Christian-Albrechts-UniversitaetzuKiel.html"
+        "Subsite": "institution/Christian-Albrechts-UniversitaetzuKiel.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -156,7 +166,8 @@
       "properties": {
         "Name": "Deutsche Hochschule der Polizei",
         "URL": "http://www.dhpol.de",
-        "Subsite": "institution/DeutscheHochschulederPolizei.html"
+        "Subsite": "institution/DeutscheHochschulederPolizei.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +182,8 @@
       "properties": {
         "Name": "Deutsche Sporthochschule Köln",
         "URL": "http://www.dshs-koeln.de/",
-        "Subsite": "institution/DeutscheSporthochschuleKoeln.html"
+        "Subsite": "institution/DeutscheSporthochschuleKoeln.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +198,8 @@
       "properties": {
         "Name": "Deutsche Universität für Verwaltungswissenschaften Speyer",
         "URL": "http://www.uni-speyer.de/",
-        "Subsite": "institution/DeutscheUniversitaetfuerVerwaltungswissenschaftenSpeyer.html"
+        "Subsite": "institution/DeutscheUniversitaetfuerVerwaltungswissenschaftenSpeyer.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +214,8 @@
       "properties": {
         "Name": "Eberhard Karls Universität Tübingen",
         "URL": "http://www.uni-tuebingen.de/",
-        "Subsite": "institution/EberhardKarlsUniversitaetTuebingen.html"
+        "Subsite": "institution/EberhardKarlsUniversitaetTuebingen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -216,7 +230,8 @@
       "properties": {
         "Name": "EBS Universität für Wirtschaft und Recht",
         "URL": "http://www.ebs.edu/",
-        "Subsite": "institution/EBSUniversitaetfuerWirtschaftundRecht.html"
+        "Subsite": "institution/EBSUniversitaetfuerWirtschaftundRecht.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +246,8 @@
       "properties": {
         "Name": "ESCP Europe Wirtschaftshochschule Berlin",
         "URL": "http://www.escpeurope.eu/de/",
-        "Subsite": "institution/ESCPEuropeWirtschaftshochschuleBerlin.html"
+        "Subsite": "institution/ESCPEuropeWirtschaftshochschuleBerlin.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +262,8 @@
       "properties": {
         "Name": "Europa-Universität Flensburg",
         "URL": "http://www.uni-flensburg.de/",
-        "Subsite": "institution/Europa-UniversitaetFlensburg.html"
+        "Subsite": "institution/Europa-UniversitaetFlensburg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +278,8 @@
       "properties": {
         "Name": "Europa-Universität Viadrina",
         "URL": "http://www.euv-ffo.de/",
-        "Subsite": "institution/Europa-UniversitaetViadrina.html"
+        "Subsite": "institution/Europa-UniversitaetViadrina.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -276,7 +294,8 @@
       "properties": {
         "Name": "Fernuniversität in Hagen",
         "URL": "https://www.fernuni-hagen.de/",
-        "Subsite": "institution/FernuniversitaetinHagen.html"
+        "Subsite": "institution/FernuniversitaetinHagen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -291,7 +310,8 @@
       "properties": {
         "Name": "Filmuniversität Babelsberg",
         "URL": "http://www.filmuniversitaet.de",
-        "Subsite": "institution/FilmuniversitaetBabelsberg.html"
+        "Subsite": "institution/FilmuniversitaetBabelsberg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -306,7 +326,8 @@
       "properties": {
         "Name": "Folkwang Universität der Künste",
         "URL": "http://www.folkwang-uni.de/",
-        "Subsite": "institution/FolkwangUniversitaetderKuenste.html"
+        "Subsite": "institution/FolkwangUniversitaetderKuenste.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -321,7 +342,8 @@
       "properties": {
         "Name": "Frankfurt School of Finance & Management",
         "URL": "http://www.frankfurt-school.de/",
-        "Subsite": "institution/FrankfurtSchoolofFinance&Management.html"
+        "Subsite": "institution/FrankfurtSchoolofFinance&Management.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -336,7 +358,8 @@
       "properties": {
         "Name": "Fraunhofer-Einrichtung für Additive Produktionstechnologien",
         "URL": "https://www.iapt.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-EinrichtungfuerMarineBiotechnologie.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerAdditiveProduktionstechnologien.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -351,7 +374,8 @@
       "properties": {
         "Name": "Fraunhofer-Einrichtung für Marine Biotechnologie",
         "URL": "http://www.emb.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-EinrichtungfuerModulareFestkoerper-Technologien.html"
+        "Subsite": "institution/Fraunhofer-EinrichtungfuerMarineBiotechnologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -366,7 +390,8 @@
       "properties": {
         "Name": "Fraunhofer-Einrichtung für Modulare Festkörper-Technologien",
         "URL": "https://www.emft.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerAdditiveProduktionstechnologien.html"
+        "Subsite": "institution/Fraunhofer-EinrichtungfuerModulareFestkoerper-Technologien.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -381,7 +406,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Algorithmen und Wissenschaftliches Rechnen",
         "URL": "https://www.scai.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerAlgorithmenundWissenschaftlichesRechnen.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerAlgorithmenundWissenschaftlichesRechnen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -396,7 +422,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Angewandte Festkörperphysik",
         "URL": "https://www.iaf.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerAngewandteFestkoerperphysik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerAngewandteFestkoerperphysik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +438,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Angewandte Informationstechnik",
         "URL": "https://www.fit.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerAngewandteInformationstechnik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerAngewandteInformationstechnik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -426,7 +454,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Angewandte Optik und Feinmechanik",
         "URL": "http://www.iof.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerAngewandteOptikundFeinmechanik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerAngewandteOptikundFeinmechanik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -441,7 +470,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Angewandte Polymerforschung",
         "URL": "http://www.iap.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerAngewandtePolymerforschung.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerAngewandtePolymerforschung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -456,7 +486,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Angewandte und Integrierte Sicherheit",
         "URL": "http://www.aisec.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerAngewandteundIntegrierteSicherheit.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerAngewandteundIntegrierteSicherheit.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -471,7 +502,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Arbeitswirtschaft und Organisation",
         "URL": "https://www.iao.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerArbeitswirtschaftundOrganisation.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerArbeitswirtschaftundOrganisation.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -486,7 +518,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Bauphysik",
         "URL": "https://www.ibp.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerBauphysik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerBauphysik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -501,7 +534,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Betriebsfestigkeit und Systemzuverlässigkeit",
         "URL": "https://www.lbf.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerBetriebsfestigkeitundSystemzuverlaessigkeit.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerBetriebsfestigkeitundSystemzuverlaessigkeit.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -516,7 +550,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Bildgestützte Medizin",
         "URL": "https://www.mevis.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerBildgestuetzteMedizin.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerBildgestuetzteMedizin.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +566,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Biomedizinische Technik",
         "URL": "https://www.ibmt.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerBiomedizinischeTechnik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerBiomedizinischeTechnik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -546,7 +582,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Chemische Technologie",
         "URL": "https://www.ict.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerChemischeTechnologie.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerChemischeTechnologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -561,7 +598,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Digitale Medientechnologie",
         "URL": "https://www.idmt.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerDigitaleMedientechnologie.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerDigitaleMedientechnologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -576,7 +614,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Eingebette Systeme und Kommunikationstechnik",
         "URL": "https://www.esk.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerEingebetteSystemeundKommunikationstechnik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerEingebetteSystemeundKommunikationstechnik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -591,7 +630,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Elektronische Nanosysteme",
         "URL": "http://www.enas.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerElektronischeNanosysteme.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerElektronischeNanosysteme.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -606,7 +646,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Energiewirtschaft und Energiesystemtechnik",
         "URL": "https://www.iee.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerEnergiewirtschaftundEnergiesystemtechnik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerEnergiewirtschaftundEnergiesystemtechnik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +662,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Entwurfstechnik Mechatronik",
         "URL": "http://www.iem.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerEntwurfstechnikMechatronik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerEntwurfstechnikMechatronik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -636,7 +678,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Experimentelles Software Engineering",
         "URL": "https://www.iese.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerExperimentellesSoftwareEngineering.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerExperimentellesSoftwareEngineering.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -651,7 +694,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Fabrikbetrieb und -automatisierung",
         "URL": "http://www.iff.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerFabrikbetriebund-automatisierung.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerFabrikbetriebund-automatisierung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -666,7 +710,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Fertigungstechnik und Angewandte Materialforschung",
         "URL": "http://www.ifam.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerFertigungstechnikundAngewandteMaterialforschung.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerFertigungstechnikundAngewandteMaterialforschung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -681,7 +726,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Fraunhofer-Informationszentrum Raum und Bau",
         "URL": "https://www.irb.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerFraunhofer-InformationszentrumRaumundBau.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerFraunhofer-InformationszentrumRaumundBau.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -696,7 +742,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Graphische Datenverarbeitung",
         "URL": "https://www.igd.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerGraphischeDatenverarbeitung.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerGraphischeDatenverarbeitung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -711,7 +758,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Grenzflächen- und Bioverfahrenstechnik",
         "URL": "http://www.igb.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerGrenzflaechen-undBioverfahrenstechnik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerGrenzflaechen-undBioverfahrenstechnik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -726,7 +774,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Hochfrequenzphysik und Radartechnik",
         "URL": "https://www.fhr.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerHochfrequenzphysikundRadartechnik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerHochfrequenzphysikundRadartechnik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -741,7 +790,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Holzforschung",
         "URL": "https://www.wki.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerHolzforschung.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerHolzforschung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -756,7 +806,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Integrierte Schaltungen",
         "URL": "https://www.iis.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerIntegrierteSchaltungen.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerIntegrierteSchaltungen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -771,7 +822,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Integrierte Systeme und Bauelementetechnologie",
         "URL": "https://www.iisb.fraunhofer.de/de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerIntegrierteSystemeundBauelementetechnologie.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerIntegrierteSystemeundBauelementetechnologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -786,7 +838,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Intelligente Analyse- und Informationssysteme",
         "URL": "https://www.iais.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerIntelligenteAnalyse-undInformationssysteme.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerIntelligenteAnalyse-undInformationssysteme.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -801,7 +854,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Keramische Technologien und Systeme",
         "URL": "https://www.ikts.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerKeramischeTechnologienundSysteme.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerKeramischeTechnologienundSysteme.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -814,9 +868,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Fraunhofer-Institut für Kommunikation",
-        "URL": " Informationsverarbeitung und Ergonomie",
-        "Subsite": "https://www.fkie.fraunhofer.de/"
+        "Name": "Fraunhofer-Institut für Kommunikation, Informationsverarbeitung und Ergonomie",
+        "URL": "https://www.fkie.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerKommunikation&InformationsverarbeitungundErgonomie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -831,7 +886,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Kurzzeitdynamik",
         "URL": "http://www.emi.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerKurzzeitdynamik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerKurzzeitdynamik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -846,7 +902,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Lasertechnik",
         "URL": "http://www.ilt.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerLasertechnik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerLasertechnik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -861,7 +918,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Materialfluss und Logistik",
         "URL": "http://www.iml.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerMaterialflussundLogistik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerMaterialflussundLogistik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -876,7 +934,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Mikroelektronische Schaltungen und Systeme",
         "URL": "https://www.ims.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerMikroelektronischeSchaltungenundSysteme.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerMikroelektronischeSchaltungenundSysteme.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -891,7 +950,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Mikrostruktur von Werkstoffen und Systemen",
         "URL": "http://www.imws.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerMikrostrukturvonWerkstoffenundSystemen.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerMikrostrukturvonWerkstoffenundSystemen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -906,7 +966,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Molekularbiologie und Angewandte Oekologie",
         "URL": "http://www.ime.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerMikrotechnikundMikrosysteme.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerMolekularbiologieundAngewandteOekologie.html",
+        "": "institution/Fraunhofer-InstitutfuerMikrotechnikundMikrosysteme.html"
       },
       "geometry": {
         "type": "Point",
@@ -921,7 +982,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Nachrichtentechnik",
         "URL": "https://www.hhi.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerMolekularbiologieundAngewandteOekologie.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerNachrichtentechnik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -936,7 +998,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Naturwissenschaftlich-Technische Trendanalysen",
         "URL": "https://www.int.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerNachrichtentechnik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerNaturwissenschaftlich-TechnischeTrendanalysen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -951,7 +1014,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Offene Kommunikationssysteme",
         "URL": "https://www.fokus.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerNaturwissenschaftlich-TechnischeTrendanalysen.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerOffeneKommunikationssysteme.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -964,9 +1028,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Fraunhofer-Institut für Optronik",
-        "URL": " Systemtechnik und Bildauswertung",
-        "Subsite": "http://www.iosb.fraunhofer.de/"
+        "Name": "Fraunhofer-Institut für Optronik,  Systemtechnik und Bildauswertung ",
+        "URL": "http://www.iosb.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerOptronik&SystemtechnikundBildauswertung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -979,9 +1044,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Fraunhofer-Institut für Organische Elektronik",
-        "URL": " Elektronenstrahl- und Plasmatechnik",
-        "Subsite": "https://www.fep.fraunhofer.de/"
+        "Name": "Fraunhofer-Institut für Organische Elektronik,  Elektronenstrahl- und Plasmatechnik ",
+        "URL": "https://www.fep.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerOrganischeElektronik&Elektronenstrahl-undPlasmatechnik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -996,7 +1062,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Photonische Mikrosysteme",
         "URL": "http://www.ipms.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerOrganischeElektronik&Elektronenstrahl-undPlasmatechnik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerPhotonischeMikrosysteme.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1011,7 +1078,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Physikalische Messtechnik",
         "URL": "http://www.ipm.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerPhotonischeMikrosysteme.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerPhysikalischeMesstechnik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1026,7 +1094,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Produktionsanlagen und Konstruktionstechnik",
         "URL": "http://www.ipk.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerPhysikalischeMesstechnik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerProduktionsanlagenundKonstruktionstechnik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1041,7 +1110,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Produktionstechnik und Automatisierung",
         "URL": "https://www.ipa.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerProduktionsanlagenundKonstruktionstechnik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerProduktionstechnikundAutomatisierung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1056,7 +1126,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Produktionstechnologie",
         "URL": "http://www.ipt.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerProduktionstechnikundAutomatisierung.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerProduktionstechnologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1071,7 +1142,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Schicht- und Oberflächentechnik",
         "URL": "https://www.ist.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerProduktionstechnologie.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerSchicht-undOberflaechentechnik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1086,7 +1158,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Sichere Informationstechnologie",
         "URL": "https://www.sit.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerSchicht-undOberflaechentechnik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerSichereInformationstechnologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1101,7 +1174,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Silicatforschung",
         "URL": "https://www.isc.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerSichereInformationstechnologie.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerSilicatforschung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1116,7 +1190,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Siliziumtechnologie",
         "URL": "http://www.isit.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerSilicatforschung.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerSiliziumtechnologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1131,7 +1206,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Software- und Systemtechnik",
         "URL": "https://www.isst.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerSiliziumtechnologie.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerSoftware-undSystemtechnik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1146,7 +1222,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Solare Energiesysteme",
         "URL": "https://www.ise.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerSoftware-undSystemtechnik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerSolareEnergiesysteme.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1161,7 +1238,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für System- und Innovationsforschung",
         "URL": "http://www.isi.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerSolareEnergiesysteme.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerSystem-undInnovationsforschung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1176,7 +1254,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Techno- und Wirtschaftsmathematik",
         "URL": "http://www.itwm.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerSystem-undInnovationsforschung.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerTechno-undWirtschaftsmathematik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1191,7 +1270,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Toxikologie und Experimentelle Medizin",
         "URL": "https://www.item.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerTechno-undWirtschaftsmathematik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerToxikologieundExperimentelleMedizin.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1204,9 +1284,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Fraunhofer-Institut für Umwelt-",
-        "URL": " Sicherheits- und Energietechnik",
-        "Subsite": "https://www.umsicht.fraunhofer.de/"
+        "Name": "Fraunhofer-Institut für Umwelt-,  Sicherheits- und Energietechnik ",
+        "URL": "https://www.umsicht.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerUmwelt-&Sicherheits-undEnergietechnik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1221,7 +1302,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Verfahrenstechnik und Verpackung",
         "URL": "https://www.ivv.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerUmwelt-&Sicherheits-undEnergietechnik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerVerfahrenstechnikundVerpackung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1236,7 +1318,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Verkehrs- und Infrastruktursysteme",
         "URL": "http://www.ivi.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerVerfahrenstechnikundVerpackung.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerVerkehrs-undInfrastruktursysteme.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1251,7 +1334,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Werkstoff- und Strahltechnik",
         "URL": "http://www.iws.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerVerkehrs-undInfrastruktursysteme.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerWerkstoff-undStrahltechnik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1266,7 +1350,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Werkstoffmechanik",
         "URL": "http://www.iwm.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerWerkstoffmechanik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerWerkstoffmechanik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1281,7 +1366,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Werkzeugmaschinen und Umformtechnik",
         "URL": "https://www.iwu.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerWerkstoff-undStrahltechnik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerWerkzeugmaschinenundUmformtechnik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1296,7 +1382,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Windenergie und Energiesystemtechnik",
         "URL": "http://www.iwes.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerWerkzeugmaschinenundUmformtechnik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerWindenergieundEnergiesystemtechnik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1311,7 +1398,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Zelltherapie und Immunologie",
         "URL": "http://www.izi.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerWindenergieundEnergiesystemtechnik.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerZelltherapieundImmunologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1326,7 +1414,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Zerstörungsfreie Prüfverfahren",
         "URL": "http://www.izfp.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerZelltherapieundImmunologie.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerZerstoerungsfreiePruefverfahren.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1341,7 +1430,8 @@
       "properties": {
         "Name": "Fraunhofer-Institut für Zuverlässigkeit und Mikrointegration",
         "URL": "http://www.izm.fraunhofer.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerZerstoerungsfreiePruefverfahren.html"
+        "Subsite": "institution/Fraunhofer-InstitutfuerZuverlaessigkeitundMikrointegration.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1356,7 +1446,8 @@
       "properties": {
         "Name": "Freie Universität Berlin (FUB)",
         "URL": "https://www.fu-berlin.de/",
-        "Subsite": "institution/Fraunhofer-InstitutfuerZuverlaessigkeitundMikrointegration.html"
+        "Subsite": "institution/FreieUniversitaetBerlin(FUB).html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1371,7 +1462,8 @@
       "properties": {
         "Name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
         "URL": "https://fau.de/",
-        "Subsite": "institution/FreieUniversitaetBerlin(FUB).html"
+        "Subsite": "institution/Friedrich-Alexander-UniversitaetErlangen-Nuernberg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1386,7 +1478,8 @@
       "properties": {
         "Name": "Friedrich-Miescher-Laboratorium",
         "URL": "http://www.fml.mpg.de/",
-        "Subsite": "institution/Friedrich-Alexander-UniversitaetErlangen-Nuernberg.html"
+        "Subsite": "institution/Friedrich-Miescher-Laboratorium.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1401,7 +1494,8 @@
       "properties": {
         "Name": "Friedrich-Schiller-Universität Jena",
         "URL": "https://www.uni-jena.de/",
-        "Subsite": "institution/Friedrich-Miescher-Laboratorium.html"
+        "Subsite": "institution/Friedrich-Schiller-UniversitaetJena.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1416,7 +1510,8 @@
       "properties": {
         "Name": "Fritz-Haber-Institut der Max-Planck-Gesellschaft",
         "URL": "http://www.fhi-berlin.mpg.de/?lang=g",
-        "Subsite": "institution/Friedrich-Schiller-UniversitaetJena.html"
+        "Subsite": "institution/Fritz-Haber-InstitutderMax-Planck-Gesellschaft.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1526,8 @@
       "properties": {
         "Name": "Georg-August-Universität Göttingen",
         "URL": "http://www.uni-goettingen.de/",
-        "Subsite": "institution/Fritz-Haber-InstitutderMax-Planck-Gesellschaft.html"
+        "Subsite": "institution/Georg-August-UniversitaetGoettingen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1446,7 +1542,8 @@
       "properties": {
         "Name": "Gottfried Wilhelm Leibniz Universität Hannover",
         "URL": "http://www.uni-hannover.de/",
-        "Subsite": "institution/Georg-August-UniversitaetGoettingen.html"
+        "Subsite": "institution/GottfriedWilhelmLeibnizUniversitaetHannover.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1461,7 +1558,8 @@
       "properties": {
         "Name": "HafenCity Universität Hamburg",
         "URL": "http://www.hcu-hamburg.de/",
-        "Subsite": "institution/GottfriedWilhelmLeibnizUniversitaetHannover.html"
+        "Subsite": "institution/HafenCityUniversitaetHamburg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1476,7 +1574,8 @@
       "properties": {
         "Name": "Handelshochschule Leipzig",
         "URL": "http://www.hhl.de/",
-        "Subsite": "institution/HafenCityUniversitaetHamburg.html"
+        "Subsite": "institution/HandelshochschuleLeipzig.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1491,7 +1590,8 @@
       "properties": {
         "Name": "Heinrich-Heine-Universität Düsseldorf",
         "URL": "http://www.hhu.de/",
-        "Subsite": "institution/HandelshochschuleLeipzig.html"
+        "Subsite": "institution/Heinrich-Heine-UniversitaetDuesseldorf.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1506,22 +1606,8 @@
       "properties": {
         "Name": "Helmut-Schmidt-Universität",
         "URL": "https://www.hsu-hh.de/",
-        "Subsite": "institution/Heinrich-Heine-UniversitaetDuesseldorf.html"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.10719,
-          53.56785
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Helmut-Schmidt-Universität",
-        "URL": "https://www.hsu-hh.de/",
-        "Subsite": "institution/Helmut-Schmidt-Universitaet.html"
+        "Subsite": "institution/Helmut-Schmidt-Universitaet.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1536,7 +1622,8 @@
       "properties": {
         "Name": "Hertie School of Governance (HSOG)",
         "URL": "http://www.hertie-school.org/",
-        "Subsite": "institution/HertieSchoolofGovernance(HSOG).html"
+        "Subsite": "institution/HertieSchoolofGovernance(HSOG).html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1551,7 +1638,8 @@
       "properties": {
         "Name": "Hochschule für Bildende Künste Braunschweig",
         "URL": "http://www.hbk-bs.de/",
-        "Subsite": "institution/HochschulefuerBildendeKuensteBraunschweig.html"
+        "Subsite": "institution/HochschulefuerBildendeKuensteBraunschweig.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1566,7 +1654,8 @@
       "properties": {
         "Name": "Hochschule für Bildende Künste Dresden",
         "URL": "http://www.hfbk-dresden.de/",
-        "Subsite": "institution/HochschulefuerBildendeKuensteDresden.html"
+        "Subsite": "institution/HochschulefuerBildendeKuensteDresden.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1581,7 +1670,8 @@
       "properties": {
         "Name": "Hochschule für bildende Künste Hamburg",
         "URL": "http://www.hfbk-hamburg.de/",
-        "Subsite": "institution/HochschulefuerbildendeKuensteHamburg.html"
+        "Subsite": "institution/HochschulefuerbildendeKuensteHamburg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1596,7 +1686,8 @@
       "properties": {
         "Name": "Hochschule für Grafik und Buchkunst Leipzig",
         "URL": "http://www.hgb-leipzig.de",
-        "Subsite": "institution/HochschulefuerGrafikundBuchkunstLeipzig.html"
+        "Subsite": "institution/HochschulefuerGrafikundBuchkunstLeipzig.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1611,7 +1702,8 @@
       "properties": {
         "Name": "Hochschule für Jüdische Studien",
         "URL": "http://www.hfjs.eu/",
-        "Subsite": "institution/HochschulefuerJuedischeStudien.html"
+        "Subsite": "institution/HochschulefuerJuedischeStudien.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1626,7 +1718,8 @@
       "properties": {
         "Name": "Hochschule für Musik Carl Maria von Weber Dresden",
         "URL": "http://www.hfmdd.de",
-        "Subsite": "institution/HochschulefuerMusikCarlMariavonWeberDresden.html"
+        "Subsite": "institution/HochschulefuerMusikCarlMariavonWeberDresden.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1641,7 +1734,8 @@
       "properties": {
         "Name": "Hochschule für Musik Detmold",
         "URL": "http://www.hfm-detmold.de/",
-        "Subsite": "institution/HochschulefuerMusikDetmold.html"
+        "Subsite": "institution/HochschulefuerMusikDetmold.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1656,7 +1750,8 @@
       "properties": {
         "Name": "Hochschule für Musik Franz Liszt Weimar",
         "URL": "http://www.hfm-weimar.de/",
-        "Subsite": "institution/HochschulefuerMusikFranzLisztWeimar.html"
+        "Subsite": "institution/HochschulefuerMusikFranzLisztWeimar.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1671,7 +1766,8 @@
       "properties": {
         "Name": "Hochschule für Musik Freiburg",
         "URL": "http://www.mh-freiburg.de/",
-        "Subsite": "institution/HochschulefuerMusikFreiburg.html"
+        "Subsite": "institution/HochschulefuerMusikFreiburg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1686,7 +1782,8 @@
       "properties": {
         "Name": "Hochschule für Musik Karlsruhe",
         "URL": "http://www.hfm-karlsruhe.de/",
-        "Subsite": "institution/HochschulefuerMusikKarlsruhe.html"
+        "Subsite": "institution/HochschulefuerMusikKarlsruhe.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1701,7 +1798,8 @@
       "properties": {
         "Name": "Hochschule für Musik Saar",
         "URL": "http://www.hfm.saarland.de",
-        "Subsite": "institution/HochschulefuerMusikSaar.html"
+        "Subsite": "institution/HochschulefuerMusikSaar.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1716,7 +1814,8 @@
       "properties": {
         "Name": "Hochschule für Musik Trossingen",
         "URL": "http://www.mh-trossingen.de//",
-        "Subsite": "institution/HochschulefuerMusik&TheaterundMedienHannover.html"
+        "Subsite": "institution/HochschulefuerMusikTrossingen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1731,7 +1830,8 @@
       "properties": {
         "Name": "Hochschule für Musik und Darstellende Kunst Frankfurt am Main",
         "URL": "http://www.hfmdk-frankfurt.info/",
-        "Subsite": "institution/HochschulefuerMusikTrossingen.html"
+        "Subsite": "institution/HochschulefuerMusikundDarstellendeKunstFrankfurtamMain.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1746,7 +1846,8 @@
       "properties": {
         "Name": "Hochschule für Musik und Darstellende Kunst Mannheim",
         "URL": "http://www.muho-mannheim.de",
-        "Subsite": "institution/HochschulefuerMusikundDarstellendeKunstFrankfurtamMain.html"
+        "Subsite": "institution/HochschulefuerMusikundDarstellendeKunstMannheim.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1761,7 +1862,8 @@
       "properties": {
         "Name": "Hochschule für Musik und Darstellende Kunst Stuttgart",
         "URL": "https://www.hmdk-stuttgart.de",
-        "Subsite": "institution/HochschulefuerMusikundDarstellendeKunstMannheim.html"
+        "Subsite": "institution/HochschulefuerMusikundDarstellendeKunstStuttgart.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1776,7 +1878,8 @@
       "properties": {
         "Name": "Hochschule für Musik und Tanz Köln",
         "URL": "https://www.hfmt-koeln.de/",
-        "Subsite": "institution/HochschulefuerMusikundDarstellendeKunstStuttgart.html"
+        "Subsite": "institution/HochschulefuerMusikundTanzKoeln.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1791,7 +1894,8 @@
       "properties": {
         "Name": "Hochschule für Musik und Theater „Felix Mendelssohn Bartholdy“ Leipzig",
         "URL": "http://www.hmt-leipzig.de/",
-        "Subsite": "institution/HochschulefuerMusikundTanzKoeln.html"
+        "Subsite": "institution/HochschulefuerMusikundTheater„FelixMendelssohnBartholdy“Leipzig.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1806,7 +1910,8 @@
       "properties": {
         "Name": "Hochschule für Musik und Theater Hamburg",
         "URL": "http://www.hfmt-hamburg.de",
-        "Subsite": "institution/HochschulefuerMusikundTheater„FelixMendelssohnBartholdy“Leipzig.html"
+        "Subsite": "institution/HochschulefuerMusikundTheaterHamburg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1821,7 +1926,8 @@
       "properties": {
         "Name": "Hochschule für Musik und Theater München",
         "URL": "http://website.musikhochschule-muenchen.de/de/",
-        "Subsite": "institution/HochschulefuerMusikundTheaterHamburg.html"
+        "Subsite": "institution/HochschulefuerMusikundTheaterMuenchen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1836,7 +1942,8 @@
       "properties": {
         "Name": "Hochschule für Musik und Theater Rostock",
         "URL": "http://www.hmt-rostock.de/",
-        "Subsite": "institution/HochschulefuerMusikundTheaterMuenchen.html"
+        "Subsite": "institution/HochschulefuerMusikundTheaterRostock.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1851,7 +1958,8 @@
       "properties": {
         "Name": "Hochschule für Musik Würzburg",
         "URL": "http://www.hfm-wuerzburg.de/",
-        "Subsite": "institution/HochschulefuerMusikundTheaterRostock.html"
+        "Subsite": "institution/HochschulefuerMusikWuerzburg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1864,9 +1972,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Hochschule für Musik",
-        "URL": " Theater und Medien Hannover",
-        "Subsite": "http://www.hmtm-hannover.de/"
+        "Name": "Hochschule für Musik,  Theater und Medien Hannover ",
+        "URL": "http://www.hmtm-hannover.de/",
+        "Subsite": "institution/HochschulefuerMusik&TheaterundMedienHannover.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1881,7 +1990,8 @@
       "properties": {
         "Name": "Hochschule für öffentliche Verwaltung Rheinland-Pfalz",
         "URL": "http://www.hoev-rlp.de/",
-        "Subsite": "institution/HochschulefueroeffentlicheVerwaltungRheinland-Pfalz.html"
+        "Subsite": "institution/HochschulefueroeffentlicheVerwaltungRheinland-Pfalz.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1896,7 +2006,8 @@
       "properties": {
         "Name": "Hochschule für Philosophie München",
         "URL": "http://www.hfph.de/",
-        "Subsite": "institution/HochschulefuerPhilosophieMuenchen.html"
+        "Subsite": "institution/HochschulefuerPhilosophieMuenchen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1911,7 +2022,8 @@
       "properties": {
         "Name": "Hochschule für Politik München",
         "URL": "http://www.hfp.tum.de/",
-        "Subsite": "institution/HochschulefuerPolitikMuenchen.html"
+        "Subsite": "institution/HochschulefuerPolitikMuenchen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1926,7 +2038,8 @@
       "properties": {
         "Name": "Hochschule Geisenheim",
         "URL": "http://www.hs-geisenheim.de/",
-        "Subsite": "institution/HochschuleGeisenheim.html"
+        "Subsite": "institution/HochschuleGeisenheim.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1941,7 +2054,8 @@
       "properties": {
         "Name": "Humboldt-Universität zu Berlin (HUB)",
         "URL": "https://www.hu-berlin.de/",
-        "Subsite": "institution/Humboldt-UniversitaetzuBerlin(HUB).html"
+        "Subsite": "institution/Humboldt-UniversitaetzuBerlin(HUB).html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1956,7 +2070,8 @@
       "properties": {
         "Name": "Jacobs University Bremen",
         "URL": "http://www.jacobs-university.de/",
-        "Subsite": "institution/JacobsUniversityBremen.html"
+        "Subsite": "institution/JacobsUniversityBremen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1971,7 +2086,8 @@
       "properties": {
         "Name": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
         "URL": "https://www.uni-frankfurt.de/",
-        "Subsite": "institution/JohannesGutenberg-UniversitaetMainz.html"
+        "Subsite": "institution/JohannWolfgangGoethe-UniversitaetFrankfurtamMain.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1986,7 +2102,8 @@
       "properties": {
         "Name": "Johannes Gutenberg-Universität Mainz",
         "URL": "https://www.uni-mainz.de/",
-        "Subsite": "institution/JohannWolfgangGoethe-UniversitaetFrankfurtamMain.html"
+        "Subsite": "institution/JohannesGutenberg-UniversitaetMainz.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2001,7 +2118,8 @@
       "properties": {
         "Name": "Julius-Maximilians-Universität Würzburg",
         "URL": "http://www.uni-wuerzburg.de/",
-        "Subsite": "institution/Julius-Maximilians-UniversitaetWuerzburg.html"
+        "Subsite": "institution/Julius-Maximilians-UniversitaetWuerzburg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2016,7 +2134,8 @@
       "properties": {
         "Name": "Justus-Liebig-Universität Gießen",
         "URL": "http://www.uni-giessen.de/",
-        "Subsite": "institution/Justus-Liebig-UniversitaetGiessen.html"
+        "Subsite": "institution/Justus-Liebig-UniversitaetGiessen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2031,7 +2150,8 @@
       "properties": {
         "Name": "Karlsruher Institut für Technologie",
         "URL": "https://www.kit.edu/",
-        "Subsite": "institution/KarlsruherInstitutfuerTechnologie.html"
+        "Subsite": "institution/KarlsruherInstitutfuerTechnologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2046,7 +2166,8 @@
       "properties": {
         "Name": "Katholische Universität Eichstätt-Ingolstadt",
         "URL": "http://www.ku.de/",
-        "Subsite": "institution/KatholischeUniversitaetEichstaett-Ingolstadt.html"
+        "Subsite": "institution/KatholischeUniversitaetEichstaett-Ingolstadt.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2061,7 +2182,8 @@
       "properties": {
         "Name": "Kirchliche Hochschule Wuppertal/Bethel",
         "URL": "http://www.kiho-wb.de/",
-        "Subsite": "institution/KirchlicheHochschuleWuppertal-Bethel.html"
+        "Subsite": "institution/KirchlicheHochschuleWuppertal-Bethel.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2076,7 +2198,8 @@
       "properties": {
         "Name": "Kunstakademie Düsseldorf",
         "URL": "https://www.kunstakademie-duesseldorf.de/",
-        "Subsite": "institution/KunstakademieDuesseldorf.html"
+        "Subsite": "institution/KunstakademieDuesseldorf.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2091,7 +2214,8 @@
       "properties": {
         "Name": "Kunstakademie Münster",
         "URL": "http://www.kunstakademie-muenster.de/",
-        "Subsite": "institution/KunstakademieMuenster.html"
+        "Subsite": "institution/KunstakademieMuenster.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2106,7 +2230,8 @@
       "properties": {
         "Name": "Kunsthistorisches Institut in Florenz – Max-Planck-Institut",
         "URL": "http://www.khi.fi.it/",
-        "Subsite": "institution/KunsthistorischesInstitutinFlorenz–Max-Planck-Institut.html"
+        "Subsite": "institution/KunsthistorischesInstitutinFlorenz–Max-Planck-Institut.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2121,7 +2246,8 @@
       "properties": {
         "Name": "Kunsthochschule für Medien Köln",
         "URL": "http://www.khm.de/",
-        "Subsite": "institution/KunsthochschulefuerMedienKoeln.html"
+        "Subsite": "institution/KunsthochschulefuerMedienKoeln.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2136,7 +2262,8 @@
       "properties": {
         "Name": "Leuphana Universität Lüneburg",
         "URL": "http://www.leuphana.de/",
-        "Subsite": "institution/LeuphanaUniversitaetLueneburg.html"
+        "Subsite": "institution/LeuphanaUniversitaetLueneburg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2151,7 +2278,8 @@
       "properties": {
         "Name": "Ludwig-Maximilians-Universität München",
         "URL": "https://www.uni-muenchen.de/",
-        "Subsite": "institution/Ludwig-Maximilians-UniversitaetMuenchen.html"
+        "Subsite": "institution/Ludwig-Maximilians-UniversitaetMuenchen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2166,7 +2294,8 @@
       "properties": {
         "Name": "Martin-Luther-Universität Halle-Wittenberg",
         "URL": "http://www.uni-halle.de/",
-        "Subsite": "institution/Martin-Luther-UniversitaetHalle-Wittenberg.html"
+        "Subsite": "institution/Martin-Luther-UniversitaetHalle-Wittenberg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2181,7 +2310,8 @@
       "properties": {
         "Name": "Max Planck Florida Institute for Neuroscience",
         "URL": "https://www.maxplanckflorida.org/",
-        "Subsite": "institution/MaxPlanckFloridaInstituteforNeuroscience.html"
+        "Subsite": "institution/MaxPlanckFloridaInstituteforNeuroscience.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2196,7 +2326,8 @@
       "properties": {
         "Name": "Max-Planck-Forschungsstelle für Neurogenetik",
         "URL": "http://www.gen.mpg.de/",
-        "Subsite": "institution/Max-Planck-ForschungsstellefuerNeurogenetik.html"
+        "Subsite": "institution/Max-Planck-ForschungsstellefuerNeurogenetik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2211,7 +2342,8 @@
       "properties": {
         "Name": "Medizinische Hochschule Brandenburg Theodor Fontane",
         "URL": "http://www.mhb-fontane.de/",
-        "Subsite": "institution/MedizinischeHochschuleBrandenburgTheodorFontane.html"
+        "Subsite": "institution/MedizinischeHochschuleBrandenburgTheodorFontane.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2226,7 +2358,8 @@
       "properties": {
         "Name": "Medizinische Hochschule Hannover",
         "URL": "http://www.mh-hannover.de/",
-        "Subsite": "institution/MedizinischeHochschuleHannover.html"
+        "Subsite": "institution/MedizinischeHochschuleHannover.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2241,7 +2374,8 @@
       "properties": {
         "Name": "MPI für Astronomie",
         "URL": "http://www.mpia.de/",
-        "Subsite": "institution/MPIfuerAstronomie.html"
+        "Subsite": "institution/MPIfuerAstronomie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2256,7 +2390,8 @@
       "properties": {
         "Name": "MPI für Astrophysik",
         "URL": "http://www.mpa-garching.mpg.de",
-        "Subsite": "institution/MPIfuerAstrophysik.html"
+        "Subsite": "institution/MPIfuerAstrophysik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2271,7 +2406,8 @@
       "properties": {
         "Name": "MPI für ausländisches öffentliches Recht und Völkerrecht",
         "URL": "http://www.mpil.de/",
-        "Subsite": "institution/MPIfuerauslaendischesoeffentlichesRechtundVoelkerrecht.html"
+        "Subsite": "institution/MPIfuerauslaendischesoeffentlichesRechtundVoelkerrecht.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2286,7 +2422,8 @@
       "properties": {
         "Name": "MPI für ausländisches und internationales Privatrecht",
         "URL": "http://www.mpipriv.de/",
-        "Subsite": "institution/MPIfuerauslaendischesundinternationalesPrivatrecht.html"
+        "Subsite": "institution/MPIfuerauslaendischesundinternationalesPrivatrecht.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2301,7 +2438,8 @@
       "properties": {
         "Name": "MPI für ausländisches und internationales Strafrecht",
         "URL": "http://www.mpicc.de/",
-        "Subsite": "institution/MPIfuerauslaendischesundinternationalesStrafrecht.html"
+        "Subsite": "institution/MPIfuerauslaendischesundinternationalesStrafrecht.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2316,7 +2454,8 @@
       "properties": {
         "Name": "MPI für Bildungsforschung",
         "URL": "http://www.mpib-berlin.mpg.de",
-        "Subsite": "institution/MPIfuerBildungsforschung.html"
+        "Subsite": "institution/MPIfuerBildungsforschung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2331,7 +2470,8 @@
       "properties": {
         "Name": "MPI für Biochemie",
         "URL": "http://www.biochem.mpg.de/",
-        "Subsite": "institution/MPIfuerBiochemie.html"
+        "Subsite": "institution/MPIfuerBiochemie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2346,7 +2486,8 @@
       "properties": {
         "Name": "MPI für Biogeochemie",
         "URL": "http://www.bgc-jena.mpg.de/",
-        "Subsite": "institution/MPIfuerBiogeochemie.html"
+        "Subsite": "institution/MPIfuerBiogeochemie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2361,7 +2502,8 @@
       "properties": {
         "Name": "MPI für Biologie des Alterns",
         "URL": "http://www.age.mpg.de/",
-        "Subsite": "institution/MPIfuerBiologiedesAlterns.html"
+        "Subsite": "institution/MPIfuerBiologiedesAlterns.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2376,7 +2518,8 @@
       "properties": {
         "Name": "MPI für biologische Kybernetik",
         "URL": "http://www.kyb.tuebingen.mpg.de/de/",
-        "Subsite": "institution/MPIfuerbiologischeKybernetik.html"
+        "Subsite": "institution/MPIfuerbiologischeKybernetik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2391,7 +2534,8 @@
       "properties": {
         "Name": "MPI für Biophysik",
         "URL": "http://www.biophys.mpg.de/en.html",
-        "Subsite": "institution/MPIfuerBiophysik.html"
+        "Subsite": "institution/MPIfuerBiophysik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2406,7 +2550,8 @@
       "properties": {
         "Name": "MPI für biophysikalische Chemie",
         "URL": "http://www.mpibpc.mpg.de/",
-        "Subsite": "institution/MPIfuerbiophysikalischeChemie.html"
+        "Subsite": "institution/MPIfuerbiophysikalischeChemie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2421,7 +2566,8 @@
       "properties": {
         "Name": "MPI für Chemie",
         "URL": "http://www.mpic.de/",
-        "Subsite": "institution/MPIfuerChemie.html"
+        "Subsite": "institution/MPIfuerChemie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2436,7 +2582,8 @@
       "properties": {
         "Name": "MPI für Chemische Energiekonversion",
         "URL": "http://cec.mpg.de/home.html",
-        "Subsite": "institution/MPIfuerChemischeEnergiekonversion.html"
+        "Subsite": "institution/MPIfuerChemischeEnergiekonversion.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2451,7 +2598,8 @@
       "properties": {
         "Name": "MPI für chemische Ökologie",
         "URL": "http://www.ice.mpg.de",
-        "Subsite": "institution/MPIfuerchemischeÖkologie.html"
+        "Subsite": "institution/MPIfuerchemischeÖkologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2466,7 +2614,8 @@
       "properties": {
         "Name": "MPI für Chemische Physik fester Stoffe",
         "URL": "http://www.cpfs.mpg.de/",
-        "Subsite": "institution/MPIfuerChemischePhysikfesterStoffe.html"
+        "Subsite": "institution/MPIfuerChemischePhysikfesterStoffe.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2481,7 +2630,8 @@
       "properties": {
         "Name": "MPI für demografische Forschung",
         "URL": "http://www.demogr.mpg.de/d_default.htm",
-        "Subsite": "institution/MPIfuerdemografischeForschung.html"
+        "Subsite": "institution/MPIfuerdemografischeForschung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2496,7 +2646,8 @@
       "properties": {
         "Name": "MPI für die Physik des Lichts",
         "URL": "http://www.mpl.mpg.de/de/institut/das-institut.html",
-        "Subsite": "institution/MPIfuerdiePhysikdesLichts.html"
+        "Subsite": "institution/MPIfuerdiePhysikdesLichts.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2511,7 +2662,8 @@
       "properties": {
         "Name": "MPI für Dynamik komplexer technischer Systeme",
         "URL": "http://www.mpi-magdeburg.mpg.de/",
-        "Subsite": "institution/MPIfuerDynamikkomplexertechnischerSysteme.html"
+        "Subsite": "institution/MPIfuerDynamikkomplexertechnischerSysteme.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2526,7 +2678,8 @@
       "properties": {
         "Name": "MPI für Dynamik und Selbstorganisation",
         "URL": "http://www.ds.mpg.de/",
-        "Subsite": "institution/MPIfuerDynamikundSelbstorganisation.html"
+        "Subsite": "institution/MPIfuerDynamikundSelbstorganisation.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2541,7 +2694,8 @@
       "properties": {
         "Name": "MPI für Eisenforschung GmbH",
         "URL": "http://www.mpie.de/",
-        "Subsite": "institution/MPIfuerEisenforschungGmbH.html"
+        "Subsite": "institution/MPIfuerEisenforschungGmbH.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2556,7 +2710,8 @@
       "properties": {
         "Name": "MPI für empirische Ästhetik",
         "URL": "http://www.aesthetics.mpg.de/",
-        "Subsite": "institution/MPIfuerempirischeÄsthetik.html"
+        "Subsite": "institution/MPIfuerempirischeÄsthetik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2571,7 +2726,8 @@
       "properties": {
         "Name": "MPI für Entwicklungsbiologie",
         "URL": "http://www.eb.tuebingen.mpg.de/",
-        "Subsite": "institution/MPIfuerEntwicklungsbiologie.html"
+        "Subsite": "institution/MPIfuerEntwicklungsbiologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2586,7 +2742,8 @@
       "properties": {
         "Name": "MPI für ethnologische Forschung",
         "URL": "http://www.eth.mpg.de/",
-        "Subsite": "institution/MPIfuerethnologischeForschung.html"
+        "Subsite": "institution/MPIfuerethnologischeForschung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2601,7 +2758,8 @@
       "properties": {
         "Name": "MPI für europäische Rechtsgeschichte",
         "URL": "http://www.rg.mpg.de",
-        "Subsite": "institution/MPIfuereuropaeischeRechtsgeschichte.html"
+        "Subsite": "institution/MPIfuereuropaeischeRechtsgeschichte.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2616,7 +2774,8 @@
       "properties": {
         "Name": "MPI für evolutionäre Anthropologie",
         "URL": "http://www.eva.mpg.de/german/index.html",
-        "Subsite": "institution/MPIfuerevolutionaereAnthropologie.html"
+        "Subsite": "institution/MPIfuerevolutionaereAnthropologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2631,7 +2790,8 @@
       "properties": {
         "Name": "MPI für Evolutionsbiologie",
         "URL": "http://www.evolbio.mpg.de/",
-        "Subsite": "institution/MPIfuerEvolutionsbiologie.html"
+        "Subsite": "institution/MPIfuerEvolutionsbiologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2646,7 +2806,8 @@
       "properties": {
         "Name": "MPI für experimentelle Medizin",
         "URL": "http://www.em.mpg.de/",
-        "Subsite": "institution/MPIfuerexperimentelleMedizin.html"
+        "Subsite": "institution/MPIfuerexperimentelleMedizin.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2661,7 +2822,8 @@
       "properties": {
         "Name": "MPI für extraterrestrische Physik",
         "URL": "http://www.mpe.mpg.de/",
-        "Subsite": "institution/MPIfuerextraterrestrischePhysik.html"
+        "Subsite": "institution/MPIfuerextraterrestrischePhysik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2676,7 +2838,8 @@
       "properties": {
         "Name": "MPI für Festkörperforschung",
         "URL": "http://www.fkf.mpg.de/",
-        "Subsite": "institution/MPIfuerFestkoerperforschung.html"
+        "Subsite": "institution/MPIfuerFestkoerperforschung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2691,7 +2854,8 @@
       "properties": {
         "Name": "MPI für Gesellschaftsforschung",
         "URL": "http://www.mpifg.de/",
-        "Subsite": "institution/MPIfuerGesellschaftsforschung.html"
+        "Subsite": "institution/MPIfuerGesellschaftsforschung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2706,7 +2870,8 @@
       "properties": {
         "Name": "MPI für Gravitationsphysik",
         "URL": "http://www.aei.mpg.de/",
-        "Subsite": "institution/MPIfuerGravitationsphysik.html"
+        "Subsite": "institution/MPIfuerGravitationsphysik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2721,7 +2886,8 @@
       "properties": {
         "Name": "MPI für Herz- und Lungenforschung",
         "URL": "http://www.mpi-hlr.de/",
-        "Subsite": "institution/MPIfuerHerz-undLungenforschung.html"
+        "Subsite": "institution/MPIfuerHerz-undLungenforschung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2736,7 +2902,8 @@
       "properties": {
         "Name": "MPI für Hirnforschung",
         "URL": "http://www.brain.mpg.de/",
-        "Subsite": "institution/MPIfuerHirnforschung.html"
+        "Subsite": "institution/MPIfuerHirnforschung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2751,7 +2918,8 @@
       "properties": {
         "Name": "MPI für Immunbiologie und Epigenetik",
         "URL": "http://www.ie-freiburg.mpg.de/",
-        "Subsite": "institution/MPIfuerImmunbiologieundEpigenetik.html"
+        "Subsite": "institution/MPIfuerImmunbiologieundEpigenetik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2766,7 +2934,8 @@
       "properties": {
         "Name": "MPI für Infektionsbiologie",
         "URL": "http://www.mpiib-berlin.mpg.de/",
-        "Subsite": "institution/MPIfuerInfektionsbiologie.html"
+        "Subsite": "institution/MPIfuerInfektionsbiologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2781,7 +2950,8 @@
       "properties": {
         "Name": "MPI für Informatik",
         "URL": "http://www.mpi-inf.mpg.de/",
-        "Subsite": "institution/MPIfuerInformatik.html"
+        "Subsite": "institution/MPIfuerInformatik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2796,7 +2966,8 @@
       "properties": {
         "Name": "MPI für Innovation und Wettbewerb",
         "URL": "http://www.ip.mpg.de/",
-        "Subsite": "institution/MPIfuerInnovationundWettbewerb.html"
+        "Subsite": "institution/MPIfuerInnovationundWettbewerb.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2811,7 +2982,8 @@
       "properties": {
         "Name": "MPI für Intelligente Systeme",
         "URL": "http://www.is.mpg.de/",
-        "Subsite": "institution/MPIfuerIntelligenteSysteme.html"
+        "Subsite": "institution/MPIfuerIntelligenteSysteme.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2826,7 +2998,8 @@
       "properties": {
         "Name": "MPI für Kernphysik",
         "URL": "http://www.mpi-hd.mpg.de/",
-        "Subsite": "institution/MPIfuerKernphysik.html"
+        "Subsite": "institution/MPIfuerKernphysik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2841,7 +3014,8 @@
       "properties": {
         "Name": "MPI für Kognitions- und Neurowissenschaften",
         "URL": "http://www.cbs.mpg.de/",
-        "Subsite": "institution/MPIfuerKognitions-undNeurowissenschaften.html"
+        "Subsite": "institution/MPIfuerKognitions-undNeurowissenschaften.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2856,7 +3030,8 @@
       "properties": {
         "Name": "MPI für Kohlenforschung",
         "URL": "http://www.kofo.mpg.de/",
-        "Subsite": "institution/MPIfuerKohlenforschung.html"
+        "Subsite": "institution/MPIfuerKohlenforschung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2871,7 +3046,8 @@
       "properties": {
         "Name": "MPI für Kolloid- und Grenzflächenforschung",
         "URL": "http://www.mpikg.mpg.de/",
-        "Subsite": "institution/MPIfuerKolloid-undGrenzflaechenforschung.html"
+        "Subsite": "institution/MPIfuerKolloid-undGrenzflaechenforschung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2886,7 +3062,8 @@
       "properties": {
         "Name": "MPI für marine Mikrobiologie",
         "URL": "http://www.mpi-bremen.de",
-        "Subsite": "institution/MPIfuermarineMikrobiologie.html"
+        "Subsite": "institution/MPIfuermarineMikrobiologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2901,7 +3078,8 @@
       "properties": {
         "Name": "MPI für Mathematik",
         "URL": "http://www.mpim-bonn.mpg.de/",
-        "Subsite": "institution/MPIfuerMathematik.html"
+        "Subsite": "institution/MPIfuerMathematik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2916,7 +3094,8 @@
       "properties": {
         "Name": "MPI für Mathematik in den Naturwissenschaften",
         "URL": "http://www.mis.mpg.de/",
-        "Subsite": "institution/MPIfuerMathematikindenNaturwissenschaften.html"
+        "Subsite": "institution/MPIfuerMathematikindenNaturwissenschaften.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2931,7 +3110,8 @@
       "properties": {
         "Name": "MPI für medizinische Forschung",
         "URL": "http://www.mpimf-heidelberg.mpg.de/de",
-        "Subsite": "institution/MPIfuermedizinischeForschung.html"
+        "Subsite": "institution/MPIfuermedizinischeForschung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2946,7 +3126,8 @@
       "properties": {
         "Name": "MPI für Menschheitsgeschichte",
         "URL": "http://www.shh.mpg.de/",
-        "Subsite": "institution/MPIfuerMenschheitsgeschichte.html"
+        "Subsite": "institution/MPIfuerMenschheitsgeschichte.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2961,7 +3142,8 @@
       "properties": {
         "Name": "MPI für Meteorologie",
         "URL": "http://www.mpimet.mpg.de/",
-        "Subsite": "institution/MPIfuerMeteorologie.html"
+        "Subsite": "institution/MPIfuerMeteorologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2976,7 +3158,8 @@
       "properties": {
         "Name": "MPI für Mikrostrukturphysik",
         "URL": "http://www.mpi-halle.de/",
-        "Subsite": "institution/MPIfuerMikrostrukturphysik.html"
+        "Subsite": "institution/MPIfuerMikrostrukturphysik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -2991,7 +3174,8 @@
       "properties": {
         "Name": "MPI für molekulare Biomedizin",
         "URL": "http://www.mpi-muenster.mpg.de",
-        "Subsite": "institution/MPIfuermolekulareBiomedizin.html"
+        "Subsite": "institution/MPIfuermolekulareBiomedizin.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3006,7 +3190,8 @@
       "properties": {
         "Name": "MPI für molekulare Genetik",
         "URL": "http://www.molgen.mpg.de/",
-        "Subsite": "institution/MPIfuermolekulareGenetik.html"
+        "Subsite": "institution/MPIfuermolekulareGenetik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3021,7 +3206,8 @@
       "properties": {
         "Name": "MPI für molekulare Pflanzenphysiologie",
         "URL": "http://www.mpimp-golm.mpg.de/",
-        "Subsite": "institution/MPIfuermolekularePflanzenphysiologie.html"
+        "Subsite": "institution/MPIfuermolekularePflanzenphysiologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3036,7 +3222,8 @@
       "properties": {
         "Name": "MPI für molekulare Physiologie",
         "URL": "http://www.mpi-dortmund.mpg.de/",
-        "Subsite": "institution/MPIfuermolekularePhysiologie.html"
+        "Subsite": "institution/MPIfuermolekularePhysiologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3051,7 +3238,8 @@
       "properties": {
         "Name": "MPI für molekulare Zellbiologie und Genetik",
         "URL": "http://www.mpi-cbg.de/",
-        "Subsite": "institution/MPIfuermolekulareZellbiologieundGenetik.html"
+        "Subsite": "institution/MPIfuermolekulareZellbiologieundGenetik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3066,7 +3254,8 @@
       "properties": {
         "Name": "MPI für Neurobiologie",
         "URL": "http://www.neuro.mpg.de/index2.html",
-        "Subsite": "institution/MPIfuerNeurobiologie.html"
+        "Subsite": "institution/MPIfuerNeurobiologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3081,7 +3270,8 @@
       "properties": {
         "Name": "MPI für Ornithologie",
         "URL": "http://www.orn.mpg.de/",
-        "Subsite": "institution/MPIfuerOrnithologie.html"
+        "Subsite": "institution/MPIfuerOrnithologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3096,7 +3286,8 @@
       "properties": {
         "Name": "MPI für Pflanzenzüchtungsforschung",
         "URL": "http://www.mpipz.mpg.de/",
-        "Subsite": "institution/MPIfuerPflanzenzuechtungsforschung.html"
+        "Subsite": "institution/MPIfuerPflanzenzuechtungsforschung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3111,7 +3302,8 @@
       "properties": {
         "Name": "MPI für Physik",
         "URL": "http://www.mpp.mpg.de",
-        "Subsite": "institution/MPIfuerPhysik.html"
+        "Subsite": "institution/MPIfuerPhysik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3126,7 +3318,8 @@
       "properties": {
         "Name": "MPI für Physik komplexer Systeme",
         "URL": "http://www.mpipks-dresden.mpg.de/",
-        "Subsite": "institution/MPIfuerPhysikkomplexerSysteme.html"
+        "Subsite": "institution/MPIfuerPhysikkomplexerSysteme.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3141,7 +3334,8 @@
       "properties": {
         "Name": "MPI für Plasmaphysik",
         "URL": "http://www.ipp.mpg.de/",
-        "Subsite": "institution/MPIfuerPlasmaphysik.html"
+        "Subsite": "institution/MPIfuerPlasmaphysik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3156,7 +3350,8 @@
       "properties": {
         "Name": "MPI für Polymerforschung",
         "URL": "http://www.mpip-mainz.mpg.de/",
-        "Subsite": "institution/MPIfuerPolymerforschung.html"
+        "Subsite": "institution/MPIfuerPolymerforschung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3171,7 +3366,8 @@
       "properties": {
         "Name": "MPI für Psychiatrie",
         "URL": "http://www.psych.mpg.de/",
-        "Subsite": "institution/MPIfuerPsychiatrie.html"
+        "Subsite": "institution/MPIfuerPsychiatrie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3186,7 +3382,8 @@
       "properties": {
         "Name": "MPI für Psycholinguistik",
         "URL": "http://www.mpi.nl/",
-        "Subsite": "institution/MPIfuerPsycholinguistik.html"
+        "Subsite": "institution/MPIfuerPsycholinguistik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3201,7 +3398,8 @@
       "properties": {
         "Name": "MPI für Quantenoptik",
         "URL": "http://www.mpq.mpg.de/",
-        "Subsite": "institution/MPIfuerQuantenoptik.html"
+        "Subsite": "institution/MPIfuerQuantenoptik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3216,7 +3414,8 @@
       "properties": {
         "Name": "MPI für Radioastronomie",
         "URL": "https://www.mpifr-bonn.mpg.de/",
-        "Subsite": "institution/MPIfuerRadioastronomie.html"
+        "Subsite": "institution/MPIfuerRadioastronomie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3231,7 +3430,8 @@
       "properties": {
         "Name": "MPI für Softwaresysteme",
         "URL": "http://www.mpi-sws.org/",
-        "Subsite": "institution/MPIfuerSoftwaresysteme.html"
+        "Subsite": "institution/MPIfuerSoftwaresysteme.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3246,7 +3446,8 @@
       "properties": {
         "Name": "MPI für Sonnensystemforschung",
         "URL": "http://www.mps.mpg.de/",
-        "Subsite": "institution/MPIfuerSonnensystemforschung.html"
+        "Subsite": "institution/MPIfuerSonnensystemforschung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3261,7 +3462,8 @@
       "properties": {
         "Name": "MPI für Sozialrecht und Sozialpolitik",
         "URL": "http://www.mpisoc.mpg.de/",
-        "Subsite": "institution/MPIfuerSozialrechtundSozialpolitik.html"
+        "Subsite": "institution/MPIfuerSozialrechtundSozialpolitik.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3276,7 +3478,8 @@
       "properties": {
         "Name": "MPI für Steuerrecht und Öffentliche Finanzen",
         "URL": "http://www.tax.mpg.de",
-        "Subsite": "institution/MPIfuerSteuerrechtundÖffentlicheFinanzen.html"
+        "Subsite": "institution/MPIfuerSteuerrechtundÖffentlicheFinanzen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3291,7 +3494,8 @@
       "properties": {
         "Name": "MPI für Stoffwechselforschung",
         "URL": "http://www.sf.mpg.de/startseite",
-        "Subsite": "institution/MPIfuerStoffwechselforschung.html"
+        "Subsite": "institution/MPIfuerStoffwechselforschung.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3306,7 +3510,8 @@
       "properties": {
         "Name": "MPI für Struktur und Dynamik der Materie",
         "URL": "http://www.mpsd.mpg.de/",
-        "Subsite": "institution/MPIfuerStrukturundDynamikderMaterie.html"
+        "Subsite": "institution/MPIfuerStrukturundDynamikderMaterie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3321,7 +3526,8 @@
       "properties": {
         "Name": "MPI für terrestrische Mikrobiologie",
         "URL": "http://www.mpi-marburg.mpg.de/",
-        "Subsite": "institution/MPIfuerterrestrischeMikrobiologie.html"
+        "Subsite": "institution/MPIfuerterrestrischeMikrobiologie.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3336,7 +3542,8 @@
       "properties": {
         "Name": "MPI für Wissenschaftsgeschichte",
         "URL": "http://www.mpiwg-berlin.mpg.de/",
-        "Subsite": "institution/MPIfuerWissenschaftsgeschichte.html"
+        "Subsite": "institution/MPIfuerWissenschaftsgeschichte.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3349,9 +3556,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "MPI Luxembourg for International",
-        "URL": " European and Regulatory Procedural Law",
-        "Subsite": "https://www.mpi.lu/"
+        "Name": "MPI Luxembourg for International,  European and Regulatory Procedural Law ",
+        "URL": "https://www.mpi.lu/",
+        "Subsite": "institution/MPILuxembourgforInternational&EuropeanandRegulatoryProceduralLaw.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3366,7 +3574,8 @@
       "properties": {
         "Name": "MPI zur Erforschung multireligiöser und multiethnischer Gesellschaften",
         "URL": "http://www.mmg.mpg.de/de/startseite/",
-        "Subsite": "institution/MPIzurErforschungmultireligioeserundmultiethnischerGesellschaften.html"
+        "Subsite": "institution/MPIzurErforschungmultireligioeserundmultiethnischerGesellschaften.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3381,7 +3590,8 @@
       "properties": {
         "Name": "MPI zur Erforschung von Gemeinschaftsgütern",
         "URL": "https://www.coll.mpg.de/",
-        "Subsite": "institution/MPIzurErforschungvonGemeinschaftsguetern.html"
+        "Subsite": "institution/MPIzurErforschungvonGemeinschaftsguetern.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3396,7 +3606,8 @@
       "properties": {
         "Name": "Muthesius Kunsthochschule",
         "URL": "http://www.muthesius-kunsthochschule.de",
-        "Subsite": "institution/MuthesiusKunsthochschule.html"
+        "Subsite": "institution/MuthesiusKunsthochschule.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3411,7 +3622,8 @@
       "properties": {
         "Name": "Ostbayerische Technische Hochschule Regensburg",
         "URL": "http://www.oth-regensburg.de/",
-        "Subsite": "institution/OstbayerischeTechnischeHochschuleRegensburg.html"
+        "Subsite": "institution/OstbayerischeTechnischeHochschuleRegensburg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3426,7 +3638,8 @@
       "properties": {
         "Name": "Otto-Friedrich-Universität Bamberg",
         "URL": "https://www.uni-bamberg.de/",
-        "Subsite": "institution/Otto-Friedrich-UniversitaetBamberg.html"
+        "Subsite": "institution/Otto-Friedrich-UniversitaetBamberg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3441,7 +3654,8 @@
       "properties": {
         "Name": "Otto-von-Guericke-Universität Magdeburg",
         "URL": "https://www.ovgu.de/",
-        "Subsite": "institution/Otto-von-Guericke-UniversitaetMagdeburg.html"
+        "Subsite": "institution/Otto-von-Guericke-UniversitaetMagdeburg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3456,7 +3670,8 @@
       "properties": {
         "Name": "Pädagogische Hochschule Freiburg",
         "URL": "http://www.ph-freiburg.de/",
-        "Subsite": "institution/PaedagogischeHochschuleFreiburg.html"
+        "Subsite": "institution/PaedagogischeHochschuleFreiburg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3471,7 +3686,8 @@
       "properties": {
         "Name": "Pädagogische Hochschule Heidelberg",
         "URL": "http://www.ph-heidelberg.de/",
-        "Subsite": "institution/PaedagogischeHochschuleHeidelberg.html"
+        "Subsite": "institution/PaedagogischeHochschuleHeidelberg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3486,7 +3702,8 @@
       "properties": {
         "Name": "Pädagogische Hochschule Karlsruhe",
         "URL": "http://www.ph-karlsruhe.de",
-        "Subsite": "institution/PaedagogischeHochschuleKarlsruhe.html"
+        "Subsite": "institution/PaedagogischeHochschuleKarlsruhe.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3501,7 +3718,8 @@
       "properties": {
         "Name": "Pädagogische Hochschule Ludwigsburg",
         "URL": "http://www.ph-ludwigsburg.de/",
-        "Subsite": "institution/PaedagogischeHochschuleLudwigsburg.html"
+        "Subsite": "institution/PaedagogischeHochschuleLudwigsburg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3516,7 +3734,8 @@
       "properties": {
         "Name": "Pädagogische Hochschule Schwäbisch Gmünd",
         "URL": "http://www.ph-gmuend.de",
-        "Subsite": "institution/PaedagogischeHochschuleSchwaebischGmuend.html"
+        "Subsite": "institution/PaedagogischeHochschuleSchwaebischGmuend.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3531,7 +3750,8 @@
       "properties": {
         "Name": "Pädagogische Hochschule Weingarten",
         "URL": "http://www.ph-weingarten.de/",
-        "Subsite": "institution/PaedagogischeHochschuleWeingarten.html"
+        "Subsite": "institution/PaedagogischeHochschuleWeingarten.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3546,7 +3766,8 @@
       "properties": {
         "Name": "Palucca Hochschule für Tanz Dresden",
         "URL": "http://www.palucca.eu/",
-        "Subsite": "institution/PaluccaHochschulefuerTanzDresden.html"
+        "Subsite": "institution/PaluccaHochschulefuerTanzDresden.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3561,7 +3782,8 @@
       "properties": {
         "Name": "Philipps-Universität Marburg",
         "URL": "https://www.uni-marburg.de/",
-        "Subsite": "institution/Philipps-UniversitaetMarburg.html"
+        "Subsite": "institution/Philipps-UniversitaetMarburg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3576,7 +3798,8 @@
       "properties": {
         "Name": "Philosophisch-Theologische Hochschule Sankt Georgen",
         "URL": "http://www.sankt-georgen.de/",
-        "Subsite": "institution/Philosophisch-TheologischeHochschuleSanktGeorgen.html"
+        "Subsite": "institution/Philosophisch-TheologischeHochschuleSanktGeorgen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3591,7 +3814,8 @@
       "properties": {
         "Name": "Philosophisch-Theologische Hochschule SVD St. Augustin",
         "URL": "http://www.pth-augustin.eu",
-        "Subsite": "institution/Philosophisch-TheologischeHochschuleSVDSt.Augustin.html"
+        "Subsite": "institution/Philosophisch-TheologischeHochschuleSVDSt.Augustin.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3606,7 +3830,8 @@
       "properties": {
         "Name": "Philosophisch-Theologische Hochschule Vallendar",
         "URL": "http://www.pthv.de",
-        "Subsite": "institution/Philosophisch-TheologischeHochschuleVallendar.html"
+        "Subsite": "institution/Philosophisch-TheologischeHochschuleVallendar.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3621,7 +3846,8 @@
       "properties": {
         "Name": "Rheinische Friedrich-Wilhelms-Universität Bonn",
         "URL": "https://www.uni-bonn.de/",
-        "Subsite": "institution/RheinischeFriedrich-Wilhelms-UniversitaetBonn.html"
+        "Subsite": "institution/RheinischeFriedrich-Wilhelms-UniversitaetBonn.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3636,7 +3862,8 @@
       "properties": {
         "Name": "Robert Schumann Hochschule Düsseldorf",
         "URL": "http://www.rsh-duesseldorf.de/",
-        "Subsite": "institution/RobertSchumannHochschuleDuesseldorf.html"
+        "Subsite": "institution/RobertSchumannHochschuleDuesseldorf.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3651,7 +3878,8 @@
       "properties": {
         "Name": "Ruhr-Universität Bochum",
         "URL": "https://www.ruhr-uni-bochum.de/",
-        "Subsite": "institution/Ruhr-UniversitaetBochum.html"
+        "Subsite": "institution/Ruhr-UniversitaetBochum.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3666,7 +3894,8 @@
       "properties": {
         "Name": "Ruprecht-Karls-Universität Heidelberg",
         "URL": "https://www.uni-heidelberg.de/",
-        "Subsite": "institution/Ruprecht-Karls-UniversitaetHeidelberg.html"
+        "Subsite": "institution/Ruprecht-Karls-UniversitaetHeidelberg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3681,7 +3910,8 @@
       "properties": {
         "Name": "RWTH Aachen (RWTH)",
         "URL": "https://www.rwth-aachen.de/",
-        "Subsite": "institution/RWTHAachen(RWTH).html"
+        "Subsite": "institution/RWTHAachen(RWTH).html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3696,7 +3926,8 @@
       "properties": {
         "Name": "Staatliche Akademie der Bildenden Künste Stuttgart",
         "URL": "http://www.abk-stuttgart.de/",
-        "Subsite": "institution/StaatlicheAkademiederBildendenKuensteStuttgart.html"
+        "Subsite": "institution/StaatlicheAkademiederBildendenKuensteStuttgart.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3711,7 +3942,8 @@
       "properties": {
         "Name": "Staatliche Hochschule für Gestaltung Karlsruhe",
         "URL": "http://www.hfg-karlsruhe.de/",
-        "Subsite": "institution/StaatlicheHochschulefuerGestaltungKarlsruhe.html"
+        "Subsite": "institution/StaatlicheHochschulefuerGestaltungKarlsruhe.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3726,7 +3958,8 @@
       "properties": {
         "Name": "Steinbeis-Hochschule Berlin (SBHB)",
         "URL": "http://www.steinbeis-hochschule.de/",
-        "Subsite": "institution/Steinbeis-HochschuleBerlin(SBHB).html"
+        "Subsite": "institution/Steinbeis-HochschuleBerlin(SBHB).html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3741,7 +3974,8 @@
       "properties": {
         "Name": "Technische Universität Bergakademie Freiberg",
         "URL": "http://www.tu-freiberg.de/",
-        "Subsite": "institution/TechnischeUniversitaetBergakademieFreiberg.html"
+        "Subsite": "institution/TechnischeUniversitaetBergakademieFreiberg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3756,7 +3990,8 @@
       "properties": {
         "Name": "Technische Universität Berlin (TUB)",
         "URL": "https://www.tu-berlin.de/",
-        "Subsite": "institution/TechnischeUniversitaetBerlin(TUB).html"
+        "Subsite": "institution/TechnischeUniversitaetBerlin(TUB).html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3771,7 +4006,8 @@
       "properties": {
         "Name": "Technische Universität Braunschweig",
         "URL": "https://www.tu-braunschweig.de/",
-        "Subsite": "institution/TechnischeUniversitaetBraunschweig.html"
+        "Subsite": "institution/TechnischeUniversitaetBraunschweig.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3786,7 +4022,8 @@
       "properties": {
         "Name": "Technische Universität Chemnitz",
         "URL": "http://www.tu-chemnitz.de/",
-        "Subsite": "institution/TechnischeUniversitaetChemnitz.html"
+        "Subsite": "institution/TechnischeUniversitaetChemnitz.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3801,7 +4038,8 @@
       "properties": {
         "Name": "Technische Universität Clausthal",
         "URL": "https://www.tu-clausthal.de/",
-        "Subsite": "institution/TechnischeUniversitaetClausthal.html"
+        "Subsite": "institution/TechnischeUniversitaetClausthal.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3816,7 +4054,8 @@
       "properties": {
         "Name": "Technische Universität Darmstadt",
         "URL": "http://www.tu-darmstadt.de/",
-        "Subsite": "institution/TechnischeUniversitaetDarmstadt.html"
+        "Subsite": "institution/TechnischeUniversitaetDarmstadt.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3831,7 +4070,8 @@
       "properties": {
         "Name": "Technische Universität Dortmund",
         "URL": "https://www.tu-dortmund.de/",
-        "Subsite": "institution/TechnischeUniversitaetDortmund.html"
+        "Subsite": "institution/TechnischeUniversitaetDortmund.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3846,7 +4086,8 @@
       "properties": {
         "Name": "Technische Universität Dresden",
         "URL": "https://www.tu-dresden.de/",
-        "Subsite": "institution/TechnischeUniversitaetDresden.html"
+        "Subsite": "institution/TechnischeUniversitaetDresden.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3861,7 +4102,8 @@
       "properties": {
         "Name": "Technische Universität Hamburg",
         "URL": "http://www.tuhh.de/",
-        "Subsite": "institution/TechnischeUniversitaetHamburg.html"
+        "Subsite": "institution/TechnischeUniversitaetHamburg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3876,7 +4118,8 @@
       "properties": {
         "Name": "Technische Universität Ilmenau",
         "URL": "https://www.tu-ilmenau.de/",
-        "Subsite": "institution/TechnischeUniversitaetIlmenau.html"
+        "Subsite": "institution/TechnischeUniversitaetIlmenau.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3891,7 +4134,8 @@
       "properties": {
         "Name": "Technische Universität Kaiserslautern",
         "URL": "http://www.uni-kl.de/",
-        "Subsite": "institution/TechnischeUniversitaetKaiserslautern.html"
+        "Subsite": "institution/TechnischeUniversitaetKaiserslautern.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3906,7 +4150,8 @@
       "properties": {
         "Name": "Technische Universität München",
         "URL": "http://www.tum.de/",
-        "Subsite": "institution/TechnischeUniversitaetMuenchen.html"
+        "Subsite": "institution/TechnischeUniversitaetMuenchen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3921,7 +4166,8 @@
       "properties": {
         "Name": "Theologische Fakultät Fulda",
         "URL": "https://thf-fulda.de/",
-        "Subsite": "institution/TheologischeFakultaetFulda.html"
+        "Subsite": "institution/TheologischeFakultaetFulda.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3936,7 +4182,8 @@
       "properties": {
         "Name": "Theologische Fakultät Paderborn",
         "URL": "http://www.thf-paderborn.de",
-        "Subsite": "institution/TheologischeFakultaetPaderborn.html"
+        "Subsite": "institution/TheologischeFakultaetPaderborn.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3951,7 +4198,8 @@
       "properties": {
         "Name": "Theologische Fakultät Trier",
         "URL": "http://www.theo.uni-trier.de/",
-        "Subsite": "institution/TheologischeFakultaetTrier.html"
+        "Subsite": "institution/TheologischeFakultaetTrier.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3966,7 +4214,8 @@
       "properties": {
         "Name": "Tierärztliche Hochschule Hannover",
         "URL": "http://www.tiho-hannover.de",
-        "Subsite": "institution/TieraerztlicheHochschuleHannover.html"
+        "Subsite": "institution/TieraerztlicheHochschuleHannover.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3981,7 +4230,8 @@
       "properties": {
         "Name": "Universität Augsburg (UAB)",
         "URL": "http://www.uni-augsburg.de/",
-        "Subsite": "institution/UniversitaetAugsburg(UAB).html"
+        "Subsite": "institution/UniversitaetAugsburg(UAB).html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -3996,7 +4246,8 @@
       "properties": {
         "Name": "Universität Bayreuth (UBT)",
         "URL": "https://www.uni-bayreuth.de/",
-        "Subsite": "institution/UniversitaetBayreuth(UBT).html"
+        "Subsite": "institution/UniversitaetBayreuth(UBT).html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4011,7 +4262,8 @@
       "properties": {
         "Name": "Universität Bielefeld",
         "URL": "http://www.uni-bielefeld.de/",
-        "Subsite": "institution/UniversitaetBielefeld.html"
+        "Subsite": "institution/UniversitaetBielefeld.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4026,7 +4278,8 @@
       "properties": {
         "Name": "Universität Bremen",
         "URL": "https://www.uni-bremen.de/",
-        "Subsite": "institution/UniversitaetBremen.html"
+        "Subsite": "institution/UniversitaetBremen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4041,7 +4294,8 @@
       "properties": {
         "Name": "Universität der Bundeswehr München",
         "URL": "http://www.unibw.de/",
-        "Subsite": "institution/UniversitaetderBundeswehrMuenchen.html"
+        "Subsite": "institution/UniversitaetderBundeswehrMuenchen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4056,7 +4310,8 @@
       "properties": {
         "Name": "Universität der Künste Berlin",
         "URL": "http://www.udk-berlin.de/",
-        "Subsite": "institution/UniversitaetderKuensteBerlin.html"
+        "Subsite": "institution/UniversitaetderKuensteBerlin.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4071,7 +4326,8 @@
       "properties": {
         "Name": "Universität des Saarlandes",
         "URL": "http://www.uni-saarland.de/",
-        "Subsite": "institution/UniversitaetdesSaarlandes.html"
+        "Subsite": "institution/UniversitaetdesSaarlandes.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4086,7 +4342,8 @@
       "properties": {
         "Name": "Universität Duisburg-Essen",
         "URL": "http://www.uni-due.de/",
-        "Subsite": "institution/UniversitaetDuisburg-Essen.html"
+        "Subsite": "institution/UniversitaetDuisburg-Essen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4101,7 +4358,8 @@
       "properties": {
         "Name": "Universität Erfurt",
         "URL": "https://www.uni-erfurt.de/",
-        "Subsite": "institution/UniversitaetErfurt.html"
+        "Subsite": "institution/UniversitaetErfurt.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4116,7 +4374,8 @@
       "properties": {
         "Name": "Universität Greifswald",
         "URL": "https://www.uni-greifswald.de/",
-        "Subsite": "institution/UniversitaetGreifswald.html"
+        "Subsite": "institution/UniversitaetGreifswald.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4131,7 +4390,8 @@
       "properties": {
         "Name": "Universität Hamburg",
         "URL": "http://www.uni-hamburg.de/",
-        "Subsite": "institution/UniversitaetHamburg.html"
+        "Subsite": "institution/UniversitaetHamburg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4146,7 +4406,8 @@
       "properties": {
         "Name": "Universität Hildesheim",
         "URL": "http://www.uni-hildesheim.de/",
-        "Subsite": "institution/UniversitaetHildesheim.html"
+        "Subsite": "institution/UniversitaetHildesheim.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4161,7 +4422,8 @@
       "properties": {
         "Name": "Universität Hohenheim",
         "URL": "https://www.uni-hohenheim.de/",
-        "Subsite": "institution/UniversitaetHohenheim.html"
+        "Subsite": "institution/UniversitaetHohenheim.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4176,7 +4438,8 @@
       "properties": {
         "Name": "Universität Kassel",
         "URL": "http://www.uni-kassel.de/",
-        "Subsite": "institution/UniversitaetKassel.html"
+        "Subsite": "institution/UniversitaetKassel.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4191,7 +4454,8 @@
       "properties": {
         "Name": "Universität Koblenz-Landau",
         "URL": "https://www.uni-koblenz-landau.de/",
-        "Subsite": "institution/UniversitaetKoblenz-Landau.html"
+        "Subsite": "institution/UniversitaetKoblenz-Landau.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4206,7 +4470,8 @@
       "properties": {
         "Name": "Universität Konstanz",
         "URL": "http://www.uni-konstanz.de/",
-        "Subsite": "institution/UniversitaetKonstanz.html"
+        "Subsite": "institution/UniversitaetKonstanz.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4221,7 +4486,8 @@
       "properties": {
         "Name": "Universität Leipzig",
         "URL": "https://www.uni-leipzig.de/",
-        "Subsite": "institution/UniversitaetLeipzig.html"
+        "Subsite": "institution/UniversitaetLeipzig.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4236,7 +4502,8 @@
       "properties": {
         "Name": "Universität Mannheim",
         "URL": "http://www.uni-mannheim.de/",
-        "Subsite": "institution/UniversitaetMannheim.html"
+        "Subsite": "institution/UniversitaetMannheim.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4251,7 +4518,8 @@
       "properties": {
         "Name": "Universität Osnabrück",
         "URL": "https://www.uni-osnabrueck.de/",
-        "Subsite": "institution/UniversitaetOsnabrueck.html"
+        "Subsite": "institution/UniversitaetOsnabrueck.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4266,7 +4534,8 @@
       "properties": {
         "Name": "Universität Paderborn",
         "URL": "http://www.uni-paderborn.de/",
-        "Subsite": "institution/UniversitaetPaderborn.html"
+        "Subsite": "institution/UniversitaetPaderborn.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4281,7 +4550,8 @@
       "properties": {
         "Name": "Universität Passau",
         "URL": "http://www.uni-passau.de/",
-        "Subsite": "institution/UniversitaetPassau.html"
+        "Subsite": "institution/UniversitaetPassau.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4296,7 +4566,8 @@
       "properties": {
         "Name": "Universität Potsdam",
         "URL": "https://www.uni-potsdam.de/",
-        "Subsite": "institution/UniversitaetPotsdam.html"
+        "Subsite": "institution/UniversitaetPotsdam.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4311,7 +4582,8 @@
       "properties": {
         "Name": "Universität Regensburg",
         "URL": "http://www.uni-regensburg.de/",
-        "Subsite": "institution/UniversitaetRegensburg.html"
+        "Subsite": "institution/UniversitaetRegensburg.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4326,7 +4598,8 @@
       "properties": {
         "Name": "Universität Rostock",
         "URL": "http://www.uni-rostock.de/",
-        "Subsite": "institution/UniversitaetRostock.html"
+        "Subsite": "institution/UniversitaetRostock.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4341,7 +4614,8 @@
       "properties": {
         "Name": "Universität Siegen",
         "URL": "http://www.uni-siegen.de/",
-        "Subsite": "institution/UniversitaetSiegen.html"
+        "Subsite": "institution/UniversitaetSiegen.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4356,7 +4630,8 @@
       "properties": {
         "Name": "Universität Stuttgart",
         "URL": "http://www.uni-stuttgart.de/",
-        "Subsite": "institution/UniversitaetStuttgart.html"
+        "Subsite": "institution/UniversitaetStuttgart.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4371,7 +4646,8 @@
       "properties": {
         "Name": "Universität Trier",
         "URL": "http://www.uni-trier.de/",
-        "Subsite": "institution/UniversitaetTrier.html"
+        "Subsite": "institution/UniversitaetTrier.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4386,7 +4662,8 @@
       "properties": {
         "Name": "Universität Ulm",
         "URL": "http://www.uni-ulm.de",
-        "Subsite": "institution/UniversitaetUlm.html"
+        "Subsite": "institution/UniversitaetUlm.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4401,7 +4678,8 @@
       "properties": {
         "Name": "Universität Vechta",
         "URL": "http://www.uni-vechta.de/",
-        "Subsite": "institution/UniversitaetVechta.html"
+        "Subsite": "institution/UniversitaetVechta.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4416,7 +4694,8 @@
       "properties": {
         "Name": "Universität Witten/Herdecke",
         "URL": "https://www.uni-wh.de/",
-        "Subsite": "institution/UniversitaetWitten-Herdecke.html"
+        "Subsite": "institution/UniversitaetWitten-Herdecke.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4431,7 +4710,8 @@
       "properties": {
         "Name": "Universität zu Köln",
         "URL": "http://www.uni-koeln.de/",
-        "Subsite": "institution/UniversitaetzuKoeln.html"
+        "Subsite": "institution/UniversitaetzuKoeln.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4446,7 +4726,8 @@
       "properties": {
         "Name": "Universität zu Lübeck",
         "URL": "http://www.uni-luebeck.de/",
-        "Subsite": "institution/UniversitaetzuLuebeck.html"
+        "Subsite": "institution/UniversitaetzuLuebeck.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4461,7 +4742,8 @@
       "properties": {
         "Name": "Westfälische Wilhelms-Universität",
         "URL": "https://www.uni-muenster.de/",
-        "Subsite": "institution/WestfaelischeWilhelms-Universitaet.html"
+        "Subsite": "institution/WestfaelischeWilhelms-Universitaet.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4476,7 +4758,8 @@
       "properties": {
         "Name": "WHU – Otto Beisheim School of Management",
         "URL": "http://www.whu.edu/",
-        "Subsite": "institution/WHU–OttoBeisheimSchoolofManagement.html"
+        "Subsite": "institution/WHU–OttoBeisheimSchoolofManagement.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -4491,13 +4774,30 @@
       "properties": {
         "Name": "Zeppelin Universität",
         "URL": "https://www.zu.de/",
-        "Subsite": "institution/ZeppelinUniversitaet.html"
+        "Subsite": "institution/ZeppelinUniversitaet.html",
+        "": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           9.4338888888889,
           47.658611111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Mikrotechnik und Mikrosysteme",
+        "URL": "https://www.imm.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerMikrotechnikundMikrosysteme.html",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.25973,
+          49.9615
         ]
       }
     }
