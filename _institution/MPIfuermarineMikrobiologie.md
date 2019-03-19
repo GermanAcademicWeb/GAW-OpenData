@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: MPI für marine Mikrobiologie
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

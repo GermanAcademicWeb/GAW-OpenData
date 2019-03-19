@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Muthesius Kunsthochschule
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

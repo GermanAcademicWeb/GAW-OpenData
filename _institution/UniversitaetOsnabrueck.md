@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Universität Osnabrück
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

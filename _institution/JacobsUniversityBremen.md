@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Jacobs University Bremen
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Ruhr-Universität Bochum
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

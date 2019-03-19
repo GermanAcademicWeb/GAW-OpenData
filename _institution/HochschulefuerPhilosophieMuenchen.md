@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Hochschule für Philosophie München
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

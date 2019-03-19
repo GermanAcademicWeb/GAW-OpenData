@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: MPI für terrestrische Mikrobiologie
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

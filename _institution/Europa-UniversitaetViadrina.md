@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Europa-Universität Viadrina
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---
