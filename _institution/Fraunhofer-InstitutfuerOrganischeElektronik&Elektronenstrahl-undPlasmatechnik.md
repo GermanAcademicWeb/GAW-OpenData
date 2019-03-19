@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Fraunhofer-Institut für Organische Elektronik, Elektronenstrahl- und Plasmatechnik
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

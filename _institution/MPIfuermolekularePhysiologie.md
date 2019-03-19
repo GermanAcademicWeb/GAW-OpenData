@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: MPI für molekulare Physiologie
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

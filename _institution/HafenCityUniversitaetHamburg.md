@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: HafenCity Universität Hamburg
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

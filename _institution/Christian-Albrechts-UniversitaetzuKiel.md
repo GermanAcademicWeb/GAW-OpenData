@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Christian-Albrechts-Universität zu Kiel
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

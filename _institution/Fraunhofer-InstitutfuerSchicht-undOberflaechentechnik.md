@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Fraunhofer-Institut für Schicht- und Oberflächentechnik
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

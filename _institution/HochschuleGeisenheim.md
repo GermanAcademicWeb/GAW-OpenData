@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Hochschule Geisenheim
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

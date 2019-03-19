@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Philipps-Universität Marburg
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: MPI für Dynamik komplexer technischer Systeme
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

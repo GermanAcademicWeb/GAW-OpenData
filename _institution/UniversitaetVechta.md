@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Universität Vechta
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

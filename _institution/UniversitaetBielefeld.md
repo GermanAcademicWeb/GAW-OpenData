@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Universität Bielefeld
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

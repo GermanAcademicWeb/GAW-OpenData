@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Tierärztliche Hochschule Hannover
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

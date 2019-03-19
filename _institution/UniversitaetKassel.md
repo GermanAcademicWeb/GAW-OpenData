@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Universität Kassel
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

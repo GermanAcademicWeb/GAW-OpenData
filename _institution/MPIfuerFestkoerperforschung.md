@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: MPI für Festkörperforschung
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

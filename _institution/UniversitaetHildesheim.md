@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Universität Hildesheim
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

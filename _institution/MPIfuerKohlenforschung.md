@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: MPI für Kohlenforschung
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

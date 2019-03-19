@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Fraunhofer-Institut für Werkstoffmechanik
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

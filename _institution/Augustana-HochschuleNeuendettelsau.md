@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Augustana-Hochschule Neuendettelsau
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---
