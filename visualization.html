@@ -133,14 +133,16 @@ layout: article
         });
         if (features.length > 0) {
           var info = [];
+          var link = [];
           for (var i = 0, ii = features.length; i < ii; ++i) {
             info.push(features[i].get('Name'));
+            link.push(features[i].get('Subsite'));
           }
           if (info.length > 1) {
             content.innerHTML = info.join(', ') || '(unknown)';
           }
           else if (info.length == 1) {
-            content.innerHTML = '<a target="_blank" href="' + info + '">' + info + '</a>';
+            content.innerHTML = '<a target="_blank" href="' + link + '">' + info + '</a>';
           }
         } else {
           content.innerHTML = 'No institution selected';

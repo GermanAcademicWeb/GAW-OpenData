@@ -4,20 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "https://www.rwth-aachen.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.0779166666667,
-          50.777694444444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.alanus.edu/de/home/"
+        "Name": "Alanus Hochschule für Kunst und Gesellschaft (AHKG)",
+        "URL": "https://www.alanus.edu/de/home/",
+        "Subsite": "institution/AlanusHochschulefuerKunstundGesellschaft(AHKG).html"
       },
       "geometry": {
         "type": "Point",
@@ -30,566 +19,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.uni-augsburg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.898333333333,
-          48.333888888889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.uni-bamberg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.886666666667,
-          49.893888888889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.uni-bayreuth.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.585833333333,
-          49.928888888889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.escpeurope.eu/de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.288779258611,
-          52.524002613611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.fu-berlin.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.290555555556,
-          52.453055555556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hertie-school.org/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3892772,
-          52.5128415
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.hu-berlin.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.393333333333,
-          52.518055555556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.steinbeis-hochschule.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.473489722222,
-          52.50939
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.tu-berlin.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.326388888889,
-          52.511944444444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.udk-berlin.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.331111111111,
-          52.508055555556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-bielefeld.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.4930555555556,
-          52.037777777778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.ruhr-uni-bochum.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.2615722222222,
-          51.4439
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.uni-bonn.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.1022222222222,
-          50.733888888889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mhb-fontane.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.79804,
-          52.908
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hbk-bs.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.501666666667,
-          52.2575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.tu-braunschweig.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.529722222222,
-          52.273611111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.jacobs-university.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.65,
-          53.166666666667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.uni-bremen.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.8536069444444,
-          53.108659166667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.tu-chemnitz.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.9275,
-          50.839166666667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.tu-clausthal.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.334444444444,
-          51.804722222222
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.b-tu.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.986819722222,
-          51.52151
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.tu-darmstadt.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.6569444444444,
-          49.875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hfm-detmold.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.873456,
-          51.928707
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.tu-dortmund.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.4142666666667,
-          51.492461111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hfbk-dresden.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.742444444444,
-          51.052841666667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hfmdd.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.724825,
-          51.053769444444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.palucca.eu/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.770999,
-          51.028986
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.tu-dresden.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.726666666667,
-          51.028055555556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-due.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.8008333333333,
-          51.429166666667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hhu.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.7941666666667,
-          51.190277777778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.kunstakademie-duesseldorf.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.7736511111111,
-          51.230538055556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.rsh-duesseldorf.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.7720630555556,
-          51.242333888889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.ku.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.189722222222,
-          48.889444444444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.uni-erfurt.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.010833333333,
-          50.991388888889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://fau.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.006944444444,
-          49.597222222222
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.folkwang-uni.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.0044444444444,
-          51.3875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-flensburg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.4522222222222,
-          54.775555555556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.frankfurt-school.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.680278,
-          50.132778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hfmdk-frankfurt.info/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.6762,
-          50.1201
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.uni-frankfurt.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.667,
-          50.128
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.sankt-georgen.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.712,
-          50.09848
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.euv-ffo.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.554691944444,
-          52.342358333333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.tu-freiberg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.340833333333,
-          50.918055555556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-freiburg.de/"
+        "Name": "Albert-Ludwigs-Universität Freiburg",
+        "URL": "http://www.uni-freiburg.de/",
+        "Subsite": "institution/Albert-Ludwigs-UniversitaetFreiburg.html"
       },
       "geometry": {
         "type": "Point",
@@ -602,826 +34,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.mh-freiburg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.872515,
-          47.989069
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.ph-freiburg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.8933333333333,
-          47.981111111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.zu.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.4338888888889,
-          47.658611111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://thf-fulda.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.67116,
-          50.554648
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hs-geisenheim.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.9613888888889,
-          49.984166666667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-giessen.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.6772222222222,
-          50.580361111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-goettingen.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.934475,
-          51.541861111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.uni-greifswald.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.374444444444,
-          54.094444444444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.fernuni-hagen.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.4952777777778,
-          51.377222222222
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-halle.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.968888888889,
-          51.486388888889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.law-school.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.98267,
-          53.55951
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hcu-hamburg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0048,
-          53.5403
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.hsu-hh.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.10719,
-          53.56785
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hfbk-hamburg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.03132,
-          53.56757
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hfmt-hamburg.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9988888888889,
-          53.570555555556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.tuhh.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9695055555556,
-          53.460958333333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-hamburg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.983889,
-          53.566944
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-hannover.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.717729,
-          52.382214
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hmtm-hannover.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.7544444444444,
-          52.3775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mh-hannover.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.8047222222222,
-          52.383888888889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.tiho-hannover.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.7655555555556,
-          52.369166666667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hfjs.eu/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.70147,
-          49.41004
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.ph-heidelberg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.6847386111111,
-          49.420461944444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.uni-heidelberg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.70659,
-          49.410492
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-hildesheim.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.975,
-          52.133333333333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.tu-ilmenau.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.939,
-          50.681666666667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.uni-jena.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.589444444444,
-          50.929444444444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-kl.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7530555555556,
-          49.423888888889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hfm-karlsruhe.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.4272555555556,
-          49.004555555556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.kit.edu/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.41167,
-          49.00947
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.ph-karlsruhe.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.392738,
-          49.013749
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hfg-karlsruhe.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.3838888888889,
-          49.001666666667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-kassel.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.507562,
-          51.322774
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-kiel.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.1225,
-          54.338888888889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.muthesius-kunsthochschule.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.141388888889,
-          54.327222222222
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.uni-koblenz-landau.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.5591666666667,
-          50.363611111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-konstanz.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.1881,
-          47.690215
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.dshs-koeln.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.869341,
-          50.936708055556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.hfmt-koeln.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.961217,
-          50.947643
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.khm.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.9623169444444,
-          50.934024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-koeln.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.9286111111111,
-          50.928055555556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hhl.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.34965,
-          51.33971
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hgb-leipzig.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.367836111111,
-          51.333405833333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hmt-leipzig.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.366666666667,
-          51.332777777778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.uni-leipzig.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.378727777778,
-          51.3387
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.ph-ludwigsburg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.1831216666667,
-          48.909837777778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.leuphana.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.401111111111,
-          53.228888888889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-luebeck.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.705833333333,
-          53.836933333333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.ovgu.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.643233333333,
-          52.140311111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.uni-mainz.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.2416666666667,
-          49.993055555556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.muho-mannheim.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.470829,
-          49.483842
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-mannheim.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.4646868705556,
-          49.483195989167
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.uni-marburg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.7737,
-          50.81076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hoev-rlp.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.22945,
-          50.32806
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://website.musikhochschule-muenchen.de/de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.567777777778,
-          48.146111111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hfph.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.58329,
-          48.14892
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hfp.tum.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.5632,
-          48.147
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.uni-muenchen.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.580277777778,
-          48.150833333333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.tum.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.568055555556,
-          48.148611111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.unibw.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.63813,
-          48.08032
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.dhpol.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.645,
-          51.898055555556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.kunstakademie-muenster.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6016666666667,
-          51.974166666667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.uni-muenster.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6130555555556,
-          51.963611111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.augustana.de"
+        "Name": "Augustana-Hochschule Neuendettelsau",
+        "URL": "http://www.augustana.de",
+        "Subsite": "institution/Augustana-HochschuleNeuendettelsau.html"
       },
       "geometry": {
         "type": "Point",
@@ -1434,384 +49,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "https://uol.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.1822222222222,
-          53.147777777778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.uni-osnabrueck.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.041767,
-          52.272983
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.thf-paderborn.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.7549444444444,
-          51.716083333333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-paderborn.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.7722222222222,
-          51.708055555556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-passau.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.453333333333,
-          48.568333333333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.filmuniversitaet.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.116666666667,
-          52.388611111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.uni-potsdam.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.011944444444,
-          52.401111111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-regensburg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.095,
-          48.9981
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.oth-regensburg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.095089,
-          49.003674
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hmt-rostock.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.1444,
-          54.09155
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-rostock.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.133373,
-          54.088133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hfm.saarland.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.9978333333333,
-          49.230311111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-saarland.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.0416666666667,
-          49.255555555556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.ph-gmuend.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.8288888888889,
-          48.791666666667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-siegen.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.0283333333333,
-          50.906388888889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-speyer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.4163083333333,
-          49.316413888889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.pth-augustin.eu"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.17827,
-          50.774141
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.hmdk-stuttgart.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.185833,
-          48.778611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.abk-stuttgart.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.17429,
-          48.80015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.uni-hohenheim.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.214,
-          48.7125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-stuttgart.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.1752,
-          48.7817
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.theo.uni-trier.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.68758,
-          49.74691
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-trier.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.6753555555556,
-          49.747708333333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mh-trossingen.de//"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.638237,
-          48.075391
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-tuebingen.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.0591666666667,
-          48.524638888889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-ulm.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.953774,
-          48.422095
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.pthv.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6276014,
-          50.4015241
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.whu.edu/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6135063888889,
-          50.400325277778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-vechta.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.293819,
-          52.721608
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-weimar.de/"
+        "Name": "Bauhaus-Universität Weimar",
+        "URL": "http://www.uni-weimar.de/",
+        "Subsite": "institution/Bauhaus-UniversitaetWeimar.html"
       },
       "geometry": {
         "type": "Point",
@@ -1824,59 +64,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.hfm-weimar.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.33154,
-          50.97832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.ph-weingarten.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.64395,
-          47.80966
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.ebs.edu/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.05,
-          50.0125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.uni-wh.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.357233,
-          51.452267
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-wuppertal.de/"
+        "Name": "Bergische Universität Wuppertal",
+        "URL": "http://www.uni-wuppertal.de/",
+        "Subsite": "institution/BergischeUniversitaetWuppertal.html"
       },
       "geometry": {
         "type": "Point",
@@ -1889,1021 +79,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.kiho-wb.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.1702777777778,
-          51.265277777778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.hfm-wuerzburg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9339466666667,
-          49.792466388889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.uni-wuerzburg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9352777777778,
-          49.788055555556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.hsu-hh.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.10719,
-          53.56785
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.scai.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.20275,
-          50.74924
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.iaf.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.845059,
-          48.027458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.emb.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.7006,
-          53.83596
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.emft.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.5305,
-          48.13223
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.fit.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.203662,
-          50.749504
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.iof.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.567847,
-          50.90848
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.iap.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.968055555556,
-          52.413333333333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.aisec.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.63445,
-          48.25181
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.iao.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.096917,
-          48.740584
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.ibp.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.09825,
-          48.74064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.lbf.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.682075,
-          49.903536
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.mevis.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.8588888888889,
-          53.11
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.ibmt.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.075421,
-          49.288313
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.ict.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.5225,
-          49.016111111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.idmt.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.9322,
-          50.6836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.enas.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.924333333333,
-          50.815972222222
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.fep.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.781427777778,
-          51.029833333333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.iem.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.737848,
-          51.730414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.iese.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7521944444444,
-          49.429908333333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.iff.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.65187,
-          52.13937
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.ifam.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.8486111111111,
-          53.111388888889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.igd.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.65957,
-          49.87421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.igb.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.099512,
-          48.741687
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.fhr.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.12935,
-          50.61726
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.wki.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.546022391111,
-          52.302021980833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.irb.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.09919,
-          48.74189
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.iis.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.019587516785,
-          49.547224283311
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.iisb.fraunhofer.de/de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.030037,
-          49.570921
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.iais.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.20203,
-          50.74895
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.ikts.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.78032,
-          51.02924
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.fkie.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.12935,
-          50.61726
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.emi.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.846555,
-          48.00092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.ilt.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.047232,
-          50.785522
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.iml.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.4076055555556,
-          51.493733333333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.ims.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.79678,
-          51.42893
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.imws.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.93948,
-          51.49456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.ime.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.31221,
-          51.15132
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.hhi.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.32495,
-          52.51632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.int.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.80711,
-          50.66232
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.fokus.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.314409,
-          52.526092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.iosb.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.905406,
-          52.016044
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.ipms.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.784272,
-          51.125519
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.ipm.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.834233,
-          48.010883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.ipk.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.323564,
-          52.523992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.ipa.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.096914,
-          48.740989
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.ipt.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.047006,
-          50.784803
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.ist.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.546022391111,
-          52.302021980833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.sit.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.638231,
-          49.871441
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.isc.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.917715,
-          49.797971
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.isit.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.4827777777778,
-          53.957166666667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.isst.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.40041,
-          51.49364
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.ise.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.834682,
-          48.00901
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.esk.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.528268,
-          48.13265
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.isi.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.441528,
-          49.027831
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.itwm.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7521944444444,
-          49.429908333333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.item.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.79786,
-          52.38769
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.umsicht.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.88132,
-          51.48585
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.ivv.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.709173,
-          48.394205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.ivi.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.736049,
-          51.027209
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.iwm.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.851866,
-          48.033503
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.iws.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.780503,
-          51.029953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.iwu.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.925194444444,
-          50.813388888889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.iwes.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.5722,
-          53.5211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.izi.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.39561,
-          51.31901
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.izfp.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.04781,
-          49.25813
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.izm.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.38452,
-          52.54252
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.iapt.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.20279,
-          53.47684
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.iee.fraunhofer.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.47792,
-          51.31256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpia.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.7230555555556,
-          49.396388888889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpa-garching.mpg.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.671666666667,
-          48.261111111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpipriv.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.994377,
-          53.562629
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpisoc.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.576822,
-          48.148186
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpicc.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.848974,
-          47.98111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpil.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.67291,
-          49.42029
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.biblhertz.it/"
+        "Name": "Bibliotheca Hertziana",
+        "URL": "http://www.biblhertz.it/",
+        "Subsite": "institution/BibliothecaHertziana.html"
       },
       "geometry": {
         "type": "Point",
@@ -2916,215 +94,1299 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.mpib-berlin.mpg.de"
+        "Name": "Brandenburgische Technische Universität Cottbus-Senftenberg",
+        "URL": "https://www.b-tu.de/",
+        "Subsite": "institution/BrandenburgischeTechnischeUniversitaetCottbus-Senftenberg.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.303843,
-          52.468253
+          14.326388888889,
+          51.767222222222
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.biochem.mpg.de/"
+        "Name": "Bucerius Law School",
+        "URL": "http://www.law-school.de",
+        "Subsite": "institution/BuceriusLawSchool.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.460555555556,
-          48.105
+          9.98267,
+          53.55951
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.bgc-jena.mpg.de/"
+        "Name": "Carl von Ossietzky Universität Oldenburg",
+        "URL": "https://uol.de/",
+        "Subsite": "institution/CarlvonOssietzkyUniversitaetOldenburg.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.566388888889,
-          50.91
+          8.1822222222222,
+          53.147777777778
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.age.mpg.de/"
+        "Name": "Christian-Albrechts-Universität zu Kiel",
+        "URL": "http://www.uni-kiel.de/",
+        "Subsite": "institution/Christian-Albrechts-UniversitaetzuKiel.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.919922,
-          50.925315
+          10.1225,
+          54.338888888889
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.kyb.tuebingen.mpg.de/de/"
+        "Name": "Deutsche Hochschule der Polizei",
+        "URL": "http://www.dhpol.de",
+        "Subsite": "institution/DeutscheHochschulederPolizei.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.0584722222222,
-          48.536666666667
+          7.645,
+          51.898055555556
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.biophys.mpg.de/en.html"
+        "Name": "Deutsche Sporthochschule Köln",
+        "URL": "http://www.dshs-koeln.de/",
+        "Subsite": "institution/DeutscheSporthochschuleKoeln.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.6302777777778,
-          50.173611111111
+          6.869341,
+          50.936708055556
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.mpibpc.mpg.de/"
+        "Name": "Deutsche Universität für Verwaltungswissenschaften Speyer",
+        "URL": "http://www.uni-speyer.de/",
+        "Subsite": "institution/DeutscheUniversitaetfuerVerwaltungswissenschaftenSpeyer.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.9694444444444,
-          51.561944444444
+          8.4163083333333,
+          49.316413888889
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.mpi-muenster.mpg.de"
+        "Name": "Eberhard Karls Universität Tübingen",
+        "URL": "http://www.uni-tuebingen.de/",
+        "Subsite": "institution/EberhardKarlsUniversitaetTuebingen.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.5911111111111,
-          51.968055555556
+          9.0591666666667,
+          48.524638888889
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.mpic.de/"
+        "Name": "EBS Universität für Wirtschaft und Recht",
+        "URL": "http://www.ebs.edu/",
+        "Subsite": "institution/EBSUniversitaetfuerWirtschaftundRecht.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.2430555555556,
-          49.993611111111
+          8.05,
+          50.0125
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://cec.mpg.de/home.html"
+        "Name": "ESCP Europe Wirtschaftshochschule Berlin",
+        "URL": "http://www.escpeurope.eu/de/",
+        "Subsite": "institution/ESCPEuropeWirtschaftshochschuleBerlin.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.886891,
-          51.417754
+          13.288779258611,
+          52.524002613611
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.ice.mpg.de"
+        "Name": "Europa-Universität Flensburg",
+        "URL": "http://www.uni-flensburg.de/",
+        "Subsite": "institution/Europa-UniversitaetFlensburg.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.568333333333,
-          50.910833333333
+          9.4522222222222,
+          54.775555555556
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.cpfs.mpg.de/"
+        "Name": "Europa-Universität Viadrina",
+        "URL": "http://www.euv-ffo.de/",
+        "Subsite": "institution/Europa-UniversitaetViadrina.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.718611111111,
-          51.026388888889
+          14.554691944444,
+          52.342358333333
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.demogr.mpg.de/d_default.htm"
+        "Name": "Fernuniversität in Hagen",
+        "URL": "https://www.fernuni-hagen.de/",
+        "Subsite": "institution/FernuniversitaetinHagen.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.11088,
-          54.09403
+          7.4952777777778,
+          51.377222222222
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.mpi-magdeburg.mpg.de/"
+        "Name": "Filmuniversität Babelsberg",
+        "URL": "http://www.filmuniversitaet.de",
+        "Subsite": "institution/FilmuniversitaetBabelsberg.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.652803422222,
-          52.138433563889
+          13.116666666667,
+          52.388611111111
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.ds.mpg.de/"
+        "Name": "Folkwang Universität der Künste",
+        "URL": "http://www.folkwang-uni.de/",
+        "Subsite": "institution/FolkwangUniversitaetderKuenste.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.967368,
-          51.560644
+          7.0044444444444,
+          51.3875
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.mpie.de/"
+        "Name": "Frankfurt School of Finance & Management",
+        "URL": "http://www.frankfurt-school.de/",
+        "Subsite": "institution/FrankfurtSchoolofFinance&Management.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.8130555555556,
-          51.239444444444
+          8.680278,
+          50.132778
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.eb.tuebingen.mpg.de/"
+        "Name": "Fraunhofer-Einrichtung für Additive Produktionstechnologien",
+        "URL": "https://www.iapt.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-EinrichtungfuerMarineBiotechnologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.20279,
+          53.47684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Einrichtung für Marine Biotechnologie",
+        "URL": "http://www.emb.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-EinrichtungfuerModulareFestkoerper-Technologien.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7006,
+          53.83596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Einrichtung für Modulare Festkörper-Technologien",
+        "URL": "https://www.emft.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerAdditiveProduktionstechnologien.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5305,
+          48.13223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Algorithmen und Wissenschaftliches Rechnen",
+        "URL": "https://www.scai.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerAlgorithmenundWissenschaftlichesRechnen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.20275,
+          50.74924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Angewandte Festkörperphysik",
+        "URL": "https://www.iaf.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerAngewandteFestkoerperphysik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.845059,
+          48.027458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Angewandte Informationstechnik",
+        "URL": "https://www.fit.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerAngewandteInformationstechnik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.203662,
+          50.749504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Angewandte Optik und Feinmechanik",
+        "URL": "http://www.iof.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerAngewandteOptikundFeinmechanik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.567847,
+          50.90848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Angewandte Polymerforschung",
+        "URL": "http://www.iap.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerAngewandtePolymerforschung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.968055555556,
+          52.413333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Angewandte und Integrierte Sicherheit",
+        "URL": "http://www.aisec.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerAngewandteundIntegrierteSicherheit.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.63445,
+          48.25181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Arbeitswirtschaft und Organisation",
+        "URL": "https://www.iao.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerArbeitswirtschaftundOrganisation.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096917,
+          48.740584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Bauphysik",
+        "URL": "https://www.ibp.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerBauphysik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.09825,
+          48.74064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Betriebsfestigkeit und Systemzuverlässigkeit",
+        "URL": "https://www.lbf.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerBetriebsfestigkeitundSystemzuverlaessigkeit.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.682075,
+          49.903536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Bildgestützte Medizin",
+        "URL": "https://www.mevis.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerBildgestuetzteMedizin.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8588888888889,
+          53.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Biomedizinische Technik",
+        "URL": "https://www.ibmt.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerBiomedizinischeTechnik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.075421,
+          49.288313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Chemische Technologie",
+        "URL": "https://www.ict.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerChemischeTechnologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5225,
+          49.016111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Digitale Medientechnologie",
+        "URL": "https://www.idmt.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerDigitaleMedientechnologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9322,
+          50.6836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Eingebette Systeme und Kommunikationstechnik",
+        "URL": "https://www.esk.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerEingebetteSystemeundKommunikationstechnik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.528268,
+          48.13265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Elektronische Nanosysteme",
+        "URL": "http://www.enas.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerElektronischeNanosysteme.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.924333333333,
+          50.815972222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Energiewirtschaft und Energiesystemtechnik",
+        "URL": "https://www.iee.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerEnergiewirtschaftundEnergiesystemtechnik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.47792,
+          51.31256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Entwurfstechnik Mechatronik",
+        "URL": "http://www.iem.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerEntwurfstechnikMechatronik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.737848,
+          51.730414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Experimentelles Software Engineering",
+        "URL": "https://www.iese.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerExperimentellesSoftwareEngineering.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7521944444444,
+          49.429908333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Fabrikbetrieb und -automatisierung",
+        "URL": "http://www.iff.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerFabrikbetriebund-automatisierung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.65187,
+          52.13937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Fertigungstechnik und Angewandte Materialforschung",
+        "URL": "http://www.ifam.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerFertigungstechnikundAngewandteMaterialforschung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8486111111111,
+          53.111388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Fraunhofer-Informationszentrum Raum und Bau",
+        "URL": "https://www.irb.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerFraunhofer-InformationszentrumRaumundBau.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.09919,
+          48.74189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Graphische Datenverarbeitung",
+        "URL": "https://www.igd.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerGraphischeDatenverarbeitung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65957,
+          49.87421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Grenzflächen- und Bioverfahrenstechnik",
+        "URL": "http://www.igb.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerGrenzflaechen-undBioverfahrenstechnik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.099512,
+          48.741687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Hochfrequenzphysik und Radartechnik",
+        "URL": "https://www.fhr.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerHochfrequenzphysikundRadartechnik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.12935,
+          50.61726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Holzforschung",
+        "URL": "https://www.wki.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerHolzforschung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.546022391111,
+          52.302021980833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Integrierte Schaltungen",
+        "URL": "https://www.iis.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerIntegrierteSchaltungen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.019587516785,
+          49.547224283311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Integrierte Systeme und Bauelementetechnologie",
+        "URL": "https://www.iisb.fraunhofer.de/de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerIntegrierteSystemeundBauelementetechnologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.030037,
+          49.570921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Intelligente Analyse- und Informationssysteme",
+        "URL": "https://www.iais.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerIntelligenteAnalyse-undInformationssysteme.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.20203,
+          50.74895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Keramische Technologien und Systeme",
+        "URL": "https://www.ikts.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerKeramischeTechnologienundSysteme.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.78032,
+          51.02924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Kommunikation",
+        "URL": " Informationsverarbeitung und Ergonomie",
+        "Subsite": "https://www.fkie.fraunhofer.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.12935,
+          50.61726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Kurzzeitdynamik",
+        "URL": "http://www.emi.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerKurzzeitdynamik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.846555,
+          48.00092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Lasertechnik",
+        "URL": "http://www.ilt.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerLasertechnik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.047232,
+          50.785522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Materialfluss und Logistik",
+        "URL": "http://www.iml.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerMaterialflussundLogistik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4076055555556,
+          51.493733333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Mikroelektronische Schaltungen und Systeme",
+        "URL": "https://www.ims.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerMikroelektronischeSchaltungenundSysteme.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79678,
+          51.42893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Mikrostruktur von Werkstoffen und Systemen",
+        "URL": "http://www.imws.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerMikrostrukturvonWerkstoffenundSystemen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93948,
+          51.49456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Molekularbiologie und Angewandte Oekologie",
+        "URL": "http://www.ime.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerMikrotechnikundMikrosysteme.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.31221,
+          51.15132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Nachrichtentechnik",
+        "URL": "https://www.hhi.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerMolekularbiologieundAngewandteOekologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32495,
+          52.51632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Naturwissenschaftlich-Technische Trendanalysen",
+        "URL": "https://www.int.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerNachrichtentechnik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.80711,
+          50.66232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Offene Kommunikationssysteme",
+        "URL": "https://www.fokus.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerNaturwissenschaftlich-TechnischeTrendanalysen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.314409,
+          52.526092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Optronik",
+        "URL": " Systemtechnik und Bildauswertung",
+        "Subsite": "http://www.iosb.fraunhofer.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.905406,
+          52.016044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Organische Elektronik",
+        "URL": " Elektronenstrahl- und Plasmatechnik",
+        "Subsite": "https://www.fep.fraunhofer.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.781427777778,
+          51.029833333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Photonische Mikrosysteme",
+        "URL": "http://www.ipms.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerOrganischeElektronik&Elektronenstrahl-undPlasmatechnik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.784272,
+          51.125519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Physikalische Messtechnik",
+        "URL": "http://www.ipm.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerPhotonischeMikrosysteme.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.834233,
+          48.010883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Produktionsanlagen und Konstruktionstechnik",
+        "URL": "http://www.ipk.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerPhysikalischeMesstechnik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.323564,
+          52.523992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Produktionstechnik und Automatisierung",
+        "URL": "https://www.ipa.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerProduktionsanlagenundKonstruktionstechnik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.096914,
+          48.740989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Produktionstechnologie",
+        "URL": "http://www.ipt.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerProduktionstechnikundAutomatisierung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.047006,
+          50.784803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Schicht- und Oberflächentechnik",
+        "URL": "https://www.ist.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerProduktionstechnologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.546022391111,
+          52.302021980833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Sichere Informationstechnologie",
+        "URL": "https://www.sit.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerSchicht-undOberflaechentechnik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.638231,
+          49.871441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Silicatforschung",
+        "URL": "https://www.isc.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerSichereInformationstechnologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.917715,
+          49.797971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Siliziumtechnologie",
+        "URL": "http://www.isit.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerSilicatforschung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4827777777778,
+          53.957166666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Software- und Systemtechnik",
+        "URL": "https://www.isst.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerSiliziumtechnologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.40041,
+          51.49364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Solare Energiesysteme",
+        "URL": "https://www.ise.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerSoftware-undSystemtechnik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.834682,
+          48.00901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für System- und Innovationsforschung",
+        "URL": "http://www.isi.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerSolareEnergiesysteme.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.441528,
+          49.027831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Techno- und Wirtschaftsmathematik",
+        "URL": "http://www.itwm.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerSystem-undInnovationsforschung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7521944444444,
+          49.429908333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Toxikologie und Experimentelle Medizin",
+        "URL": "https://www.item.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerTechno-undWirtschaftsmathematik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.79786,
+          52.38769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Umwelt-",
+        "URL": " Sicherheits- und Energietechnik",
+        "Subsite": "https://www.umsicht.fraunhofer.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88132,
+          51.48585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Verfahrenstechnik und Verpackung",
+        "URL": "https://www.ivv.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerUmwelt-&Sicherheits-undEnergietechnik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.709173,
+          48.394205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Verkehrs- und Infrastruktursysteme",
+        "URL": "http://www.ivi.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerVerfahrenstechnikundVerpackung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.736049,
+          51.027209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Werkstoff- und Strahltechnik",
+        "URL": "http://www.iws.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerVerkehrs-undInfrastruktursysteme.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.780503,
+          51.029953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Werkstoffmechanik",
+        "URL": "http://www.iwm.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerWerkstoffmechanik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.851866,
+          48.033503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Werkzeugmaschinen und Umformtechnik",
+        "URL": "https://www.iwu.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerWerkstoff-undStrahltechnik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.925194444444,
+          50.813388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Windenergie und Energiesystemtechnik",
+        "URL": "http://www.iwes.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerWerkzeugmaschinenundUmformtechnik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5722,
+          53.5211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Zelltherapie und Immunologie",
+        "URL": "http://www.izi.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerWindenergieundEnergiesystemtechnik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.39561,
+          51.31901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Zerstörungsfreie Prüfverfahren",
+        "URL": "http://www.izfp.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerZelltherapieundImmunologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.04781,
+          49.25813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fraunhofer-Institut für Zuverlässigkeit und Mikrointegration",
+        "URL": "http://www.izm.fraunhofer.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerZerstoerungsfreiePruefverfahren.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38452,
+          52.54252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Freie Universität Berlin (FUB)",
+        "URL": "https://www.fu-berlin.de/",
+        "Subsite": "institution/Fraunhofer-InstitutfuerZuverlaessigkeitundMikrointegration.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.290555555556,
+          52.453055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+        "URL": "https://fau.de/",
+        "Subsite": "institution/FreieUniversitaetBerlin(FUB).html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.006944444444,
+          49.597222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Friedrich-Miescher-Laboratorium",
+        "URL": "http://www.fml.mpg.de/",
+        "Subsite": "institution/Friedrich-Alexander-UniversitaetErlangen-Nuernberg.html"
       },
       "geometry": {
         "type": "Point",
@@ -3137,150 +1399,24 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.aesthetics.mpg.de/"
+        "Name": "Friedrich-Schiller-Universität Jena",
+        "URL": "https://www.uni-jena.de/",
+        "Subsite": "institution/Friedrich-Miescher-Laboratorium.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.6729,
-          50.12111
+          11.589444444444,
+          50.929444444444
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "https://www.coll.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.1264972222222,
-          50.716980555556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mmg.mpg.de/de/startseite/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.94709,
-          51.54095
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.eth.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.95952,
-          51.49695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.rg.mpg.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.670521,
-          50.127956
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.evolbio.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.43395,
-          54.16026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.eva.mpg.de/german/index.html"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.39487,
-          51.32106
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.em.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.937413,
-          51.551079
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpe.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.671667,
-          48.261667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.fkf.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.080833,
-          48.746667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.fml.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.0580555555556,
-          48.536944444444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.fhi-berlin.mpg.de/?lang=g"
+        "Name": "Fritz-Haber-Institut der Max-Planck-Gesellschaft",
+        "URL": "http://www.fhi-berlin.mpg.de/?lang=g",
+        "Subsite": "institution/Friedrich-Schiller-UniversitaetJena.html"
       },
       "geometry": {
         "type": "Point",
@@ -3293,189 +1429,684 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.mpifg.de/"
+        "Name": "Georg-August-Universität Göttingen",
+        "URL": "http://www.uni-goettingen.de/",
+        "Subsite": "institution/Fritz-Haber-InstitutderMax-Planck-Gesellschaft.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.954174,
-          50.926681
+          9.934475,
+          51.541861111111
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.aei.mpg.de/"
+        "Name": "Gottfried Wilhelm Leibniz Universität Hannover",
+        "URL": "http://www.uni-hannover.de/",
+        "Subsite": "institution/Georg-August-UniversitaetGoettingen.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.970277777778,
-          52.416388888889
+          9.717729,
+          52.382214
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.mpi-hlr.de/"
+        "Name": "HafenCity Universität Hamburg",
+        "URL": "http://www.hcu-hamburg.de/",
+        "Subsite": "institution/GottfriedWilhelmLeibnizUniversitaetHannover.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.74121,
-          50.36974
+          10.0048,
+          53.5403
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.brain.mpg.de/"
+        "Name": "Handelshochschule Leipzig",
+        "URL": "http://www.hhl.de/",
+        "Subsite": "institution/HafenCityUniversitaetHamburg.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.652055,
-          50.093508
+          12.34965,
+          51.33971
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.gen.mpg.de/"
+        "Name": "Heinrich-Heine-Universität Düsseldorf",
+        "URL": "http://www.hhu.de/",
+        "Subsite": "institution/HandelshochschuleLeipzig.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.652055,
-          50.093508
+          6.7941666666667,
+          51.190277777778
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.ie-freiburg.mpg.de/"
+        "Name": "Helmut-Schmidt-Universität",
+        "URL": "https://www.hsu-hh.de/",
+        "Subsite": "institution/Heinrich-Heine-UniversitaetDuesseldorf.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.851963,
-          48.025115
+          10.10719,
+          53.56785
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.mpiib-berlin.mpg.de/"
+        "Name": "Helmut-Schmidt-Universität",
+        "URL": "https://www.hsu-hh.de/",
+        "Subsite": "institution/Helmut-Schmidt-Universitaet.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.375318,
-          52.524995
+          10.10719,
+          53.56785
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.mpi-inf.mpg.de/"
+        "Name": "Hertie School of Governance (HSOG)",
+        "URL": "http://www.hertie-school.org/",
+        "Subsite": "institution/HertieSchoolofGovernance(HSOG).html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.04582,
-          49.2579
+          13.3892772,
+          52.5128415
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.ip.mpg.de/"
+        "Name": "Hochschule für Bildende Künste Braunschweig",
+        "URL": "http://www.hbk-bs.de/",
+        "Subsite": "institution/HochschulefuerBildendeKuensteBraunschweig.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.5812,
-          48.1405
+          10.501666666667,
+          52.2575
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.is.mpg.de/"
+        "Name": "Hochschule für Bildende Künste Dresden",
+        "URL": "http://www.hfbk-dresden.de/",
+        "Subsite": "institution/HochschulefuerBildendeKuensteDresden.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.0813888888889,
-          48.746666666667
+          13.742444444444,
+          51.052841666667
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.mpi-hd.mpg.de/"
+        "Name": "Hochschule für bildende Künste Hamburg",
+        "URL": "http://www.hfbk-hamburg.de/",
+        "Subsite": "institution/HochschulefuerbildendeKuensteHamburg.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.7091666666667,
-          49.387777777778
+          10.03132,
+          53.56757
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.cbs.mpg.de/"
+        "Name": "Hochschule für Grafik und Buchkunst Leipzig",
+        "URL": "http://www.hgb-leipzig.de",
+        "Subsite": "institution/HochschulefuerGrafikundBuchkunstLeipzig.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.388694,
-          51.334741
+          12.367836111111,
+          51.333405833333
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.kofo.mpg.de/"
+        "Name": "Hochschule für Jüdische Studien",
+        "URL": "http://www.hfjs.eu/",
+        "Subsite": "institution/HochschulefuerJuedischeStudien.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.8852777777778,
-          51.416944444444
+          8.70147,
+          49.41004
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.mpikg.mpg.de/"
+        "Name": "Hochschule für Musik Carl Maria von Weber Dresden",
+        "URL": "http://www.hfmdd.de",
+        "Subsite": "institution/HochschulefuerMusikCarlMariavonWeberDresden.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.969702777778,
-          52.414905555556
+          13.724825,
+          51.053769444444
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.khi.fi.it/"
+        "Name": "Hochschule für Musik Detmold",
+        "URL": "http://www.hfm-detmold.de/",
+        "Subsite": "institution/HochschulefuerMusikDetmold.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.873456,
+          51.928707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hochschule für Musik Franz Liszt Weimar",
+        "URL": "http://www.hfm-weimar.de/",
+        "Subsite": "institution/HochschulefuerMusikFranzLisztWeimar.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33154,
+          50.97832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hochschule für Musik Freiburg",
+        "URL": "http://www.mh-freiburg.de/",
+        "Subsite": "institution/HochschulefuerMusikFreiburg.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.872515,
+          47.989069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hochschule für Musik Karlsruhe",
+        "URL": "http://www.hfm-karlsruhe.de/",
+        "Subsite": "institution/HochschulefuerMusikKarlsruhe.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4272555555556,
+          49.004555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hochschule für Musik Saar",
+        "URL": "http://www.hfm.saarland.de",
+        "Subsite": "institution/HochschulefuerMusikSaar.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9978333333333,
+          49.230311111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hochschule für Musik Trossingen",
+        "URL": "http://www.mh-trossingen.de//",
+        "Subsite": "institution/HochschulefuerMusik&TheaterundMedienHannover.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.638237,
+          48.075391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hochschule für Musik und Darstellende Kunst Frankfurt am Main",
+        "URL": "http://www.hfmdk-frankfurt.info/",
+        "Subsite": "institution/HochschulefuerMusikTrossingen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6762,
+          50.1201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hochschule für Musik und Darstellende Kunst Mannheim",
+        "URL": "http://www.muho-mannheim.de",
+        "Subsite": "institution/HochschulefuerMusikundDarstellendeKunstFrankfurtamMain.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.470829,
+          49.483842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hochschule für Musik und Darstellende Kunst Stuttgart",
+        "URL": "https://www.hmdk-stuttgart.de",
+        "Subsite": "institution/HochschulefuerMusikundDarstellendeKunstMannheim.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.185833,
+          48.778611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hochschule für Musik und Tanz Köln",
+        "URL": "https://www.hfmt-koeln.de/",
+        "Subsite": "institution/HochschulefuerMusikundDarstellendeKunstStuttgart.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.961217,
+          50.947643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hochschule für Musik und Theater „Felix Mendelssohn Bartholdy“ Leipzig",
+        "URL": "http://www.hmt-leipzig.de/",
+        "Subsite": "institution/HochschulefuerMusikundTanzKoeln.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.366666666667,
+          51.332777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hochschule für Musik und Theater Hamburg",
+        "URL": "http://www.hfmt-hamburg.de",
+        "Subsite": "institution/HochschulefuerMusikundTheater„FelixMendelssohnBartholdy“Leipzig.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9988888888889,
+          53.570555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hochschule für Musik und Theater München",
+        "URL": "http://website.musikhochschule-muenchen.de/de/",
+        "Subsite": "institution/HochschulefuerMusikundTheaterHamburg.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.567777777778,
+          48.146111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hochschule für Musik und Theater Rostock",
+        "URL": "http://www.hmt-rostock.de/",
+        "Subsite": "institution/HochschulefuerMusikundTheaterMuenchen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1444,
+          54.09155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hochschule für Musik Würzburg",
+        "URL": "http://www.hfm-wuerzburg.de/",
+        "Subsite": "institution/HochschulefuerMusikundTheaterRostock.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9339466666667,
+          49.792466388889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hochschule für Musik",
+        "URL": " Theater und Medien Hannover",
+        "Subsite": "http://www.hmtm-hannover.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7544444444444,
+          52.3775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hochschule für öffentliche Verwaltung Rheinland-Pfalz",
+        "URL": "http://www.hoev-rlp.de/",
+        "Subsite": "institution/HochschulefueroeffentlicheVerwaltungRheinland-Pfalz.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.22945,
+          50.32806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hochschule für Philosophie München",
+        "URL": "http://www.hfph.de/",
+        "Subsite": "institution/HochschulefuerPhilosophieMuenchen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58329,
+          48.14892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hochschule für Politik München",
+        "URL": "http://www.hfp.tum.de/",
+        "Subsite": "institution/HochschulefuerPolitikMuenchen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5632,
+          48.147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hochschule Geisenheim",
+        "URL": "http://www.hs-geisenheim.de/",
+        "Subsite": "institution/HochschuleGeisenheim.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9613888888889,
+          49.984166666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Humboldt-Universität zu Berlin (HUB)",
+        "URL": "https://www.hu-berlin.de/",
+        "Subsite": "institution/Humboldt-UniversitaetzuBerlin(HUB).html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.393333333333,
+          52.518055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jacobs University Bremen",
+        "URL": "http://www.jacobs-university.de/",
+        "Subsite": "institution/JacobsUniversityBremen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65,
+          53.166666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
+        "URL": "https://www.uni-frankfurt.de/",
+        "Subsite": "institution/JohannesGutenberg-UniversitaetMainz.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.667,
+          50.128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Johannes Gutenberg-Universität Mainz",
+        "URL": "https://www.uni-mainz.de/",
+        "Subsite": "institution/JohannWolfgangGoethe-UniversitaetFrankfurtamMain.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2416666666667,
+          49.993055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Julius-Maximilians-Universität Würzburg",
+        "URL": "http://www.uni-wuerzburg.de/",
+        "Subsite": "institution/Julius-Maximilians-UniversitaetWuerzburg.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9352777777778,
+          49.788055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Justus-Liebig-Universität Gießen",
+        "URL": "http://www.uni-giessen.de/",
+        "Subsite": "institution/Justus-Liebig-UniversitaetGiessen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6772222222222,
+          50.580361111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Karlsruher Institut für Technologie",
+        "URL": "https://www.kit.edu/",
+        "Subsite": "institution/KarlsruherInstitutfuerTechnologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.41167,
+          49.00947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Katholische Universität Eichstätt-Ingolstadt",
+        "URL": "http://www.ku.de/",
+        "Subsite": "institution/KatholischeUniversitaetEichstaett-Ingolstadt.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.189722222222,
+          48.889444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kirchliche Hochschule Wuppertal/Bethel",
+        "URL": "http://www.kiho-wb.de/",
+        "Subsite": "institution/KirchlicheHochschuleWuppertal-Bethel.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1702777777778,
+          51.265277777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kunstakademie Düsseldorf",
+        "URL": "https://www.kunstakademie-duesseldorf.de/",
+        "Subsite": "institution/KunstakademieDuesseldorf.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7736511111111,
+          51.230538055556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kunstakademie Münster",
+        "URL": "http://www.kunstakademie-muenster.de/",
+        "Subsite": "institution/KunstakademieMuenster.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6016666666667,
+          51.974166666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kunsthistorisches Institut in Florenz – Max-Planck-Institut",
+        "URL": "http://www.khi.fi.it/",
+        "Subsite": "institution/KunsthistorischesInstitutinFlorenz–Max-Planck-Institut.html"
       },
       "geometry": {
         "type": "Point",
@@ -3488,397 +2119,69 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.mpi-bremen.de"
+        "Name": "Kunsthochschule für Medien Köln",
+        "URL": "http://www.khm.de/",
+        "Subsite": "institution/KunsthochschulefuerMedienKoeln.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.8475,
-          53.110277777778
+          6.9623169444444,
+          50.934024
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.mpim-bonn.mpg.de/"
+        "Name": "Leuphana Universität Lüneburg",
+        "URL": "http://www.leuphana.de/",
+        "Subsite": "institution/LeuphanaUniversitaetLueneburg.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.0986111111111,
-          50.734722222222
+          10.401111111111,
+          53.228888888889
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.mis.mpg.de/"
+        "Name": "Ludwig-Maximilians-Universität München",
+        "URL": "https://www.uni-muenchen.de/",
+        "Subsite": "institution/Ludwig-Maximilians-UniversitaetMuenchen.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.391666666667,
-          51.341388888889
+          11.580277777778,
+          48.150833333333
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.mpimf-heidelberg.mpg.de/de"
+        "Name": "Martin-Luther-Universität Halle-Wittenberg",
+        "URL": "http://www.uni-halle.de/",
+        "Subsite": "institution/Martin-Luther-UniversitaetHalle-Wittenberg.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.67599,
-          49.41212
+          11.968888888889,
+          51.486388888889
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "http://www.shh.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.578055555556,
-          50.917777777778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpimet.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.975172,
-          53.567678
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpi-halle.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.941388888889,
-          51.495277777778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.molgen.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.274304,
-          52.444844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpimp-golm.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.968888888889,
-          52.415555555556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpi-dortmund.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.409806,
-          51.489667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.neuro.mpg.de/index2.html"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.460833333333,
-          48.105
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.sf.mpg.de/startseite"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.916645,
-          50.925693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.orn.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.235666,
-          47.972456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpipz.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.859396,
-          50.958379
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpp.mpg.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.6125,
-          48.184166666667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpipks-dresden.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.716944444444,
-          51.026666666667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpl.mpg.de/de/institut/das-institut.html"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.027330555556,
-          49.582461111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.ipp.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.671666666667,
-          48.263611111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpip-mainz.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.2297222222222,
-          49.989166666667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.psych.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.576135,
-          48.173656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpi.nl/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.857124,
-          51.817924
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpq.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.666666666667,
-          48.259444444444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.mpifr-bonn.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.0696666666667,
-          50.730222222222
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpi-sws.org/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.04629,
-          49.25752
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mps.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9486111111111,
-          51.560277777778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.tax.mpg.de"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.58122,
-          48.14098
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpsd.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.88465,
-          53.57921
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpi-marburg.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.81094,
-          50.80681
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpiwg-berlin.mpg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.277777777778,
-          52.445277777778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "http://www.mpi-cbg.de/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.784558333333,
-          51.058638888889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "https://www.maxplanckflorida.org/"
+        "Name": "Max Planck Florida Institute for Neuroscience",
+        "URL": "https://www.maxplanckflorida.org/",
+        "Subsite": "institution/MaxPlanckFloridaInstituteforNeuroscience.html"
       },
       "geometry": {
         "type": "Point",
@@ -3891,13 +2194,2310 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "https://www.mpi.lu/"
+        "Name": "Max-Planck-Forschungsstelle für Neurogenetik",
+        "URL": "http://www.gen.mpg.de/",
+        "Subsite": "institution/Max-Planck-ForschungsstellefuerNeurogenetik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.652055,
+          50.093508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Medizinische Hochschule Brandenburg Theodor Fontane",
+        "URL": "http://www.mhb-fontane.de/",
+        "Subsite": "institution/MedizinischeHochschuleBrandenburgTheodorFontane.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.548118,
+          52.410661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Medizinische Hochschule Hannover",
+        "URL": "http://www.mh-hannover.de/",
+        "Subsite": "institution/MedizinischeHochschuleHannover.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8047222222222,
+          52.383888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Astronomie",
+        "URL": "http://www.mpia.de/",
+        "Subsite": "institution/MPIfuerAstronomie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7230555555556,
+          49.396388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Astrophysik",
+        "URL": "http://www.mpa-garching.mpg.de",
+        "Subsite": "institution/MPIfuerAstrophysik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.671666666667,
+          48.261111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für ausländisches öffentliches Recht und Völkerrecht",
+        "URL": "http://www.mpil.de/",
+        "Subsite": "institution/MPIfuerauslaendischesoeffentlichesRechtundVoelkerrecht.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67291,
+          49.42029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für ausländisches und internationales Privatrecht",
+        "URL": "http://www.mpipriv.de/",
+        "Subsite": "institution/MPIfuerauslaendischesundinternationalesPrivatrecht.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.994377,
+          53.562629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für ausländisches und internationales Strafrecht",
+        "URL": "http://www.mpicc.de/",
+        "Subsite": "institution/MPIfuerauslaendischesundinternationalesStrafrecht.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.848974,
+          47.98111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Bildungsforschung",
+        "URL": "http://www.mpib-berlin.mpg.de",
+        "Subsite": "institution/MPIfuerBildungsforschung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.303843,
+          52.468253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Biochemie",
+        "URL": "http://www.biochem.mpg.de/",
+        "Subsite": "institution/MPIfuerBiochemie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.460555555556,
+          48.105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Biogeochemie",
+        "URL": "http://www.bgc-jena.mpg.de/",
+        "Subsite": "institution/MPIfuerBiogeochemie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.566388888889,
+          50.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Biologie des Alterns",
+        "URL": "http://www.age.mpg.de/",
+        "Subsite": "institution/MPIfuerBiologiedesAlterns.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.919922,
+          50.925315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für biologische Kybernetik",
+        "URL": "http://www.kyb.tuebingen.mpg.de/de/",
+        "Subsite": "institution/MPIfuerbiologischeKybernetik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0584722222222,
+          48.536666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Biophysik",
+        "URL": "http://www.biophys.mpg.de/en.html",
+        "Subsite": "institution/MPIfuerBiophysik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6302777777778,
+          50.173611111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für biophysikalische Chemie",
+        "URL": "http://www.mpibpc.mpg.de/",
+        "Subsite": "institution/MPIfuerbiophysikalischeChemie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9694444444444,
+          51.561944444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Chemie",
+        "URL": "http://www.mpic.de/",
+        "Subsite": "institution/MPIfuerChemie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2430555555556,
+          49.993611111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Chemische Energiekonversion",
+        "URL": "http://cec.mpg.de/home.html",
+        "Subsite": "institution/MPIfuerChemischeEnergiekonversion.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.886891,
+          51.417754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für chemische Ökologie",
+        "URL": "http://www.ice.mpg.de",
+        "Subsite": "institution/MPIfuerchemischeÖkologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.568333333333,
+          50.910833333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Chemische Physik fester Stoffe",
+        "URL": "http://www.cpfs.mpg.de/",
+        "Subsite": "institution/MPIfuerChemischePhysikfesterStoffe.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.718611111111,
+          51.026388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für demografische Forschung",
+        "URL": "http://www.demogr.mpg.de/d_default.htm",
+        "Subsite": "institution/MPIfuerdemografischeForschung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.11088,
+          54.09403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für die Physik des Lichts",
+        "URL": "http://www.mpl.mpg.de/de/institut/das-institut.html",
+        "Subsite": "institution/MPIfuerdiePhysikdesLichts.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.027330555556,
+          49.582461111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Dynamik komplexer technischer Systeme",
+        "URL": "http://www.mpi-magdeburg.mpg.de/",
+        "Subsite": "institution/MPIfuerDynamikkomplexertechnischerSysteme.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.652803422222,
+          52.138433563889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Dynamik und Selbstorganisation",
+        "URL": "http://www.ds.mpg.de/",
+        "Subsite": "institution/MPIfuerDynamikundSelbstorganisation.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.967368,
+          51.560644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Eisenforschung GmbH",
+        "URL": "http://www.mpie.de/",
+        "Subsite": "institution/MPIfuerEisenforschungGmbH.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8130555555556,
+          51.239444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für empirische Ästhetik",
+        "URL": "http://www.aesthetics.mpg.de/",
+        "Subsite": "institution/MPIfuerempirischeÄsthetik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6729,
+          50.12111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Entwicklungsbiologie",
+        "URL": "http://www.eb.tuebingen.mpg.de/",
+        "Subsite": "institution/MPIfuerEntwicklungsbiologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0580555555556,
+          48.536944444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für ethnologische Forschung",
+        "URL": "http://www.eth.mpg.de/",
+        "Subsite": "institution/MPIfuerethnologischeForschung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.95952,
+          51.49695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für europäische Rechtsgeschichte",
+        "URL": "http://www.rg.mpg.de",
+        "Subsite": "institution/MPIfuereuropaeischeRechtsgeschichte.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.670521,
+          50.127956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für evolutionäre Anthropologie",
+        "URL": "http://www.eva.mpg.de/german/index.html",
+        "Subsite": "institution/MPIfuerevolutionaereAnthropologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.39487,
+          51.32106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Evolutionsbiologie",
+        "URL": "http://www.evolbio.mpg.de/",
+        "Subsite": "institution/MPIfuerEvolutionsbiologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.43395,
+          54.16026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für experimentelle Medizin",
+        "URL": "http://www.em.mpg.de/",
+        "Subsite": "institution/MPIfuerexperimentelleMedizin.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.937413,
+          51.551079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für extraterrestrische Physik",
+        "URL": "http://www.mpe.mpg.de/",
+        "Subsite": "institution/MPIfuerextraterrestrischePhysik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.671667,
+          48.261667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Festkörperforschung",
+        "URL": "http://www.fkf.mpg.de/",
+        "Subsite": "institution/MPIfuerFestkoerperforschung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.080833,
+          48.746667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Gesellschaftsforschung",
+        "URL": "http://www.mpifg.de/",
+        "Subsite": "institution/MPIfuerGesellschaftsforschung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.954174,
+          50.926681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Gravitationsphysik",
+        "URL": "http://www.aei.mpg.de/",
+        "Subsite": "institution/MPIfuerGravitationsphysik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.970277777778,
+          52.416388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Herz- und Lungenforschung",
+        "URL": "http://www.mpi-hlr.de/",
+        "Subsite": "institution/MPIfuerHerz-undLungenforschung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.74121,
+          50.36974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Hirnforschung",
+        "URL": "http://www.brain.mpg.de/",
+        "Subsite": "institution/MPIfuerHirnforschung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.62988,
+          50.17425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Immunbiologie und Epigenetik",
+        "URL": "http://www.ie-freiburg.mpg.de/",
+        "Subsite": "institution/MPIfuerImmunbiologieundEpigenetik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.851963,
+          48.025115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Infektionsbiologie",
+        "URL": "http://www.mpiib-berlin.mpg.de/",
+        "Subsite": "institution/MPIfuerInfektionsbiologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.375318,
+          52.524995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Informatik",
+        "URL": "http://www.mpi-inf.mpg.de/",
+        "Subsite": "institution/MPIfuerInformatik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.04582,
+          49.2579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Innovation und Wettbewerb",
+        "URL": "http://www.ip.mpg.de/",
+        "Subsite": "institution/MPIfuerInnovationundWettbewerb.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5812,
+          48.1405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Intelligente Systeme",
+        "URL": "http://www.is.mpg.de/",
+        "Subsite": "institution/MPIfuerIntelligenteSysteme.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0813888888889,
+          48.746666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Kernphysik",
+        "URL": "http://www.mpi-hd.mpg.de/",
+        "Subsite": "institution/MPIfuerKernphysik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7091666666667,
+          49.387777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Kognitions- und Neurowissenschaften",
+        "URL": "http://www.cbs.mpg.de/",
+        "Subsite": "institution/MPIfuerKognitions-undNeurowissenschaften.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.388694,
+          51.334741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Kohlenforschung",
+        "URL": "http://www.kofo.mpg.de/",
+        "Subsite": "institution/MPIfuerKohlenforschung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8852777777778,
+          51.416944444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Kolloid- und Grenzflächenforschung",
+        "URL": "http://www.mpikg.mpg.de/",
+        "Subsite": "institution/MPIfuerKolloid-undGrenzflaechenforschung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.969702777778,
+          52.414905555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für marine Mikrobiologie",
+        "URL": "http://www.mpi-bremen.de",
+        "Subsite": "institution/MPIfuermarineMikrobiologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8475,
+          53.110277777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Mathematik",
+        "URL": "http://www.mpim-bonn.mpg.de/",
+        "Subsite": "institution/MPIfuerMathematik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0986111111111,
+          50.734722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Mathematik in den Naturwissenschaften",
+        "URL": "http://www.mis.mpg.de/",
+        "Subsite": "institution/MPIfuerMathematikindenNaturwissenschaften.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.391666666667,
+          51.341388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für medizinische Forschung",
+        "URL": "http://www.mpimf-heidelberg.mpg.de/de",
+        "Subsite": "institution/MPIfuermedizinischeForschung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67599,
+          49.41212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Menschheitsgeschichte",
+        "URL": "http://www.shh.mpg.de/",
+        "Subsite": "institution/MPIfuerMenschheitsgeschichte.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.578055555556,
+          50.917777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Meteorologie",
+        "URL": "http://www.mpimet.mpg.de/",
+        "Subsite": "institution/MPIfuerMeteorologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.975172,
+          53.567678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Mikrostrukturphysik",
+        "URL": "http://www.mpi-halle.de/",
+        "Subsite": "institution/MPIfuerMikrostrukturphysik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.941388888889,
+          51.495277777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für molekulare Biomedizin",
+        "URL": "http://www.mpi-muenster.mpg.de",
+        "Subsite": "institution/MPIfuermolekulareBiomedizin.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5911111111111,
+          51.968055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für molekulare Genetik",
+        "URL": "http://www.molgen.mpg.de/",
+        "Subsite": "institution/MPIfuermolekulareGenetik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.274304,
+          52.444844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für molekulare Pflanzenphysiologie",
+        "URL": "http://www.mpimp-golm.mpg.de/",
+        "Subsite": "institution/MPIfuermolekularePflanzenphysiologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.968888888889,
+          52.415555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für molekulare Physiologie",
+        "URL": "http://www.mpi-dortmund.mpg.de/",
+        "Subsite": "institution/MPIfuermolekularePhysiologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.409806,
+          51.489667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für molekulare Zellbiologie und Genetik",
+        "URL": "http://www.mpi-cbg.de/",
+        "Subsite": "institution/MPIfuermolekulareZellbiologieundGenetik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.784558333333,
+          51.058638888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Neurobiologie",
+        "URL": "http://www.neuro.mpg.de/index2.html",
+        "Subsite": "institution/MPIfuerNeurobiologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.460833333333,
+          48.105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Ornithologie",
+        "URL": "http://www.orn.mpg.de/",
+        "Subsite": "institution/MPIfuerOrnithologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.235666,
+          47.972456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Pflanzenzüchtungsforschung",
+        "URL": "http://www.mpipz.mpg.de/",
+        "Subsite": "institution/MPIfuerPflanzenzuechtungsforschung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.859396,
+          50.958379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Physik",
+        "URL": "http://www.mpp.mpg.de",
+        "Subsite": "institution/MPIfuerPhysik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6125,
+          48.184166666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Physik komplexer Systeme",
+        "URL": "http://www.mpipks-dresden.mpg.de/",
+        "Subsite": "institution/MPIfuerPhysikkomplexerSysteme.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.716944444444,
+          51.026666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Plasmaphysik",
+        "URL": "http://www.ipp.mpg.de/",
+        "Subsite": "institution/MPIfuerPlasmaphysik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.671666666667,
+          48.263611111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Polymerforschung",
+        "URL": "http://www.mpip-mainz.mpg.de/",
+        "Subsite": "institution/MPIfuerPolymerforschung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2297222222222,
+          49.989166666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Psychiatrie",
+        "URL": "http://www.psych.mpg.de/",
+        "Subsite": "institution/MPIfuerPsychiatrie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.576135,
+          48.173656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Psycholinguistik",
+        "URL": "http://www.mpi.nl/",
+        "Subsite": "institution/MPIfuerPsycholinguistik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.857124,
+          51.817924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Quantenoptik",
+        "URL": "http://www.mpq.mpg.de/",
+        "Subsite": "institution/MPIfuerQuantenoptik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.666666666667,
+          48.259444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Radioastronomie",
+        "URL": "https://www.mpifr-bonn.mpg.de/",
+        "Subsite": "institution/MPIfuerRadioastronomie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0696666666667,
+          50.730222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Softwaresysteme",
+        "URL": "http://www.mpi-sws.org/",
+        "Subsite": "institution/MPIfuerSoftwaresysteme.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.04629,
+          49.25752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Sonnensystemforschung",
+        "URL": "http://www.mps.mpg.de/",
+        "Subsite": "institution/MPIfuerSonnensystemforschung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9486111111111,
+          51.560277777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Sozialrecht und Sozialpolitik",
+        "URL": "http://www.mpisoc.mpg.de/",
+        "Subsite": "institution/MPIfuerSozialrechtundSozialpolitik.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.576822,
+          48.148186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Steuerrecht und Öffentliche Finanzen",
+        "URL": "http://www.tax.mpg.de",
+        "Subsite": "institution/MPIfuerSteuerrechtundÖffentlicheFinanzen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58122,
+          48.14098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Stoffwechselforschung",
+        "URL": "http://www.sf.mpg.de/startseite",
+        "Subsite": "institution/MPIfuerStoffwechselforschung.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.916645,
+          50.925693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Struktur und Dynamik der Materie",
+        "URL": "http://www.mpsd.mpg.de/",
+        "Subsite": "institution/MPIfuerStrukturundDynamikderMaterie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.88465,
+          53.57921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für terrestrische Mikrobiologie",
+        "URL": "http://www.mpi-marburg.mpg.de/",
+        "Subsite": "institution/MPIfuerterrestrischeMikrobiologie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.81094,
+          50.80681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI für Wissenschaftsgeschichte",
+        "URL": "http://www.mpiwg-berlin.mpg.de/",
+        "Subsite": "institution/MPIfuerWissenschaftsgeschichte.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.277777777778,
+          52.445277777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI Luxembourg for International",
+        "URL": " European and Regulatory Procedural Law",
+        "Subsite": "https://www.mpi.lu/"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           6.1693,
           49.63221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI zur Erforschung multireligiöser und multiethnischer Gesellschaften",
+        "URL": "http://www.mmg.mpg.de/de/startseite/",
+        "Subsite": "institution/MPIzurErforschungmultireligioeserundmultiethnischerGesellschaften.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94709,
+          51.54095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MPI zur Erforschung von Gemeinschaftsgütern",
+        "URL": "https://www.coll.mpg.de/",
+        "Subsite": "institution/MPIzurErforschungvonGemeinschaftsguetern.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1264972222222,
+          50.716980555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Muthesius Kunsthochschule",
+        "URL": "http://www.muthesius-kunsthochschule.de",
+        "Subsite": "institution/MuthesiusKunsthochschule.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.141388888889,
+          54.327222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ostbayerische Technische Hochschule Regensburg",
+        "URL": "http://www.oth-regensburg.de/",
+        "Subsite": "institution/OstbayerischeTechnischeHochschuleRegensburg.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.095089,
+          49.003674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Otto-Friedrich-Universität Bamberg",
+        "URL": "https://www.uni-bamberg.de/",
+        "Subsite": "institution/Otto-Friedrich-UniversitaetBamberg.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.886666666667,
+          49.893888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Otto-von-Guericke-Universität Magdeburg",
+        "URL": "https://www.ovgu.de/",
+        "Subsite": "institution/Otto-von-Guericke-UniversitaetMagdeburg.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.643233333333,
+          52.140311111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pädagogische Hochschule Freiburg",
+        "URL": "http://www.ph-freiburg.de/",
+        "Subsite": "institution/PaedagogischeHochschuleFreiburg.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8933333333333,
+          47.981111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pädagogische Hochschule Heidelberg",
+        "URL": "http://www.ph-heidelberg.de/",
+        "Subsite": "institution/PaedagogischeHochschuleHeidelberg.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6847386111111,
+          49.420461944444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pädagogische Hochschule Karlsruhe",
+        "URL": "http://www.ph-karlsruhe.de",
+        "Subsite": "institution/PaedagogischeHochschuleKarlsruhe.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.392738,
+          49.013749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pädagogische Hochschule Ludwigsburg",
+        "URL": "http://www.ph-ludwigsburg.de/",
+        "Subsite": "institution/PaedagogischeHochschuleLudwigsburg.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1831216666667,
+          48.909837777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pädagogische Hochschule Schwäbisch Gmünd",
+        "URL": "http://www.ph-gmuend.de",
+        "Subsite": "institution/PaedagogischeHochschuleSchwaebischGmuend.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8288888888889,
+          48.791666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pädagogische Hochschule Weingarten",
+        "URL": "http://www.ph-weingarten.de/",
+        "Subsite": "institution/PaedagogischeHochschuleWeingarten.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.64395,
+          47.80966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Palucca Hochschule für Tanz Dresden",
+        "URL": "http://www.palucca.eu/",
+        "Subsite": "institution/PaluccaHochschulefuerTanzDresden.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.770999,
+          51.028986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Philipps-Universität Marburg",
+        "URL": "https://www.uni-marburg.de/",
+        "Subsite": "institution/Philipps-UniversitaetMarburg.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7737,
+          50.81076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Philosophisch-Theologische Hochschule Sankt Georgen",
+        "URL": "http://www.sankt-georgen.de/",
+        "Subsite": "institution/Philosophisch-TheologischeHochschuleSanktGeorgen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.712,
+          50.09848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Philosophisch-Theologische Hochschule SVD St. Augustin",
+        "URL": "http://www.pth-augustin.eu",
+        "Subsite": "institution/Philosophisch-TheologischeHochschuleSVDSt.Augustin.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.17827,
+          50.774141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Philosophisch-Theologische Hochschule Vallendar",
+        "URL": "http://www.pthv.de",
+        "Subsite": "institution/Philosophisch-TheologischeHochschuleVallendar.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6276014,
+          50.4015241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+        "URL": "https://www.uni-bonn.de/",
+        "Subsite": "institution/RheinischeFriedrich-Wilhelms-UniversitaetBonn.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1022222222222,
+          50.733888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Robert Schumann Hochschule Düsseldorf",
+        "URL": "http://www.rsh-duesseldorf.de/",
+        "Subsite": "institution/RobertSchumannHochschuleDuesseldorf.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7720630555556,
+          51.242333888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ruhr-Universität Bochum",
+        "URL": "https://www.ruhr-uni-bochum.de/",
+        "Subsite": "institution/Ruhr-UniversitaetBochum.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2615722222222,
+          51.4439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ruprecht-Karls-Universität Heidelberg",
+        "URL": "https://www.uni-heidelberg.de/",
+        "Subsite": "institution/Ruprecht-Karls-UniversitaetHeidelberg.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.70659,
+          49.410492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "RWTH Aachen (RWTH)",
+        "URL": "https://www.rwth-aachen.de/",
+        "Subsite": "institution/RWTHAachen(RWTH).html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0779166666667,
+          50.777694444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Staatliche Akademie der Bildenden Künste Stuttgart",
+        "URL": "http://www.abk-stuttgart.de/",
+        "Subsite": "institution/StaatlicheAkademiederBildendenKuensteStuttgart.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.17429,
+          48.80015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Staatliche Hochschule für Gestaltung Karlsruhe",
+        "URL": "http://www.hfg-karlsruhe.de/",
+        "Subsite": "institution/StaatlicheHochschulefuerGestaltungKarlsruhe.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3838888888889,
+          49.001666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Steinbeis-Hochschule Berlin (SBHB)",
+        "URL": "http://www.steinbeis-hochschule.de/",
+        "Subsite": "institution/Steinbeis-HochschuleBerlin(SBHB).html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.473489722222,
+          52.50939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Technische Universität Bergakademie Freiberg",
+        "URL": "http://www.tu-freiberg.de/",
+        "Subsite": "institution/TechnischeUniversitaetBergakademieFreiberg.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.340833333333,
+          50.918055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Technische Universität Berlin (TUB)",
+        "URL": "https://www.tu-berlin.de/",
+        "Subsite": "institution/TechnischeUniversitaetBerlin(TUB).html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.326388888889,
+          52.511944444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Technische Universität Braunschweig",
+        "URL": "https://www.tu-braunschweig.de/",
+        "Subsite": "institution/TechnischeUniversitaetBraunschweig.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.529722222222,
+          52.273611111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Technische Universität Chemnitz",
+        "URL": "http://www.tu-chemnitz.de/",
+        "Subsite": "institution/TechnischeUniversitaetChemnitz.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9275,
+          50.839166666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Technische Universität Clausthal",
+        "URL": "https://www.tu-clausthal.de/",
+        "Subsite": "institution/TechnischeUniversitaetClausthal.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.334444444444,
+          51.804722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Technische Universität Darmstadt",
+        "URL": "http://www.tu-darmstadt.de/",
+        "Subsite": "institution/TechnischeUniversitaetDarmstadt.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6569444444444,
+          49.875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Technische Universität Dortmund",
+        "URL": "https://www.tu-dortmund.de/",
+        "Subsite": "institution/TechnischeUniversitaetDortmund.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4142666666667,
+          51.492461111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Technische Universität Dresden",
+        "URL": "https://www.tu-dresden.de/",
+        "Subsite": "institution/TechnischeUniversitaetDresden.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.726666666667,
+          51.028055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Technische Universität Hamburg",
+        "URL": "http://www.tuhh.de/",
+        "Subsite": "institution/TechnischeUniversitaetHamburg.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9695055555556,
+          53.460958333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Technische Universität Ilmenau",
+        "URL": "https://www.tu-ilmenau.de/",
+        "Subsite": "institution/TechnischeUniversitaetIlmenau.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.939,
+          50.681666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Technische Universität Kaiserslautern",
+        "URL": "http://www.uni-kl.de/",
+        "Subsite": "institution/TechnischeUniversitaetKaiserslautern.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7530555555556,
+          49.423888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Technische Universität München",
+        "URL": "http://www.tum.de/",
+        "Subsite": "institution/TechnischeUniversitaetMuenchen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.568055555556,
+          48.148611111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Theologische Fakultät Fulda",
+        "URL": "https://thf-fulda.de/",
+        "Subsite": "institution/TheologischeFakultaetFulda.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.67116,
+          50.554648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Theologische Fakultät Paderborn",
+        "URL": "http://www.thf-paderborn.de",
+        "Subsite": "institution/TheologischeFakultaetPaderborn.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7549444444444,
+          51.716083333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Theologische Fakultät Trier",
+        "URL": "http://www.theo.uni-trier.de/",
+        "Subsite": "institution/TheologischeFakultaetTrier.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.68758,
+          49.74691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tierärztliche Hochschule Hannover",
+        "URL": "http://www.tiho-hannover.de",
+        "Subsite": "institution/TieraerztlicheHochschuleHannover.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7655555555556,
+          52.369166666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Augsburg (UAB)",
+        "URL": "http://www.uni-augsburg.de/",
+        "Subsite": "institution/UniversitaetAugsburg(UAB).html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.898333333333,
+          48.333888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Bayreuth (UBT)",
+        "URL": "https://www.uni-bayreuth.de/",
+        "Subsite": "institution/UniversitaetBayreuth(UBT).html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.585833333333,
+          49.928888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Bielefeld",
+        "URL": "http://www.uni-bielefeld.de/",
+        "Subsite": "institution/UniversitaetBielefeld.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4930555555556,
+          52.037777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Bremen",
+        "URL": "https://www.uni-bremen.de/",
+        "Subsite": "institution/UniversitaetBremen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8536069444444,
+          53.108659166667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität der Bundeswehr München",
+        "URL": "http://www.unibw.de/",
+        "Subsite": "institution/UniversitaetderBundeswehrMuenchen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.63813,
+          48.08032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität der Künste Berlin",
+        "URL": "http://www.udk-berlin.de/",
+        "Subsite": "institution/UniversitaetderKuensteBerlin.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.331111111111,
+          52.508055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität des Saarlandes",
+        "URL": "http://www.uni-saarland.de/",
+        "Subsite": "institution/UniversitaetdesSaarlandes.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0416666666667,
+          49.255555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Duisburg-Essen",
+        "URL": "http://www.uni-due.de/",
+        "Subsite": "institution/UniversitaetDuisburg-Essen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8008333333333,
+          51.429166666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Erfurt",
+        "URL": "https://www.uni-erfurt.de/",
+        "Subsite": "institution/UniversitaetErfurt.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.010833333333,
+          50.991388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Greifswald",
+        "URL": "https://www.uni-greifswald.de/",
+        "Subsite": "institution/UniversitaetGreifswald.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.374444444444,
+          54.094444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Hamburg",
+        "URL": "http://www.uni-hamburg.de/",
+        "Subsite": "institution/UniversitaetHamburg.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.983889,
+          53.566944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Hildesheim",
+        "URL": "http://www.uni-hildesheim.de/",
+        "Subsite": "institution/UniversitaetHildesheim.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.975,
+          52.133333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Hohenheim",
+        "URL": "https://www.uni-hohenheim.de/",
+        "Subsite": "institution/UniversitaetHohenheim.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.214,
+          48.7125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Kassel",
+        "URL": "http://www.uni-kassel.de/",
+        "Subsite": "institution/UniversitaetKassel.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.507562,
+          51.322774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Koblenz-Landau",
+        "URL": "https://www.uni-koblenz-landau.de/",
+        "Subsite": "institution/UniversitaetKoblenz-Landau.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5591666666667,
+          50.363611111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Konstanz",
+        "URL": "http://www.uni-konstanz.de/",
+        "Subsite": "institution/UniversitaetKonstanz.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1881,
+          47.690215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Leipzig",
+        "URL": "https://www.uni-leipzig.de/",
+        "Subsite": "institution/UniversitaetLeipzig.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378727777778,
+          51.3387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Mannheim",
+        "URL": "http://www.uni-mannheim.de/",
+        "Subsite": "institution/UniversitaetMannheim.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4646868705556,
+          49.483195989167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Osnabrück",
+        "URL": "https://www.uni-osnabrueck.de/",
+        "Subsite": "institution/UniversitaetOsnabrueck.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.041767,
+          52.272983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Paderborn",
+        "URL": "http://www.uni-paderborn.de/",
+        "Subsite": "institution/UniversitaetPaderborn.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7722222222222,
+          51.708055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Passau",
+        "URL": "http://www.uni-passau.de/",
+        "Subsite": "institution/UniversitaetPassau.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.453333333333,
+          48.568333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Potsdam",
+        "URL": "https://www.uni-potsdam.de/",
+        "Subsite": "institution/UniversitaetPotsdam.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.011944444444,
+          52.401111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Regensburg",
+        "URL": "http://www.uni-regensburg.de/",
+        "Subsite": "institution/UniversitaetRegensburg.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.095,
+          48.9981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Rostock",
+        "URL": "http://www.uni-rostock.de/",
+        "Subsite": "institution/UniversitaetRostock.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.133373,
+          54.088133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Siegen",
+        "URL": "http://www.uni-siegen.de/",
+        "Subsite": "institution/UniversitaetSiegen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0283333333333,
+          50.906388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Stuttgart",
+        "URL": "http://www.uni-stuttgart.de/",
+        "Subsite": "institution/UniversitaetStuttgart.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1752,
+          48.7817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Trier",
+        "URL": "http://www.uni-trier.de/",
+        "Subsite": "institution/UniversitaetTrier.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6753555555556,
+          49.747708333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Ulm",
+        "URL": "http://www.uni-ulm.de",
+        "Subsite": "institution/UniversitaetUlm.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.953774,
+          48.422095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Vechta",
+        "URL": "http://www.uni-vechta.de/",
+        "Subsite": "institution/UniversitaetVechta.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.293819,
+          52.721608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität Witten/Herdecke",
+        "URL": "https://www.uni-wh.de/",
+        "Subsite": "institution/UniversitaetWitten-Herdecke.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.357233,
+          51.452267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität zu Köln",
+        "URL": "http://www.uni-koeln.de/",
+        "Subsite": "institution/UniversitaetzuKoeln.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9286111111111,
+          50.928055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Universität zu Lübeck",
+        "URL": "http://www.uni-luebeck.de/",
+        "Subsite": "institution/UniversitaetzuLuebeck.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.705833333333,
+          53.836933333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Westfälische Wilhelms-Universität",
+        "URL": "https://www.uni-muenster.de/",
+        "Subsite": "institution/WestfaelischeWilhelms-Universitaet.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6130555555556,
+          51.963611111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "WHU – Otto Beisheim School of Management",
+        "URL": "http://www.whu.edu/",
+        "Subsite": "institution/WHU–OttoBeisheimSchoolofManagement.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6135063888889,
+          50.400325277778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Zeppelin Universität",
+        "URL": "https://www.zu.de/",
+        "Subsite": "institution/ZeppelinUniversitaet.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4338888888889,
+          47.658611111111
         ]
       }
     }
