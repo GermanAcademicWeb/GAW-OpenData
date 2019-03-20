@@ -13,8 +13,13 @@ type: institution
 
   <div class="article__content" itemprop="articleBody">
     {{ content }}
-    {% if page.myvariable %}
-      {% include {{ page.myvariable }} %}
+    {% if page.recordsgraph %}
+    <h2>Records</h2>
+      {% include {{ page.recordsgraph }} %}
+    {% endif %}
+    {% if page.storagegraph %}
+    <h2>Storage</h2>
+      {% include {{ page.storagegraph }} %}
     {% endif %}
   </div>
 

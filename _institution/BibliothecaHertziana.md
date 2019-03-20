@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Bibliotheca Hertziana
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

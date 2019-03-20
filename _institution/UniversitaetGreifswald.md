@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Universität Greifswald
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

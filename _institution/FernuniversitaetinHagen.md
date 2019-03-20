@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Fernuniversität in Hagen
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

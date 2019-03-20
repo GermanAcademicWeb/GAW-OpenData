@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Hochschule für Politik München
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

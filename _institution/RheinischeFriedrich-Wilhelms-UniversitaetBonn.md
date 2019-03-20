@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Rheinische Friedrich-Wilhelms-Universität Bonn
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Martin-Luther-Universität Halle-Wittenberg
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

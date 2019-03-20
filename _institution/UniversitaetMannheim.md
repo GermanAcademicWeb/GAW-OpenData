@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Universität Mannheim
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

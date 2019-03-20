@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Kunstakademie Münster
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

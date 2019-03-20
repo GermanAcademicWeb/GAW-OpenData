@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Technische Universität Dortmund
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

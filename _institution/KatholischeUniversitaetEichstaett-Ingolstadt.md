@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Katholische Universität Eichstätt-Ingolstadt
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

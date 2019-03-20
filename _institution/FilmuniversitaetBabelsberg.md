@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Filmuniversität Babelsberg
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

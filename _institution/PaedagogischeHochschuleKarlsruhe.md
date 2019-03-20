@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Pädagogische Hochschule Karlsruhe
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---
