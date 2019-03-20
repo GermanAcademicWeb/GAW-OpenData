@@ -4,3 +4,5 @@ title: Hochschule für Musik und Theater „Felix Mendelssohn Bartholdy“ Leipz
 recordsgraph: 
 storagegraph: 
 ---
+
+Website: [http://www.hmt-leipzig.de/](http://www.hmt-leipzig.de/)
