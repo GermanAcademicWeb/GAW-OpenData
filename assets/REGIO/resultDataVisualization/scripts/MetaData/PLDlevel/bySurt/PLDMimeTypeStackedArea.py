@@ -165,7 +165,7 @@ def plotMimeDist(pldsurt,PLDwiseDict):
 
         #export figs
         imgDir = 'resultDataVisualization/images/'
-        imgPath = imgDir + sourcePath + pldsurt +'/'
+        imgPath = imgDir + sourcePath + '.'.join(pldsurt.split(',')[::-1]) +'/'
 
         if not os.path.isdir(imgPath):
             pathlib.Path(imgPath).mkdir(parents=True)
