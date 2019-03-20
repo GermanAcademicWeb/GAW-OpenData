@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Deutsche Sporthochschule Köln
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

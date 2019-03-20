@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Handelshochschule Leipzig
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

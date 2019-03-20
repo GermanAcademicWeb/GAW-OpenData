@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Universität Ulm
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

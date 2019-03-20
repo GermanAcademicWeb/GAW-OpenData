@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Leuphana Universität Lüneburg
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

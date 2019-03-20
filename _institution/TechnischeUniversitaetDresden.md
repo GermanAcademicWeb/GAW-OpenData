@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Technische Universität Dresden
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

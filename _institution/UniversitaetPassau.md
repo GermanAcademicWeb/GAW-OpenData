@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Universität Passau
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

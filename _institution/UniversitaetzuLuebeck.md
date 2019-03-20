@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Universität zu Lübeck
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

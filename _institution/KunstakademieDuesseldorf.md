@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Kunstakademie Düsseldorf
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

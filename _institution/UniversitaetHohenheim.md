@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Universität Hohenheim
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

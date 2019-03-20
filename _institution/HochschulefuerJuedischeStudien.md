@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Hochschule für Jüdische Studien
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

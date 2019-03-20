@@ -110,7 +110,7 @@ layout: article
             source: vectorSource,
             style: new ol.style.Style({
               image: new ol.style.Circle({
-                radius: 3,
+                radius: 4,
                 fill: new ol.style.Fill({color: 'blue'})
               })
             })
@@ -132,17 +132,15 @@ layout: article
           features.push(feature);
         });
         if (features.length > 0) {
-          var info = [];
-          var link = [];
+          var showing = [];
           for (var i = 0, ii = features.length; i < ii; ++i) {
-            info.push(features[i].get('Name'));
-            link.push(features[i].get('Subsite'));
+            showing.push('<a target="_blank" href="' + (features[i].get('Subsite')) + '">' + (features[i].get('Name')) + '</a>');
           }
-          if (info.length > 1) {
-            content.innerHTML = info.join(', ') || '(unknown)';
+          if (showing.length > 1) {
+            content.innerHTML = showing.join('<br>') || '(unknown)';
           }
-          else if (info.length == 1) {
-            content.innerHTML = '<a target="_blank" href="' + link + '">' + info + '</a>';
+          else if (showing.length == 1) {
+            content.innerHTML = showing;
           }
         } else {
           content.innerHTML = 'No institution selected';

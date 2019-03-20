@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Universität Augsburg (UAB)
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---

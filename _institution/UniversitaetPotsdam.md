@@ -1,5 +1,6 @@
 ---
 layout: institution
 title: Universität Potsdam
-myvariable: 
+recordsgraph: 
+storagegraph: 
 ---
