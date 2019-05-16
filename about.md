@@ -4,12 +4,9 @@ title: Overview on the GAW data
 key: page-about
 ---
 
-## basic statistics
+## Basic Statistics
 
-The following table shows for each directory under `/data/web/gaw/`
-the statistics for all WARC files (i.e., only files with the extension
-`warc.gz` - files ending in `warc.gz.open` or `warc.gz._COPYING_` were
-ignored):
+The following table shows the statistics for all WARC files:
 
 | directory | WARC count | WARC [TB] | start time          | end time            |   Pig [Bytes] | Pig [TB] | URLs Pig    |
 |-----------|------------|-----------|---------------------|---------------------|---------------|----------|-------------|
@@ -26,4 +23,9 @@ ignored):
 |   2017-12 |       7374 |       6.8 | 2017-12-05 12:42:27 | 2017-12-17 10-17-47 | 4843662285159 |      4.4 | 85,744,182  |
 |   2018-06 |       7116 |       6.6 | 2018-06-18 07:08:26 | 2018-06-29 21-31-07 | 4792082039827 |      4.4 | 84,370,004  |
 
-#+TBLFM: $7=$-1/1024/1024/1024/1024;%2.1f
+
+## Team
+
+[Prof. Dr. rer. nat. Robert Jäschke](https://www.ibi.hu-berlin.de/de/ueber-uns/personen/jaeschke)
+
+[Michael Paris](https://www.ibi.hu-berlin.de/de/ueber-uns/personen/paris)
