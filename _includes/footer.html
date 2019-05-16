@@ -5,10 +5,6 @@
       <a href="https://www.hu-berlin.de/en/"> <img src="/ipa/gaw-opendata/assets/images/logo/hu-logo.png" alt="uni_logo" width="120" height="120">
       </a>
     </div>
-    
-    <div class="footer__contact">
-      <a href="mailto:robert.jaeschke@hu-berlin.de?subject=feedback">Contact</a>
-    </div>
 
     {%- assign _site_author = site.author -%}
     {%- if _site_author.type == 'organization' -%}
@@ -39,6 +35,15 @@
         © {{ site.title }} {{ _locale_copyright_dates }},
         Powered by <a title="Jekyll is a simple, blog-aware, static site generator." href="http://jekyllrb.com/">Jekyll</a> & <a
         title="TeXt is a super customizable Jekyll theme." href="https://github.com/kitian616/jekyll-TeXt-theme">TeXt Theme</a>.
+        <div class="footer__contact">
+          <a href="mailto:robert.jaeschke@hu-berlin.de?subject=feedback">Contact</a>
+        </div>
+      </div>
+      <div class="impressum">
+        <a href="https://www.hu-berlin.de/de/hu/impressum/">Impressum</a>
+        <div class="data privacy statement">
+          <a href="https://www.hu-berlin.de/de/hu/impressum/datenschutzerklaerung">Data Privacy Statement</a>
+        </div>
       </div>
     </div>
   </div>
