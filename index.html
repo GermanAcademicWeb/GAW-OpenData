@@ -3,6 +3,50 @@ layout: article
 title: Home
 ---
 
-Welcome to the Homepage of the German Academic Web Crawl. This is part of the REGIO-Project.
+<p>Welcome to the Homepage of the German Academic Web Crawl. This is part of the REGIO-Project.</p>
 
 Contact us via <a href="mailto:robert.jaeschke@hu-berlin.de?subject=feedback">E-Mail</a>.
+
+<h2>Example for Database</h2>
+
+<?php
+   $dbname   = "[datenbankname]";
+   $dbuser   = "[datenbankaccount]";
+   $dbpass   = "[datenbankpasswort]";
+   $dbserver = "[datenbankserver]";
+   $dbport   = "[datenbankport]";
+
+   try {
+      # Im Folgenden den passenden Connector "einkommentieren" ("#" am Zeilenanfang entfernen)
+      #
+      # Fuer PostgreSQL:
+      #
+      #$dbh = new PDO("pgsql:host=$dbserver;dbname=$dbname;port=$dbport",$dbuser,$dbpass);
+      #
+      # Fuer PostgreSQL, SSL verschluesselt:
+      #
+      #$dbh = new PDO("pgsql:host=$dbserver;dbname=$dbname;port=$dbport;sslmode=require",$dbuser,$dbpass);
+      #
+      # Fuer MySQL:
+      #
+      #$dbh = new PDO("mysql:host=$dbserver;dbname=$dbname;port=$dbport",$dbuser,$dbpass);
+   }
+   catch(PDOException $e) {
+      echo $e->getMessage();
+   }
+?>
+
+
+<p>
+  Die PHP-Anweisung liest zeilenweise alle Attribute einer Tabelle aus und stellt diese in Form einer HTML-Stichpunktliste dar.
+</p>
+
+<ul>
+    <?php
+        $sql = "SELECT * FROM tabellenname";
+        $query = $dbh->query($sql);
+        while ($row = $query->fetch()) {
+            print "<li>" . $row["attributname"] . "</li>";
+        }
+    ?>
+</ul>
