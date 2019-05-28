@@ -9,6 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    sodipodi:docname="regio.svg"
    viewBox="0 0 232.96001 80"
    height="80"
@@ -27,6 +28,7 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <a xlink:href="/ipa/gaw-opendata/">
   <defs
      id="defs6" />
   <sodipodi:namedview
@@ -122,4 +124,5 @@
      id="path4578"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="zzzzzzzzzzz" />
+   </a>
 </svg>
