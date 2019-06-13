@@ -21,6 +21,30 @@
     <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1153"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path893"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect888"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
        refY="0"
        refX="0"
        id="marker5026"
@@ -78,6 +102,31 @@
          transform="matrix(0.8,0,0,0.8,10,0)"
          inkscape:connector-curvature="0" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1153-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path893-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect888-7"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -87,10 +136,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
-     inkscape:cx="987.76432"
-     inkscape:cy="1206.359"
+     inkscape:cx="2006.0793"
+     inkscape:cy="290.20494"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer3"
      showgrid="true"
      showborder="false"
      showguides="false"
@@ -117,7 +166,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -136,21 +185,21 @@
          id="path4988"
          inkscape:connector-curvature="0" />
       <ellipse
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path5461"
          cx="-217.39261"
          cy="22.330128"
          rx="121.70833"
          ry="105.83333" />
       <ellipse
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path5461-0"
          cx="112.31385"
          cy="22.330128"
          rx="121.70834"
          ry="105.83334" />
       <ellipse
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path5461-2"
          cx="442.02029"
          cy="22.330128"
@@ -197,17 +246,19 @@
      transform="translate(381,101.56589)">
     <g
        id="g5422"
-       transform="translate(-130.03287,-2.1962851)">
+       transform="translate(-130.03287,-2.1962851)"
+       style="fill:#00ffff">
       <ellipse
          ry="33.973133"
          rx="62.037868"
          cy="24.526413"
          cx="-87.359741"
          id="path4538"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4489446;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.4489446;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
          transform="translate(-1.4174107,-2.8348214)"
-         id="g4544">
+         id="g4544"
+         style="fill:#00ffff">
         <ellipse
            id="path18"
            cx="-118.49553"
@@ -217,7 +268,7 @@
            style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.15637562;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;image-rendering:auto"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;image-rendering:auto;"
            x="-137.58333"
            y="32.416668"
            id="text16"><tspan
@@ -225,11 +276,12 @@
              id="tspan14"
              x="-137.58333"
              y="32.416668"
-             style="stroke-width:0.26458332">Actor 1</tspan></text>
+             style="stroke-width:0.26458332;fill:#000000;">Actor 1</tspan></text>
       </g>
       <g
          transform="translate(53.578126,-3.0238156)"
-         id="g4544-3">
+         id="g4544-3"
+         style="fill:#00ffff">
         <ellipse
            id="path18-6"
            cx="-118.49553"
@@ -239,7 +291,7 @@
            style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.15637562;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;image-rendering:auto"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;image-rendering:auto;"
            x="-137.58333"
            y="32.416668"
            id="text16-7"><tspan
@@ -247,29 +299,31 @@
              id="tspan14-5"
              x="-137.58333"
              y="32.416668"
-             style="stroke-width:0.26458332">Actor 2</tspan></text>
+             style="stroke-width:0.26458332;fill:#000000;">Actor 2</tspan></text>
       </g>
     </g>
     <g
        id="g5453"
-       transform="translate(189.03935,-1.9614466)">
+       transform="translate(189.03935,-1.9614466)"
+       style="fill:#00ffff">
       <ellipse
          ry="33.973133"
          rx="62.037868"
          cy="24.291574"
          cx="252.98094"
          id="path4538-2"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4489446;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.4489446;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
          ry="19.84375"
          rx="58.208344"
          cy="23.663925"
          cx="250.76591"
          id="path4641"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#aaeeff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
          transform="translate(346.06374,-3.7951078)"
-         id="g4544-36">
+         id="g4544-36"
+         style="fill:#00ffff">
         <ellipse
            id="path18-0"
            cx="-118.49553"
@@ -279,7 +333,7 @@
            style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.15637562;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;image-rendering:auto"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;image-rendering:auto;"
            x="-137.58333"
            y="32.416668"
            id="text16-6"><tspan
@@ -287,11 +341,12 @@
              id="tspan14-2"
              x="-137.58333"
              y="32.416668"
-             style="stroke-width:0.26458332">Actor 1</tspan></text>
+             style="stroke-width:0.26458332;fill:#000000;">Actor 1</tspan></text>
       </g>
       <g
          transform="translate(399.19532,-3.7440838)"
-         id="g4544-6">
+         id="g4544-6"
+         style="fill:#00ffff">
         <ellipse
            id="path18-1"
            cx="-118.49553"
@@ -301,7 +356,7 @@
            style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.15637562;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;image-rendering:auto"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;image-rendering:auto;"
            x="-137.58333"
            y="32.416668"
            id="text16-8"><tspan
@@ -309,15 +364,15 @@
              id="tspan14-7"
              x="-137.58333"
              y="32.416668"
-             style="stroke-width:0.26458332">Actor 2</tspan></text>
+             style="stroke-width:0.26458332;fill:#000000;">Actor 2</tspan></text>
       </g>
       <text
          id="text4982"
          y="13.962988"
          x="233.7419"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
          xml:space="preserve"><tspan
-           style="stroke-width:0.26458332"
+           style="stroke-width:0.26458332;fill:#000000;"
            y="13.962988"
            x="233.7419"
            id="tspan4980"
@@ -325,17 +380,19 @@
     </g>
     <g
        id="g5437"
-       transform="translate(39.222695,-2.0073031)">
+       transform="translate(39.222695,-2.0073031)"
+       style="fill:#00ffff">
       <ellipse
          ry="33.973133"
          rx="62.037868"
          cy="24.337431"
          cx="73.091156"
          id="path4538-9"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4489446;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.4489446;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
          transform="translate(156.76562,-3.0238161)"
-         id="g4544-35">
+         id="g4544-35"
+         style="fill:#00ffff">
         <ellipse
            id="path18-62"
            cx="-118.49553"
@@ -345,7 +402,7 @@
            style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.15637562;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;image-rendering:auto"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;image-rendering:auto;"
            x="-137.58333"
            y="32.416668"
            id="text16-9"><tspan
@@ -353,11 +410,12 @@
              id="tspan14-1"
              x="-137.58333"
              y="32.416668"
-             style="stroke-width:0.26458332">Actor 1</tspan></text>
+             style="stroke-width:0.26458332;fill:#000000;">Actor 1</tspan></text>
       </g>
       <g
          transform="translate(224.23438,-3.0238156)"
-         id="g4544-2">
+         id="g4544-2"
+         style="fill:#00ffff">
         <ellipse
            id="path18-7"
            cx="-118.49553"
@@ -367,7 +425,7 @@
            style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.15637562;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;image-rendering:auto"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;image-rendering:auto;"
            x="-137.58333"
            y="32.416668"
            id="text16-0"><tspan
@@ -375,20 +433,20 @@
              id="tspan14-9"
              x="-137.58333"
              y="32.416668"
-             style="stroke-width:0.26458332">Actor 2</tspan></text>
+             style="stroke-width:0.26458332;fill:#000000;">Actor 2</tspan></text>
       </g>
       <path
          inkscape:connector-curvature="0"
          id="path4645"
          d="M 62.177083,25.802083 H 82.020832"
-         style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+         style="fill:#00ffff;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
       <text
          id="text4986"
          y="15.820443"
          x="58.836212"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
-           style="stroke-width:0.26458332"
+           style="stroke-width:0.26458332;fill:#00ffff"
            y="15.820443"
            x="58.836212"
            id="tspan4984"
@@ -443,5 +501,101 @@
          y="-93.52504"
          style="stroke-width:0.26458332"
          id="tspan5765-3">Crawl</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker1153)"
+       d="m -153.45833,-68.125004 c 29.98638,-28.222482 59.972492,-56.444706 93.4861,-56.444686 33.513607,2e-5 70.555598,28.222494 107.597225,56.444686"
+       id="path886"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect888"
+       inkscape:original-d="m -153.45833,-68.125004 c 29.98638,-28.222487 59.972489,-56.444706 89.958326,-84.666666 37.041613,28.2217 74.083597,56.444179 111.124999,84.666666" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-79.375"
+       y="-142.20834"
+       id="text1323"><tspan
+         sodipodi:role="line"
+         id="tspan1321"
+         x="-79.375"
+         y="-142.20834"
+         style="stroke-width:0.26458332">Beginning of Interaction</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1153-3)"
+       d="m 176.74167,-67.06667 c 29.98639,-28.222481 59.97249,-56.4447 93.4861,-56.44467 33.5136,2e-5 70.55559,28.222482 107.59722,56.44467"
+       id="path886-5"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect888-7"
+       inkscape:original-d="m 176.74167,-67.06667 c 29.98638,-28.222488 59.97249,-56.4447 89.95832,-84.66665 37.04162,28.22169 74.0836,56.444162 111.125,84.66665" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="200.55481"
+       y="-132.15431"
+       id="text5169"><tspan
+         sodipodi:role="line"
+         id="tspan5167"
+         x="200.55481"
+         y="-132.15431"
+         style="stroke-width:0.26458332">Path to excellence Cluster</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-157.38626"
+       y="234.51344"
+       id="text5173"><tspan
+         sodipodi:role="line"
+         id="tspan5171"
+         x="-157.38626"
+         y="234.51344"
+         style="stroke-width:0.26458332">Determination of Actors in Domain of Science</tspan><tspan
+         sodipodi:role="line"
+         x="-157.38626"
+         y="247.74261"
+         style="stroke-width:0.26458332"
+         id="tspan5187" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="118.6872"
+       y="233.48767"
+       id="text5177"><tspan
+         sodipodi:role="line"
+         id="tspan5175"
+         x="118.6872"
+         y="233.48767"
+         style="stroke-width:0.26458332">Analysis of Interaction on Institution Websites</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-347.78061"
+       y="211.45691"
+       id="text5181"><tspan
+         sodipodi:role="line"
+         id="tspan5179"
+         x="-347.78061"
+         y="211.45691"
+         style="stroke-width:0.26458332">Analysis of Crawl Data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="403.82983"
+       y="234.51344"
+       id="text5185"><tspan
+         sodipodi:role="line"
+         id="tspan5183"
+         x="403.82983"
+         y="234.51344"
+         style="stroke-width:0.26458332">Prediction of Future Clusters of Excellence</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="672.04163"
+       y="212.33333"
+       id="text5191"><tspan
+         sodipodi:role="line"
+         id="tspan5189"
+         x="672.04163"
+         y="212.33333"
+         style="stroke-width:0.26458332">t</tspan></text>
   </g>
 </svg>
