@@ -1,4 +1,8 @@
 header:
+
+  - title: Data
+    url: /data.html
+
   - title: Visualization
     url: /visualization.html
 
