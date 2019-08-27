@@ -3,11 +3,11 @@ header:
   - title: Data
     url: /data.html
 
-  - title: Visualization
-    url: /visualization.html
-
   - title: Institutions
     url: /institutions.html
+
+  - title: Downloads
+    url: /downloads.html
 
   - title: About
     url: /about.html
