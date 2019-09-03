@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Downloads
+lang: en
 ---
 
 Downloads may be availible in the future.

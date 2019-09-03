@@ -1,13 +1,45 @@
 header:
-
-  - title: Data
+  - titles:
+     en: Data
+     de: Daten
     url: /data.html
 
-  - title: Institutions
+  - titles:
+     en: Institutions
+     de: Institutionen
     url: /institutions.html
 
   - title: Downloads
     url: /downloads.html
 
-  - title: About
+  - titles:
+     en: About
+     de: Über
     url: /about.html
+
+  - titles:
+     en: DE
+    url: /de
+
+header-de:
+  - titles:
+     en: Data
+     de: Daten
+    url: /de/data.html
+
+  - titles:
+     en: Institutions
+     de: Institutionen
+    url: /de/institutions.html
+
+  - title: Downloads
+    url: /de/downloads.html
+
+  - titles:
+     en: About
+     de: Über
+    url: /de/about.html
+
+  - titles:
+     en: en
+    url: /
