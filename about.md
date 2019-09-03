@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Overview on the GAW data
+lang: en
 key: page-about
 ---
 ## About GAW

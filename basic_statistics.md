@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Data
+lang: en
 ---
 
 ### Basic Statistics

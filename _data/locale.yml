@@ -27,6 +27,35 @@ en-CA:
 en-AU:
   <<: *EN
 
+## => German
+########################
+de: &DE
+  SUBSCRIBE               : "Subscribe"
+  READMORE                : "Read more"
+  SEARCH                  : "Search"
+  CANCEL                  : "Cancel"
+  VIEWS                   : "views"
+  LAST_UPDATED            : "Last updated"
+  PREVIOUS                : "Vorheriger"
+  NEXT                    : "Nächster"
+  ARTICLE_DATE_FORMAT     : "%b %d, %Y"
+  ARTICLE_LIST_DATE_FORMAT: "%b %d"
+  STATISTICS              : "[POST_COUNT] post articles, [PAGE_COUNT] pages."
+  LICENSE_ANNOUNCE        : "This work is licensed under a [LICENSE] license."
+  POST_ON_GITHUB          : "Edit on Github"
+  FOLLOW_ME               : "Follow me on [NAME]."
+  EMAIL_ME                : "Send me Email."
+  COPYRIGHT_DATES         : "2019"
+
+# de-GB:
+#  <<: *EN
+# en-US:
+#  <<: *EN
+# en-CA:
+#  <<: *EN
+# en-AU:
+#  <<: *EN
+
 ## => Simplified Chinese
 ########################
 zh-Hans: &ZH_HANS

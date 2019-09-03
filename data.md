@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Data
+lang: en
 ---
 
 [![Visualization](assets/visualization.jpg)](visualization.html) | [![Statistics](assets/statistics.jpg)](basic_statistics.html)
