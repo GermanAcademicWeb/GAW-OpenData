@@ -18,8 +18,9 @@
 ##############################
 text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://scm.cms.hu-berlin.de # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl : /ipa/gaw-opendata # does not include hostname
+url     : https://german-academic-web.de # the base hostname & protocol for your site e.g. https://www.someone.com
+baseurl : /GermanAcademicWeb/GAW-OpenData
+# baseurl : /ipa/gaw-opendata # does not include hostname
 # baseurl: /ganselar/gaw-opendata
 title   : German Academic Web OpenData
 description: > # this means to ignore newlines until "Language & timezone"
