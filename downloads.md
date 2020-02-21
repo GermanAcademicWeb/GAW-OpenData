@@ -4,6 +4,9 @@ title: Downloads
 lang: en
 ---
 
-Downloads may be availible in the future.
+Downloads will be availible through Zenodo.
+
+[![Zenodo](assets/images/logo/zenodo.png)](https://zenodo.org/)
+
 
 Contact us via <a href="mailto:robert.jaeschke@hu-berlin.de?subject=feedback">E-Mail</a> for more information.
