@@ -19,7 +19,7 @@ To achive it, we use an instance of [Heritrix](https://github.com/internetarchiv
 
 [Michael Paris](https://www.ibi.hu-berlin.de/de/ueber-uns/personen/paris)
 
-Lars Ganser
+[Lars Ganser](https://www.ibi.hu-berlin.de/de/ueber-uns/personen/ganser)
 
 ## About REGIO
 
