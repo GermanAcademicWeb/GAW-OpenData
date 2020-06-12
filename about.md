@@ -13,6 +13,10 @@ Max Planck and Fraunhofer institutes.
 
 To achive it, we use an instance of [Heritrix](https://github.com/internetarchive/heritrix3).
 
+### Latest Crawl
+
+<img src="https://amor.cms.hu-berlin.de/~jaeschkr/crawler/progress.svg" alt="Crawl progress">
+
 ## Team
 
 [Prof. Dr. rer. nat. Robert Jäschke](https://www.ibi.hu-berlin.de/de/ueber-uns/personen/jaeschke)
