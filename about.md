@@ -4,6 +4,7 @@ title: Overview on the GAW data
 lang: en
 key: page-about
 ---
+
 ## About GAW
 
 Our goal since 2012 is to create every six months an archive of the
@@ -35,3 +36,5 @@ Federal Ministry of Education and Research is to accomplish a better
 understanding of "nearness", especially the impact of geographical and
 thematic proximity, on the creation and success of interaction in
 public science and private R&D.
+
+<div style="Text-align: center"><a href="https://www.regio-project.org/"><img src="/assets/images/logo/regio.svg" alt="REGIO" class="center" /></a></div>
