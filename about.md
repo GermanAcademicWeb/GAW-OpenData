@@ -18,6 +18,8 @@ To achive it, we use an instance of [Heritrix](https://github.com/internetarchiv
 
 <img src="https://amor.cms.hu-berlin.de/~jaeschkr/crawler/progress.svg" alt="Crawl progress">
 
+*With support by <a href="https://www.l3s.de/en"><img src="/assets/images/logo/L3S_Logo_NEU_small.jpg" alt="L3S" style ="width: 5%; height: auto;" /></a>*
+
 ## Team
 
 [Prof. Dr. rer. nat. Robert Jäschke](https://www.ibi.hu-berlin.de/de/ueber-uns/personen/jaeschke)
