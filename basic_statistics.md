@@ -9,7 +9,7 @@ lang: en
 The following table shows some statistics about the crawled data in
 the GAW project:
 
-|    Date | WARC count | Data in TB | Start Time (UTC)    | End Time (UTC)      | Unique URLs |
+|    Date | Snapshot partitions | Data in TB | Start Time (UTC)    | End Time (UTC)      | Unique URLs |
 |---------|------------|------------|---------------------|---------------------|-------------|
 | 2012-10 |       2922 |       2.67 | 2012-10-09 10:50:36 | 2012-10-29 11:03:21 |    40077499 |
 | 2013-02 |       6477 |       5.90 | 2013-02-11 16:27:43 | 2013-03-05 12:16:15 |   170625168 |
