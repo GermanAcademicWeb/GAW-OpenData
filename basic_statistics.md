@@ -27,10 +27,3 @@ the GAW project:
 | 2019-06 |       7012 |       6.39 | 2019-06-13 06:48:30 | 2019-06-27 11:07:40 |    99797675 |
 | 2019-12 |       7035 |       6.41 | 2019-12-03 10:08:00 | 2019-12-10 11:32:52 |   100976809 |
 | 2020-06 |       6953 |       6.41 | 2020-06-03 07:44:24 | 2020-06-11 11:44:55 |             |
-
-### MIME-Type-Distribution
-![MIME-Types](/assets/images/records.svg)
-
-### Consistency
-
-![Intersection MatSURTs](/assets/images/intersection_matSurts.svg)
