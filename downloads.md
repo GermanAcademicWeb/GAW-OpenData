@@ -29,6 +29,4 @@ Downloads are available through [Zenodo](https://zenodo.org/communities/regio).
 <li><a href="https://doi.org/10.5281/zenodo.3795574">Geolocation of German Academic Institutions <img src="/assets/images/zenodo/zenodo.3795574.svg" alt="DOI"></a>
 </li></ul>
 
-
-
-Contact us via <a href="mailto:robert.jaeschke@hu-berlin.de?subject=feedback">E-Mail</a> for more information.
+For full access to the WARC files or CDX index files please get in contact with us <a href="mailto:robert.jaeschke@hu-berlin.de?subject=feedback">E-Mail</a>.

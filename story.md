@@ -61,19 +61,16 @@ For more details, see [Statistics](basic_statistics.md).
 ## data model and features
 The crawled web pages are crawled by an instance of [Heritrix](https://www.github.com/internetarchive/heritrix3) and stored in Web ARChive archiving format, which are indexed in compact CDX index files.
 
-## example
-The content of the files may be processed by cluster-computing frameworks like Apache Spark. The corpus and derived data might be used for training of machine learning algorithms.
+## example usage
+The content of the files may be processed by cluster-computing frameworks like [Apache Spark](https://spark.apache.org/). The corpus and derived data might be used for training of machine learning algorithms to answer research questions like:
 
-research questions?
-
-- Evolution of personal web pages on academic servers
-- Differences between departments regarding outside communication:
-  - scientific community?
-  - open science?
-  - citizen science?
+- How do personal web pages on academic servers evolve?
+- Can differences between departments regarding outside communication be determined regarding
+  - the scientific community?
+  - including citzens and opening up fields of science to the broader public?
 - How prominent are different kinds of publications and/or presentations displayed?
 - How connected are the different departments between institutions?
-- Is an institution more focussed on research or teaching?
+- Is an institution more focused on research or teaching?
   - Can we compute a score/metric based on different patterns discovered by machine learning algorithms?
 - Can we find clusters of highly connected institutions?
 - Are there central players in the German academic web?
