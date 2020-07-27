@@ -22,7 +22,7 @@ url     : https://german-academic-web.de # the base hostname & protocol for your
 # baseurl : /GermanAcademicWeb/GAW-OpenData
 # baseurl : /ipa/gaw-opendata # does not include hostname
 # baseurl: /ganselar/gaw-opendata
-title   : German Academic Web OpenData
+title   : German Academic Web
 description: > # this means to ignore newlines until "Language & timezone"
   German Academic Web OpenData
 
