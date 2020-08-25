@@ -35,7 +35,10 @@ DOI: [10.1145/3372923.3404836](https://doi.org/10.1145/3372923.3404836)
 
 
 ## Why
-While there are institutions like the [Internet Archive](https://www.archive.org), which aim to archive and make accessible the history of websites, German acadmic institutions are not well crawled in-depth.
+While there are institutions like the [Internet Archive](https://www.archive.org), which provide access to and preserve the history of the Web on a grand scheme, a detailed image of domain specific regions can not be attained to a degree necessary for research. (Welche Aufgaben übernehemen die Kleinen? + Wir sind nicht die einzigen) Here, smaller players step and provide a variety of web archives such as (hier zwei Beispiele und uns 
+- (UK oder US University landscape, etwas exotisches oder geocity, gif collections, inspirieren lassen durch the web that was, genereller Kontext: History of the web)). 
+- (Erwähne und motiviere das Ziel, zeitliche Auflösung, science studies, web development, accessibiltity, conformity to standards (mit Quellen), structuring of unstructured data, improvement of NLP through knowledge graph infused learning, temporal search, tracing of researcher migration etc).
+- Quellen
 
 One the one hand knowledge published online by academic institutions might not be available or preserved for future scientific study. On the other hand there might be room for historical, sociological, psychological, informetrical or scientometrical studies of entities themselfes (e.g. trends in public presentation, organisational, staff or linguisitic shifts). In conjunction with datasets like the [GEPRIS (Geförderte Projekte Informationssystem)](https://gepris.dfg.de/gepris/) there are open chances for community-detection in inter-personal relationships based on affiliations.
 
@@ -53,6 +56,12 @@ As the operators learn over time, there are constant adjustments to the configur
 Most crawls were finished (manually) after roughly 100 million pages are collected (according to Heritrix' control console), which takes roughly two weeks per crawl, on average.
 
 The resulting Web ARChive files and compact CDX index files are hosted in part by the [L3S](https://www.l3s.de/) research center in Hannover, in part by Humboldt-Universität zu Berlin.
+
+- (Hier könntest du auch etwas aus dem GAW Paper nehmen )
+
+## Request the GAW
+- (We welcome collaborations from researchers interested in working with GAW data.)
+- (Tell us what data you would like to work on and we will create and curate it)
 
 ## Datasets
 The sets of crawled URLs including timestamps are available through  in the Zenodo. For more information, see [Downloads](downloads.md).
