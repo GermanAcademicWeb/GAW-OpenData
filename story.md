@@ -25,18 +25,18 @@ lang: en
 ## what
 The German Academic Web OpenData is a collection of snapshots of German academic institutions consisting of semiannual web crawls from 2012 onwards.
 
-Each of the snapshots includes around 100 million crawled web pages amounting to about 6 TB each.
+Each of the snapshots includes around 100 million crawled web pages amounting to about 6-8 TB each.
 
 ## why
-While there are institutions like the [Internet Archive](https://www.archive.org), which aim to archive and make accessible the history of websites, German acadmic institutions are not well crawled in-depth. Knowledge published online by academic institutions might not be available or preserved for future scientific study.
+While there are institutions like the [Internet Archive](https://www.archive.org), which provide access to and preserve the history of the Web on a grand scheme, a detailed image of domain specific regions can not be attained to a degree necessary for research. Here, smaller players step and provide a variety of web archives such as (hier zwei Beispiele und uns (UK oder US University, etwas exotisches)). (Erwähne und motiviere das Ziel, zeitliche Auflösung, science studies, web development, accessibiltity, conformity to standards (mit Quellen), structuring of unstructured data, improvement of NLP through knowledge graph infused learning, temporal search, tracing of researcher migration etc).
 
 The curated corpus of German academic institution website snapshots reflects the evolution of scientific progress and communication and aims to make the data easily accessible for academic research.
 
 ## how
-To get snapshots of the German Academic Web we crawl biannually in July and December all German academic institutions with the right to award doctorates as well as all institutions by the Fraunhofer and Max-Planck societies. The seeds are created new for every iteration and specific subsets, like source code management or e-learning platforms are excluded.
+To get snapshots of the German Academic Web we crawl biannually in July and December all German academic institutions with the right to award doctorates as well as all institutions by the Fraunhofer and Max-Planck societies. The seeds are created new for every iteration and specific subsets, like source code management or e-learning platforms are excluded. (Hier könntest du auch etwas aus dem GAW Paper nehmen )
 
 ## dataset
-The sets of crawled URLs including timestamps are available through  in the Zenodo. For more information, see [Downloads](downloads.md).
+The sets of crawled URLs including timestamps are available through in the Zenodo. For more information, see [Downloads](downloads.md).
 
 <div class="flex-container">
     <div><a href="map.html"><img src="/assets/images/logo/uni_network.svg" style="width: 33%; height: auto;"><br>Map</a></div>
