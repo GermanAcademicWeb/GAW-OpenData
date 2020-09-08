@@ -21,10 +21,17 @@ lang: en
     </style>
 </head>
 
-## What
-The German Academic Web (GAW) is a collection of snapshots of the public web presence of German academic institutions. The snapshots have been taken on a semi-annual basis since 2012 and contain web pages, which are stored in the [WARC](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.1/#warc-file-name-size-and-compression)-format. These web pages contains a variety of information ranging from institution-wide announcements, CVs, course material pages, information about research projects or outgoing hyperlinks, as well as the message exchange (request-response meta data).
+## Request the Data
+We welcome collaborations from researchers of all academic fields interested in working with the German Academic Web.
 
-Each of the snapshots includes around 100 million crawled web pages amounting to about 6-8 TB each comprising of text, PDF, image data. 
+Tell us what data you would like to work on and we will create and curate it.
+
+Contact us via [E-Mail](mailto:robert.jaeschke@hu-berlin.de?subject=GAW Request).
+
+## What
+The German Academic Web (GAW) is a collection of snapshots of the public web presence of German academic institutions. The snapshots have been taken on a semi-annual basis since 2012 and contain web pages, which are stored in the [WARC](https://en.wikipedia.org/wiki/Web_ARChive)-format. These web pages contain a variety of information ranging from institution-wide announcements, CVs, course material pages, information about research projects or outgoing hyperlinks, as well as the message exchange (request-response meta data).
+
+Each of the snapshots includes around 100 million breadth-first crawled web pages amounting to about 6-8 TB each comprising of text, PDF, image data. 
 
 More information is available in the following paper:
 
@@ -33,24 +40,16 @@ How to Assess the Exhaustiveness of Longitudinal Web Archives: A Case Study of t
 31st ACM Conference on Hypertext and Social Media (HT ’20).\\
 DOI: [10.1145/3372923.3404836](https://doi.org/10.1145/3372923.3404836)
 
-## Request the Data
-We welcome collaborations from researchers of all academic fields interested in working with the German Academic Web.
-
-Tell us what data you would like to work on and we will create and curate it.
-
-Contact us via [E-Mail](mailto:robert.jaeschke@hu-berlin.de?subject=GAW Request).
-
 ## Why
-While there are institutions like the [Internet Archive](https://www.archive.org), which provide access to and preserve the history of the Web on a grand scale, a detailed image of domain specific regions is not provided to a degree necessary for a narrow research question, especially in regards to research science. On a more granular level, many national archives crawl the top-level domains of their respective countries (e.g. [Deutsche Nationalbibliothek](https://www.dnb.de/DE/Professionell/Sammeln/Sammlung_Websites/sammlung_websites_node.html), [Bibliothèque nationale de France](https://www.bnf.fr/fr/archives-de-linternet), [National Library of Australia](https://trove.nla.gov.au/help/categories/websites-category)). 
-Often the depth of the crawls is not sufficient for specific scientific fields and smaller players such as the [National Taiwan University Web Archiving System](http://webarchive.lib.ntu.edu.tw/eng/aboutus.asp), [Columbia University Web Archive](https://library.cumc.columbia.edu/node/2241) and ourselves step in to provide a highly detailed and topic specific web archive. 
+While there are institutions like the [Internet Archive](https://www.archive.org), which provide access to and preserve the history of the Web on a grand scale, a detailed image of domain specific regions is not provided. On a more granular level, many national libraries archive the top-level domains of their respective countries (e.g. [Deutsche Nationalbibliothek](https://www.dnb.de/DE/Professionell/Sammeln/Sammlung_Websites/sammlung_websites_node.html), [Bibliothèque nationale de France](https://www.bnf.fr/fr/archives-de-linternet), [National Library of Australia](https://trove.nla.gov.au/help/categories/websites-category)). 
+Often, the scope of these web archives does not cover the content of the web sites exhaustively, leaving underlying regions unaccounted for. Such an operation requires an additional thematic focus to limit the magnitude of the regions to be archived. In these cases smaller players such as the [National Taiwan University Web Archiving System](http://webarchive.lib.ntu.edu.tw/eng/aboutus.asp), [Columbia University Web Archive](https://library.cumc.columbia.edu/node/2241) and ourselves step in to provide a highly detailed and topic specific web archive. 
 
 See also [List of Web archiving initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives) for a survey of participants.
 
-The GAW aims to preserve the evolution of the of the academic landscapes representaiton on the web. On the one hand knowledge published online by academic institutions might not be available or preserved for future scientific study. On the other hand there might be room for historical, sociological, psychological, informetrical or scientometrical studies of entities themselfes (e.g. trends in accessibiltity, public presentation, web development, organisational, staff or linguisitic shifts). 
+In conjunction with other datasets such as [GEPRIS (Geförderte Projekte Informationssystem)](https://gepris.dfg.de/gepris/) or [dblp](https://dblp.org/) we aim to investigate the temporal changes, time dependence of staff community structures and various improvement of NLP-tasks, such as entity-linking.
 
-In conjunction with other datasets such as [GEPRIS (Geförderte Projekte Informationssystem)](https://gepris.dfg.de/gepris/) or [dblp](https://dblp.org/) we aim to investigate the temporal search, community-detection in inter-personal relationships based on affiliations and tracing of researcher migration or in general improvement of NLP through knowledge graph infused learning as a foundation with much text material in German.
+The GAW aims to preserve the evolution of the academic landscape's representaiton on the web. For one the knowledge published online by academic institutions might not be available or preserved for future scientific study. Further, there might be room for historical, sociological, psychological, informetric or scientometric studies as well as the exploration of the microskopic entities underlying these disciplines (e.g. trends in accessibiltity, public presentation, web development, organisational, staff or linguisitic shifts). 
 
-The curated corpus of semiannual German academic institution website snapshots aims to expand a knowledge base of the German academic web and offer a reflection of the evolution of scientific progress and communication and aims to make the data easily accessible for academic research.
 
 ## How
 
@@ -97,8 +96,7 @@ The sets of crawled URLs including timestamps are available through  in the Zeno
 - Can clusters of highly connected institutions be identified?
 - Are there central players in the German academic web?
 - Had the excellence initiative or has the excellence strategy an impact on the web presence of universities?
-
-- How did outside communication on web presences changed in the face of the COVID-19 pandemic?
+- How did public communication of web site change in the face of the COVID-19 pandemic?
 
 ## About
 The project is in part supported by the German Federal Ministry of Education and Research (BMBF) in the [REGIO](https://www.regio-project.org/) project (grant no. 01PU17012D).
@@ -107,7 +105,7 @@ The project is in part supported by the German Federal Ministry of Education and
 
 ### Team
  
-[Prof. Dr. rer. nat. Robert Jäschke](https://www.ibi.hu-berlin.de/de/ueber-uns/personen/jaeschke)
+[Prof. Dr. Robert Jäschke](https://www.ibi.hu-berlin.de/de/ueber-uns/personen/jaeschke)
 
 [Michael Paris](https://www.ibi.hu-berlin.de/de/ueber-uns/personen/paris)
 
