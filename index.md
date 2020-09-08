@@ -24,7 +24,7 @@ lang: en
 ## What
 The German Academic Web (GAW) is a collection of snapshots of the public web presence of German academic institutions. The snapshots have been taken on a semi-annual basis since 2012 and contain web pages, which are stored in the [WARC](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.1/#warc-file-name-size-and-compression)-format. These web pages contains a variety of information ranging from institution-wide announcements, CVs, course material pages, information about research projects or outgoing hyperlinks, as well as the message exchange (request-response meta data).
 
-Each of the snapshots includes around 100 million crawled web pages amounting to about 6-8 TB each comprising of text (including PDFs) and image data. 
+Each of the snapshots includes around 100 million crawled web pages amounting to about 6-8 TB each comprising of text, PDF, image data. 
 
 More information is available in the following paper:
 
@@ -34,7 +34,7 @@ How to Assess the Exhaustiveness of Longitudinal Web Archives: A Case Study of t
 DOI: [10.1145/3372923.3404836](https://doi.org/10.1145/3372923.3404836)
 
 ## Request the Data
-We welcome collaborations from researchers of all academic fields interested in working with our web data.
+We welcome collaborations from researchers of all academic fields interested in working with the German Academic Web.
 
 Tell us what data you would like to work on and we will create and curate it.
 
