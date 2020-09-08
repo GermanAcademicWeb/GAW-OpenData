@@ -9,11 +9,6 @@ header:
     url: /downloads.html
 
   - titles:
-     en: About
-     de: Über
-    url: /about.html
-
-  - titles:
      en: DE
     url: /de
 
@@ -30,11 +25,6 @@ header-de:
 
   - title: Downloads
     url: /de/downloads.html
-
-  - titles:
-     en: About
-     de: Über
-    url: /de/about.html
 
   - titles:
      en: en
