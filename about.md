@@ -24,6 +24,8 @@ To achive it, we use an instance of [Heritrix](https://github.com/internetarchiv
 
 [Prof. Dr. rer. nat. Robert Jäschke](https://www.ibi.hu-berlin.de/de/ueber-uns/personen/jaeschke)
 
+Sebastian Tiesler
+
 Michael Paris
 
 Lars Ganser
