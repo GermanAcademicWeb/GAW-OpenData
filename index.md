@@ -107,9 +107,9 @@ The project is in part supported by the German Federal Ministry of Education and
  
 [Prof. Dr. Robert Jäschke](https://www.ibi.hu-berlin.de/de/ueber-uns/personen/jaeschke)
 
-[Michael Paris](https://www.ibi.hu-berlin.de/de/ueber-uns/personen/paris)
+Michael Paris
 
-[Lars Ganser](https://www.ibi.hu-berlin.de/de/ueber-uns/personen/ganser)
+Lars Ganser
 
 [Information Processing and Analytics research group](https://www.ibi.hu-berlin.de/en/research/Information-processing)
 
