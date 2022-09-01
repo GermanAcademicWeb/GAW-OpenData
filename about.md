@@ -24,9 +24,9 @@ To achive it, we use an instance of [Heritrix](https://github.com/internetarchiv
 
 [Prof. Dr. rer. nat. Robert Jäschke](https://www.ibi.hu-berlin.de/de/ueber-uns/personen/jaeschke)
 
-[Michael Paris](https://www.ibi.hu-berlin.de/de/ueber-uns/personen/paris)
+Michael Paris
 
-[Lars Ganser](https://www.ibi.hu-berlin.de/de/ueber-uns/personen/ganser)
+Lars Ganser
 
 ## About REGIO
 
