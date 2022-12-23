@@ -80,7 +80,7 @@ The sets of crawled URLs including timestamps are available through  in the Zeno
 
 ## Latest Crawl
 
-<img src="https://amor.cms.hu-berlin.de/~jaeschkr/crawler/progress.svg" alt="Crawl progress">
+<img src="https://amor.cms.hu-berlin.de/~tieslers/gaw/progress.svg" alt="Crawl progress">
 
 ## Sample Research Questions
 
