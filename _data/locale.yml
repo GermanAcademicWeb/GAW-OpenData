@@ -16,7 +16,7 @@ en: &EN
   POST_ON_GITHUB          : "Edit on Github"
   FOLLOW_ME               : "Follow me on [NAME]."
   EMAIL_ME                : "Send me Email."
-  COPYRIGHT_DATES         : "2019-2020"
+  COPYRIGHT_DATES         : "2019-2023"
 
 en-GB:
   <<: *EN
@@ -45,7 +45,7 @@ de: &DE
   POST_ON_GITHUB          : "Edit on Github"
   FOLLOW_ME               : "Follow me on [NAME]."
   EMAIL_ME                : "Send me Email."
-  COPYRIGHT_DATES         : "2019-2020"
+  COPYRIGHT_DATES         : "2019-2023"
 
 # de-GB:
 #  <<: *EN
