@@ -109,6 +109,8 @@ The project is in part supported by the German Federal Ministry of Education and
 
 Sebastian Tiesler
 
+Jonathan Lüpfert
+
 Michael Paris
 
 Lars Ganser
