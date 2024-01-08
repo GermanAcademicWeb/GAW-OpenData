@@ -89,6 +89,10 @@ Michael Paris and Robert Jäschke.\\
 How to Assess the Exhaustiveness of Longitudinal Web Archives: A Case Study of the German Academic Web.\\
 31st ACM Conference on Hypertext and Social Media (HT ’20).\\
 DOI: [10.1145/3372923.3404836](https://doi.org/10.1145/3372923.3404836)
+
+Younes, Y., Tiesler, S., Jäschke, R., Mathiak, B.\\
+Where are the Datasets? A case study on the German Academic Web Archive.\\
+Proceedings of the Web Archiving and Digital Libraries Workshop at JCDL, 2022.
 ## About
 The project is in part supported by the German Federal Ministry of Education and Research (BMBF) in the [REGIO](https://www.regio-project.org/) project (grant no. 01PU17012D).
 
