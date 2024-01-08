@@ -33,13 +33,6 @@ The German Academic Web (GAW) is a collection of snapshots of the public web pre
 
 Each of the snapshots includes around 100 million breadth-first crawled web pages amounting to about 6-8 TB each comprising of text, PDF, image data. 
 
-More information is available in the following paper:
-
-Michael Paris and Robert Jäschke.\\
-How to Assess the Exhaustiveness of Longitudinal Web Archives: A Case Study of the German Academic Web.\\
-31st ACM Conference on Hypertext and Social Media (HT ’20).\\
-DOI: [10.1145/3372923.3404836](https://doi.org/10.1145/3372923.3404836)
-
 ## Why
 While there are institutions like the [Internet Archive](https://www.archive.org), which provide access to and preserve the history of the Web on a grand scale, a detailed image of domain specific regions is not provided. On a more granular level, many national libraries archive the top-level domains of their respective countries (e.g. [Deutsche Nationalbibliothek](https://www.dnb.de/DE/Professionell/Sammeln/Sammlung_Websites/sammlung_websites_node.html), [Bibliothèque nationale de France](https://www.bnf.fr/fr/archives-de-linternet), [National Library of Australia](https://trove.nla.gov.au/help/categories/websites-category)). 
 Often, the scope of these web archives does not cover the content of the web sites exhaustively, leaving underlying regions unaccounted for. Such an operation requires an additional thematic focus to limit the magnitude of the regions to be archived. In these cases smaller players such as the [National Taiwan University Web Archiving System](http://webarchive.lib.ntu.edu.tw/eng/aboutus.asp), [Columbia University Web Archive](https://library.cumc.columbia.edu/node/2241) and ourselves step in to provide a highly detailed and topic specific web archive. 
