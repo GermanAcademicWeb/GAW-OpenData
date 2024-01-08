@@ -82,6 +82,13 @@ The sets of crawled URLs including timestamps are available through  in the Zeno
 
 <img src="https://amor.cms.hu-berlin.de/~tieslers/gaw/progress.svg" alt="Crawl progress">
 
+## Dissemination
+Here we list publications and other works utilizing the GAW dataset:
+
+Michael Paris and Robert Jäschke.\\
+How to Assess the Exhaustiveness of Longitudinal Web Archives: A Case Study of the German Academic Web.\\
+31st ACM Conference on Hypertext and Social Media (HT ’20).\\
+DOI: [10.1145/3372923.3404836](https://doi.org/10.1145/3372923.3404836)
 ## About
 The project is in part supported by the German Federal Ministry of Education and Research (BMBF) in the [REGIO](https://www.regio-project.org/) project (grant no. 01PU17012D).
 
