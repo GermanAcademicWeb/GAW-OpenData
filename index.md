@@ -82,22 +82,6 @@ The sets of crawled URLs including timestamps are available through  in the Zeno
 
 <img src="https://amor.cms.hu-berlin.de/~tieslers/gaw/progress.svg" alt="Crawl progress">
 
-## Sample Research Questions
-
-- Is there an evolution of personal web pages on academic servers? And if yes, how can it be researched?
-- What are differences between departments regarding outside communication:
-  - scientific community?
-  - open science?
-  - citizen science?
-- How prominent are different kinds of publications and/or presentations displayed?
-- How connected are the different departments between institutions?
-- Is an institution more focussed on research or teaching?
-  - Can a score/metric based on different patterns discovered by machine learning algorithms be computed?
-- Can clusters of highly connected institutions be identified?
-- Are there central players in the German academic web?
-- Had the excellence initiative or has the excellence strategy an impact on the web presence of universities?
-- How did public communication of web site change in the face of the COVID-19 pandemic?
-
 ## About
 The project is in part supported by the German Federal Ministry of Education and Research (BMBF) in the [REGIO](https://www.regio-project.org/) project (grant no. 01PU17012D).
 
