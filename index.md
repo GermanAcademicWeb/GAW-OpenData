@@ -85,7 +85,7 @@ DOI: [10.1145/3372923.3404836](https://doi.org/10.1145/3372923.3404836)
 
 Younes, Y., Tiesler, S., Jäschke, R., Mathiak, B.\\
 Where are the Datasets? A case study on the German Academic Web Archive.\\
-Proceedings of the Web Archiving and Digital Libraries Workshop at JCDL, 2022.
+[Proceedings of the Web Archiving and Digital Libraries Workshop at JCDL, 2022.](http://hdl.handle.net/10919/114213)
 ## About
 The project is in part supported by the German Federal Ministry of Education and Research (BMBF) in the [REGIO](https://www.regio-project.org/) project (grant no. 01PU17012D).
 
