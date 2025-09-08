@@ -1,20 +1,10 @@
-title   : German Academic Web
-description: German Academic Web OpenData
-url     : https://german-academic-web.de
-baseurl : ""
+title: German Academic Web
+description : German Academic Web OpenData
+author: Information Processing and Analytics Group
+url: https://german-academic-web.de
+baseurl: ""
 lang: en
 timezone: Europe/Berlin
-author:
-  type      : organization
-  name      : Humboldt-Universität zu Berlin
-  url       : https://www.hu-berlin.de/
-  avatar    : # path or url of avatar image
-  bio       :
-  email     :
-  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
-  npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
-  telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
-
 
 license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
 
