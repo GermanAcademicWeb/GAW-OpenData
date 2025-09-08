@@ -1,6 +1,7 @@
 title   : German Academic Web
 description: German Academic Web OpenData
 url     : https://german-academic-web.de
+baseurl : ""
 lang: en
 timezone: Europe/Berlin
 author:
@@ -15,16 +16,7 @@ author:
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
 
 
-## => GitHub Repository (if the site is hosted by GitHub)
-##############################
-repository: user_name/repo_name
-repository_tree: master
 license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
-
-## TOC
-toc:
-  selectors: # "h1,h2,h3" (default)
-
 
 theme: minima
 show_excerpts: true
