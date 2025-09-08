@@ -1,5 +1,5 @@
 ---
-title: German Academic Web
+title: Home
 layout: default
 lang: en
 description: A description of the German Academic Web dataset
