@@ -88,6 +88,7 @@ and Analytics research
 group](https://www.ibi.hu-berlin.de/en/research/Information-processing)
 at [Humboldt-Universität zu Berlin](https://hu-berlin.de/).
 
+
 ## Datasets
 The sets of crawled URLs including timestamps are available through
 [Zenodo](https://zenodo.org/communities/regio). For more information,
@@ -102,9 +103,6 @@ support you.
 
 - [Map](map.html)
 - [Statistics](basic_statistics.html)
-- [Universities](universities.html)
-- [Max-Planck](mpis.html)
-- [Fraunhofer](fhis.html)
 
 ## Latest Crawl
 
@@ -139,5 +137,3 @@ no. 01PU17012D).
 - Jonathan Lüpfert
 - Michael Paris
 - Lars Ganser
-
-### Additional Support by <a href="https://www.l3s.de/en"><img src="/assets/images/logo/L3S_Logo_NEU_small.jpg" alt="L3S"  style ="width: 10%; height: auto;" /></a>
