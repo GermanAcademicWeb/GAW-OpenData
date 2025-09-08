@@ -1,7 +1,8 @@
 ---
-layout: article
 title: German Academic Web
+layout: default
 lang: en
+description: A description of the German Academic Web dataset
 ---
 
 ## What
@@ -83,13 +84,21 @@ The resulting web archive files conform to [ISO
 28500:2009](https://www.iso.org/standard/44717.html) and compact CDX
 index files are hosted in part by the [L3S](https://www.l3s.de/)
 Research Center in Hannover, in part by the [Information Processing
-and Analytics
-group](https://www.ibi.hu-berlin.de/de/forschung/info_processing_analytics)
+and Analytics research
+group](https://www.ibi.hu-berlin.de/en/research/Information-processing)
 at [Humboldt-Universität zu Berlin](https://hu-berlin.de/).
 
 ## Datasets
 The sets of crawled URLs including timestamps are available through
-Zenodo. For more information, see [Downloads](downloads.md).
+[Zenodo](https://zenodo.org/communities/regio). For more information,
+see [downloads](downloads.md).
+
+We welcome collaboration reuqests from researchers of all academic
+fields interested in working with the German Academic Web. [Contact
+us](mailto:robert.jaeschke@hu-berlin.de?subject=GAW Request) and tell
+us what data you would like to work on and we will see how we can
+support you.
+
 
 - [Map](map.html)
 - [Statistics](basic_statistics.html)
@@ -102,7 +111,6 @@ Zenodo. For more information, see [Downloads](downloads.md).
 ![crawl progress](https://amor.cms.hu-berlin.de/~tieslers/gaw/progress.svg)
 
 ## Dissemination
-
 Publications and other works utilizing the GAW dataset:
 - Michael Paris and Robert Jäschke (2020). How to Assess the
   Exhaustiveness of Longitudinal Web Archives: A Case Study of the
@@ -121,29 +129,15 @@ Education and Research (BMBF) in the
 [REGIO](https://www.regio-project.org/) project (grant
 no. 01PU17012D).
 
-<a href="https://www.regio-project.org/"><img src="/assets/images/logo/regio.svg" alt="REGIO" /></a>
-
-## Request the Data
-We welcome collaborations from researchers of all academic fields
-interested in working with the German Academic Web.
-
-Tell us what data you would like to work on and we will create and curate it.
-
-Contact us via [E-Mail](mailto:robert.jaeschke@hu-berlin.de?subject=GAW Request).
-
 
 ### Team
 
-[Prof. Dr. Robert Jäschke](https://www.ibi.hu-berlin.de/de/ueber-uns/personen/jaeschke)
-
-Sebastian Tiesler
-
-Jonathan Lüpfert
-
-Michael Paris
-
-Lars Ganser
-
 [Information Processing and Analytics research group](https://www.ibi.hu-berlin.de/en/research/Information-processing)
+
+- [Prof. Dr. Robert Jäschke](https://amor.cms.hu-berlin.de/~jaeschkr/)
+- Sebastian Tiesler
+- Jonathan Lüpfert
+- Michael Paris
+- Lars Ganser
 
 ### Additional Support by <a href="https://www.l3s.de/en"><img src="/assets/images/logo/L3S_Logo_NEU_small.jpg" alt="L3S"  style ="width: 10%; height: auto;" /></a>
