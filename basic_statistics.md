@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data
+title: Statistics
 lang: en
 ---
 
