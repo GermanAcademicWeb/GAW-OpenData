@@ -30,45 +30,66 @@ Nationalbibliothek](https://www.dnb.de/DE/Professionell/Sammeln/Sammlung_Website
 France](https://www.bnf.fr/fr/archives-de-linternet), [National
 Library of
 Australia](https://trove.nla.gov.au/help/categories/websites-category)),
-detailed snapshots of domain-specific regions of the Web are not
-provided.
-
-Often, the scope of their archives does not cover the content of the
-web sites exhaustively, leaving underlying regions unaccounted
-for. Such an operation requires an additional thematic focus to limit
-the magnitude of the regions to be archived. In these cases smaller
-players such as the [National Taiwan University Web Archiving
+their goal is seldom the exhaustive archiving of individual web sites
+or regions of the Web. This requires an additional thematic focus to
+limit the magnitude of the regions of the Web to be archived.  Smaller
+institutions such as the [National Taiwan University Web Archiving
 System](http://webarchive.lib.ntu.edu.tw/eng/aboutus.asp), [Columbia
 University Web Archive](https://library.cumc.columbia.edu/node/2241)
-and ourselves step in to provide a highly detailed and topic specific
-web archive.
+and the GAW step in to provide highly detailed and topic-specific
+archive of academic web pages (see also the [list of Web archiving
+initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)).
 
-See also [List of Web archiving initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives) for a survey of participants.
-
-In conjunction with other datasets such as [GEPRIS (Geförderte
-Projekte Informationssystem)](https://gepris.dfg.de/gepris/) or
-[dblp](https://dblp.org/) we aim to investigate the temporal changes,
-time dependence of staff community structures and various improvement
-of NLP-tasks, such as entity-linking.
-
-The GAW aims to preserve the evolution of the academic landscape's representaiton on the web. For one the knowledge published online by academic institutions might not be available or preserved for future scientific study. Further, there might be room for historical, sociological, psychological, informetric or scientometric studies as well as the exploration of the microskopic entities underlying these disciplines (e.g. trends in accessibiltity, public presentation, web development, organisational, staff or linguisitic shifts).
-
+With the GAW we aim to preserve the evolution of the academic
+landscape by archiving its representation on the Web. This can enable
+future historical, sociological, psychological, informetric, or
+scientometric studies as well as the exploration of scholarly entities
+(e.g., projects, institutions, researchers) and related aspects (e.g.,
+trends in accessibility, public presentation, web development, as well
+as organisational, staff, or linguistic changes).
 
 ## How
+For each crawl a current version of
+[Heritrix](https://github.com/internetarchive/heritrix3) (2012/10:
+3.0.0, 2013/02-2015/12: 3.1.0, 2016/06-2020/12: 3.2.0, 2020/06-:
+3.4.0) is initialised with a conceptually invariant seed list of, on
+average, 150 domains of German academic institutions with the right to
+award doctorates (extracted from [Liste der Hochschulen in
+Deutschland](https://de.wikipedia.org/wiki/Liste_der_Hochschulen_in_Deutschland)).
+In addition, institutes from the [Fraunhofer
+Society](https://www.fraunhofer.de/) and the [Max-Planck
+Society](https://mpg.de/) are included.
 
-For each crawl a current version of [Heritrix](https://github.com/internetarchive/heritrix3) (2012/10: 3.0.0, 2013/02-2015/12: 3.1.0, 2016/06-2020/12: 3.2.0, 2020/06-: 3.4.0) is initialised with a conceptually invariant seed list of, on average, 150 domains of all German academic institutions with the right to award doctorates. The seed list is extracted from the current entries on [Liste der Hochschulen in Deutschland](https://de.wikipedia.org/wiki/Liste_der_Hochschulen_in_Deutschland). Fraunhofer and Max-Planck institutions are added manually by adding the general seeds *fraunhofer.de* and *mpg.de*.
+The crawler follows a breadth-first policy on each host, thereby
+collecting all available pages reachable by links from the homepage as
+deep as 20 hops. The scope is limited to crawl only pages from the
+seed domains and certain file types (mainly audio, video, and
+compressed files) are excluded using regular expressions.
 
-The crawler follows a breadth-first policy on each host, thereby collecting all available pages reachable by links from the homepage as deep as 20 hops. The scope is limited to crawl only pages from the seed domains and certain file types (mainly audio, video, and compressed files) are excluded by a growing number of regular expressions.
+During the crawl, the URL queues are monitored via a web UI. Hosts
+that appear to be undesirable, such as e-learning systems or
+repositories, are added to a list of 'retired' hosts, that is, their
+URLs are no longer crawled in the running and future crawls. However,
+previously harvested URLs from retired hosts are neither removed from
+prior crawls nor from the running crawl.  As the operators learn over
+time, there are constant adjustments to the configuration (e.g., crawl
+delays, exclusion of hosts based on requests, etc.)
 
-Along the crawl, the URL queues are monitored via a web UI. Hosts that appear to be undesirable, such as e-learning systems or repositories, are added to a growing list of 'retired' hosts, that is, their URLs are no longer crawled in the running and future crawls. However, previously harvested URLs from retired hosts are not removed from the running crawl.
-As the operators learn over time, there are constant adjustments to the configuration (e.g. crawl delays, exclusion of hosts based on requests, etc.)
+Most crawls were finished (manually) after approximately 100 million
+pages were collected (according to Heritrix' control console), which
+takes roughly two weeks per crawl.
 
-Most crawls were finished (manually) after roughly 100 million pages are collected (according to Heritrix' control console), which takes roughly two weeks per crawl, on average.
-
-The resulting Web ARChive files conform to [ISO 28500:2009](https://www.iso.org/standard/44717.html) and compact CDX index files are hosted in part by the [L3S](https://www.l3s.de/) research center in Hannover, in part by Humboldt-Universität zu Berlin.
+The resulting web archive files conform to [ISO
+28500:2009](https://www.iso.org/standard/44717.html) and compact CDX
+index files are hosted in part by the [L3S](https://www.l3s.de/)
+Research Center in Hannover, in part by the [Information Processing
+and Analytics
+group](https://www.ibi.hu-berlin.de/de/forschung/info_processing_analytics)
+at [Humboldt-Universität zu Berlin](https://hu-berlin.de/).
 
 ## Datasets
-The sets of crawled URLs including timestamps are available through  in the Zenodo. For more information, see [Downloads](downloads.md).
+The sets of crawled URLs including timestamps are available through
+Zenodo. For more information, see [Downloads](downloads.md).
 
 - [Map](map.html)
 - [Statistics](basic_statistics.html)
@@ -81,16 +102,17 @@ The sets of crawled URLs including timestamps are available through  in the Zeno
 ![crawl progress](https://amor.cms.hu-berlin.de/~tieslers/gaw/progress.svg)
 
 ## Dissemination
-Here we list publications and other works utilizing the GAW dataset:
 
-> Michael Paris and Robert Jäschke.\\
-> How to Assess the Exhaustiveness of Longitudinal Web Archives: A Case Study of the German Academic Web.\\
-> 31st ACM Conference on Hypertext and Social Media (HT 2020).\\
-> doi:[10.1145/3372923.3404836](https://doi.org/10.1145/3372923.3404836)
-
-> Younes, Y., Tiesler, S., Jäschke, R., Mathiak, B.\\
-> Where are the Datasets? A case study on the German Academic Web Archive.\\
-> [Proceedings of the Web Archiving and Digital Libraries Workshop at JCDL, 2022.](http://hdl.handle.net/10919/114213)
+Publications and other works utilizing the GAW dataset:
+- Michael Paris and Robert Jäschke (2020). How to Assess the
+  Exhaustiveness of Longitudinal Web Archives: A Case Study of the
+  German Academic Web. *31st ACM Conference on Hypertext and Social
+  Media (HT 2020).*
+  doi:[10.1145/3372923.3404836](https://doi.org/10.1145/3372923.3404836)
+- Younes, Y., Tiesler, S., Jäschke, R., Mathiak, B. (2022). Where are
+  the Datasets? A case study on the German Academic Web
+  Archive. *[Proceedings of the Web Archiving and Digital Libraries
+  Workshop at JCDL, 2022.](http://hdl.handle.net/10919/114213)*
 
 
 ## About
