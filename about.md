@@ -1,6 +1,6 @@
 ---
-layout: article
 title: Overview on the GAW data
+layout: default
 lang: en
 key: page-about
 ---

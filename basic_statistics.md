@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: default
 title: Data
 lang: en
 ---

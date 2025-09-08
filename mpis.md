@@ -1,6 +1,6 @@
 ---
-layout: article
-title: Data
+layout: default
+title: Max Planck Society
 lang: en
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout: article
 title: Downloads
+layout: default
 lang: en
 ---
 
