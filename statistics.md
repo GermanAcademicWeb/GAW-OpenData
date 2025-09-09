@@ -34,7 +34,7 @@ lang: en
 | 2012-10 |              2922 |       2.67 | 2012-10-09 10:50:36 | 2012-10-29 11:03:21 | 40,077,499   |
 
 
-# Map
+# Map of Institutions
 
 Every headquarter of a crawled institutions is mapped. Potential
 branch offices are not depicted.
@@ -46,7 +46,9 @@ branch offices are not depicted.
   <div id="popup-content"></div>
 </div>
 
+
 Coordinates provided by a crawl of Wikipedia on 2019-03-12.
+
 
 <link rel="stylesheet"
 href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/css/ol.css"
