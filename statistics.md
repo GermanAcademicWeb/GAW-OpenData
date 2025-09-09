@@ -48,56 +48,153 @@ branch offices are not depicted.
 
 Coordinates provided by a crawl of Wikipedia on 2019-03-12.
 
-<link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/css/ol.css" type="text/css">
+<link rel="stylesheet"
+href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/css/ol.css"
+type="text/css">
+
 <style>
-      .map {
-        height: 800px;
-        width: 100%;
-      }
-      .ol-popup {
-        position: absolute;
-        background-color: white;
-        -webkit-filter: drop-shadow(0 1px 4px rgba(0,0,0,0.2));
-        filter: drop-shadow(0 1px 4px rgba(0,0,0,0.2));
-        padding: 15px;
-        border-radius: 10px;
-        border: 1px solid #cccccc;
-        bottom: 12px;
-        left: -50px;
-        min-width: 400px;
-      }
-      .ol-popup:after, .ol-popup:before {
-        top: 100%;
-        border: solid transparent;
-        content: " ";
-        height: 0;
-        width: 0;
-        position: absolute;
-        pointer-events: none;
-      }
-      .ol-popup:after {
-        border-top-color: white;
-        border-width: 10px;
-        left: 48px;
-        margin-left: -10px;
-      }
-      .ol-popup:before {
-        border-top-color: #cccccc;
-        border-width: 11px;
-        left: 48px;
-        margin-left: -11px;
-      }
-      .ol-popup-closer {
-        text-decoration: none;
-        position: absolute;
-        top: 2px;
-        right: 8px;
-      }
-      .ol-popup-closer:after {
-        content: "✖";
-      }
+.map {
+  height: 800px;
+  width: 100%;
+}
+.ol-popup {
+  position: absolute;
+  background-color: white;
+  -webkit-filter: drop-shadow(0 1px 4px rgba(0,0,0,0.2));
+  filter: drop-shadow(0 1px 4px rgba(0,0,0,0.2));
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid #cccccc;
+  bottom: 12px;
+  left: -50px;
+  min-width: 400px;
+}
+.ol-popup:after, .ol-popup:before {
+  top: 100%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+.ol-popup:after {
+  border-top-color: white;
+  border-width: 10px;
+  left: 48px;
+  margin-left: -10px;
+}
+.ol-popup:before {
+  border-top-color: #cccccc;
+  border-width: 11px;
+  left: 48px;
+  margin-left: -11px;
+}
+.ol-popup-closer {
+  text-decoration: none;
+  position: absolute;
+  top: 2px;
+  right: 8px;
+}
+.ol-popup-closer:after {
+  content: "✖";
+}
 </style>
+
 <script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/build/ol.js"></script>
 <script type="text/javascript">
+  /**
+       * Elements that make up the popup.
+       */
+      var container = document.getElementById('popup');
+      var content = document.getElementById('popup-content');
+      var closer = document.getElementById('popup-closer');
 
+      /**
+       * Create an overlay to anchor the popup to the map.
+       */
+      var overlay = new ol.Overlay({
+        element: container,
+        autoPan: true,
+        autoPanAnimation: {
+          duration: 250
+        }
+      });
+
+      /**
+       * Add a click handler to hide the popup.
+       * @return {boolean} Don't follow the href.
+       */
+      closer.onclick = function() {
+        overlay.setPosition(undefined);
+        closer.blur();
+        return false;
+      };
+
+      /**
+       * Get data for markers and popups
+       */
+      var vectorSource = new ol.source.Vector({
+        url: 'assets/geodata.geojson',
+        format: new ol.format.GeoJSON(),
+      });
+
+      /**
+       * Create the map.
+       */
+      var map = new ol.Map({
+        target: 'map',
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.OSM()
+          }),
+          new ol.layer.Vector({
+            source: vectorSource,
+            style: new ol.style.Style({
+              image: new ol.style.Circle({
+                radius: 4,
+                fill: new ol.style.Fill({color: 'blue'})
+              })
+            })
+          })
+        ],
+        overlays: [overlay],
+        view: new ol.View({
+          center: ol.proj.fromLonLat([10.018343, 51.133481]),
+          zoom: 6
+        })
+      });
+
+      /**
+       * Get the aggregated data.
+       */
+      var displayFeatureInfo = function(pixel) {
+        var features = [];
+        map.forEachFeatureAtPixel(pixel, function(feature, layer) {
+          features.push(feature);
+        });
+        if (features.length > 0) {
+          var showing = [];
+          for (var i = 0, ii = features.length; i < ii; ++i) {
+            showing.push('<a target="_blank" href="' + (features[i].get('Subsite')) + '">' + (features[i].get('Name')) + '</a>');
+          }
+          if (showing.length > 1) {
+            content.innerHTML = showing.join('<br>') || '(unknown)';
+          }
+          else if (showing.length == 1) {
+            content.innerHTML = showing;
+          }
+        } else {
+          content.innerHTML = 'No institution selected';
+        }
+      };
+
+      /**
+       * Add a click handler to the map to render the popup.
+       */
+      map.on('click', function(evt) {
+        var pixel = evt.pixel;
+        displayFeatureInfo(pixel);
+        overlay.setPosition(evt.coordinate);
+      });
 </script>
