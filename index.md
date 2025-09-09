@@ -5,7 +5,7 @@ lang: en
 description: A description of the German Academic Web dataset
 ---
 
-## What
+# What
 The German Academic Web (GAW) is a collection of snapshots of the
 public web presence of German academic institutions. This comprises a
 variety of information, for example, press releases, course material,
@@ -20,7 +20,7 @@ The WARC files also document the HTTP message exchange
 (request-response meta data) and the outgoing hyperlinks per HTML
 page.
 
-## Why
+# Why
 While institutions like the [Internet
 Archive](https://www.archive.org/) provide access to and preserve the
 history of the Web on a grand scale and many national libraries
@@ -49,7 +49,7 @@ scientometric studies as well as the exploration of scholarly entities
 trends in accessibility, public presentation, web development, as well
 as organisational, staff, or linguistic changes).
 
-## How
+# How
 For each crawl a current version of
 [Heritrix](https://github.com/internetarchive/heritrix3) (2012/10:
 3.0.0, 2013/02-2015/12: 3.1.0, 2016/06-2020/12: 3.2.0, 2020/06-:
@@ -88,7 +88,7 @@ and Analytics
 group](https://www.ibi.hu-berlin.de/en/research/Information-processing).
 
 
-## About
+# About
 The project was in part supported by the German Federal Ministry of
 Education and Research (BMBF) in the [REGIO
 project](https://www.regio-project.org/) (grant no. 01PU17012D).
@@ -103,7 +103,7 @@ at [Humboldt-Universität zu Berlin](https://hu-berlin.de/):
 - Michael Paris
 - Lars Ganser
 
-## Datasets
+# Datasets
 The [lists of crawled URLs](downloads.md) including timestamps are
 available through [Zenodo](https://zenodo.org/communities/regio).
 
@@ -113,7 +113,7 @@ us](mailto:robert.jaeschke@hu-berlin.de?subject=GAW Request) and tell
 us what data you would like to work on and we will see how we can
 support you.
 
-## Dissemination
+# Dissemination
 Publications and other works utilizing the GAW dataset:
 - Michael Paris and Robert Jäschke (2020). How to Assess the
   Exhaustiveness of Longitudinal Web Archives: A Case Study of the
@@ -141,6 +141,6 @@ Publications and other works utilizing the GAW dataset:
   [Data set]. Zenodo.
   doi:[10.5281/zenodo.16418047](https://doi.org/10.5281/zenodo.16418047)
 
-## Latest Crawl
+# Latest Crawl
 
 ![crawl progress](https://amor.cms.hu-berlin.de/~tieslers/gaw/progress.svg)
