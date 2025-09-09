@@ -14,8 +14,7 @@ license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4
 
 header_pages:
   - downloads.md
-  - basic_statistics.md
-  - map.html
+  - statistics.md
 
 theme: minima
 show_excerpts: true
