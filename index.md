@@ -84,7 +84,7 @@ The resulting web archive files conform to [ISO
 28500:2009](https://www.iso.org/standard/44717.html) and compact CDX
 index files are hosted in part by the [L3S](https://www.l3s.de/)
 Research Center in Hannover, in part by the [Information Processing
-and Analytics research
+and Analytics
 group](https://www.ibi.hu-berlin.de/en/research/Information-processing).
 
 
@@ -94,7 +94,7 @@ Education and Research (BMBF) in the [REGIO
 project](https://www.regio-project.org/) (grant no. 01PU17012D).
 
 The crawl is operated and hosted by the [Information Processing and
-Analytics research
+Analytics
 group](https://www.ibi.hu-berlin.de/en/research/Information-processing)
 at [Humboldt-Universität zu Berlin](https://hu-berlin.de/):
 - [Prof. Dr. Robert Jäschke](https://amor.cms.hu-berlin.de/~jaeschkr/)
