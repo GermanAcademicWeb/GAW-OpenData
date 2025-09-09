@@ -1,6 +1,10 @@
 title: German Academic Web
-description : German Academic Web OpenData
-author: Information Processing and Analytics Group
+description: >-
+  An archive of bi-annual snapshots of the web pages of German
+  universities
+author: >-
+  Information Processing and Analytics Group at Humboldt-Universität
+  zu Berlin
 url: https://german-academic-web.de
 baseurl: ""
 lang: en

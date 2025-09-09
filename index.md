@@ -85,28 +85,33 @@ The resulting web archive files conform to [ISO
 index files are hosted in part by the [L3S](https://www.l3s.de/)
 Research Center in Hannover, in part by the [Information Processing
 and Analytics research
-group](https://www.ibi.hu-berlin.de/en/research/Information-processing)
-at [Humboldt-Universität zu Berlin](https://hu-berlin.de/).
+group](https://www.ibi.hu-berlin.de/en/research/Information-processing).
 
+
+## About
+The project was in part supported by the German Federal Ministry of
+Education and Research (BMBF) in the [REGIO
+project](https://www.regio-project.org/) (grant no. 01PU17012D).
+
+The crawl is operated and hosted by the [Information Processing and
+Analytics research
+group](https://www.ibi.hu-berlin.de/en/research/Information-processing)
+at [Humboldt-Universität zu Berlin](https://hu-berlin.de/):
+- [Prof. Dr. Robert Jäschke](https://amor.cms.hu-berlin.de/~jaeschkr/)
+- Sebastian Tiesler
+- Jonathan Lüpfert
+- Michael Paris
+- Lars Ganser
 
 ## Datasets
-The sets of crawled URLs including timestamps are available through
-[Zenodo](https://zenodo.org/communities/regio). For more information,
-see [downloads](downloads.md).
+The [lists of crawled URLs](downloads.md) including timestamps are
+available through [Zenodo](https://zenodo.org/communities/regio).
 
-We welcome collaboration reuqests from researchers of all academic
+We welcome collaboration requests from researchers of all academic
 fields interested in working with the German Academic Web. [Contact
 us](mailto:robert.jaeschke@hu-berlin.de?subject=GAW Request) and tell
 us what data you would like to work on and we will see how we can
 support you.
-
-
-- [Map](map.html)
-- [Statistics](basic_statistics.html)
-
-## Latest Crawl
-
-![crawl progress](https://amor.cms.hu-berlin.de/~tieslers/gaw/progress.svg)
 
 ## Dissemination
 Publications and other works utilizing the GAW dataset:
@@ -119,21 +124,23 @@ Publications and other works utilizing the GAW dataset:
   the Datasets? A case study on the German Academic Web
   Archive. *[Proceedings of the Web Archiving and Digital Libraries
   Workshop at JCDL, 2022.](http://hdl.handle.net/10919/114213)*
+- Lisa Spindler (2022). Publikationsdaten auf Webseiten deutscher
+  Forschungseinrichtungen: Eine Pilotstudie für die Analyse des German
+  Academic Web. *Master thesis*, Fachhochschule Potsdam &
+  Humboldt-Universität zu Berlin.
+- Robert Jäschke (2023). Tales from the inside: 10 years of growing
+  and maintaining a multi-terabyte longitudinal archive of web pages
+  and tweets. *Workshop: Do It Yourself-Archives*, July 7, 2023,
+  Potsdam, Germany.
+- Plamena Neycheva (2024). Forschungsdatenwebseiten: eine
+  Online-Inhaltsanalyse mit Schwerpunkt auf Metadaten. *Master
+  thesis*, Humboldt-Universität zu Berlin.
+  doi:[10.18452/33441](https://doi.org/10.18452/33441)
+- Plamena Neycheva and Robert Jäschke (2025). 100 categorized URLs of
+  web pages that describe, contain, or link to (research) datasets
+  [Data set]. Zenodo.
+  doi:[10.5281/zenodo.16418047](https://doi.org/10.5281/zenodo.16418047)
 
+## Latest Crawl
 
-## About
-The project is in part supported by the German Federal Ministry of
-Education and Research (BMBF) in the
-[REGIO](https://www.regio-project.org/) project (grant
-no. 01PU17012D).
-
-
-### Team
-
-[Information Processing and Analytics research group](https://www.ibi.hu-berlin.de/en/research/Information-processing)
-
-- [Prof. Dr. Robert Jäschke](https://amor.cms.hu-berlin.de/~jaeschkr/)
-- Sebastian Tiesler
-- Jonathan Lüpfert
-- Michael Paris
-- Lars Ganser
+![crawl progress](https://amor.cms.hu-berlin.de/~tieslers/gaw/progress.svg)
