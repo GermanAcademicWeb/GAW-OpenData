@@ -34,9 +34,19 @@ lang: en
 | 2012-10 |              2922 |       2.67 | 2012-10-09 10:50:36 | 2012-10-29 11:03:21 | 40,077,499   |
 
 
-<p>All crawled institutions on a map.</p>
+# Map
 
-<p>Every headquarter of the crawled institutions is mapped. Potential branch offices are not depicted.</p>
+Every headquarter of a crawled institutions is mapped. Potential
+branch offices are not depicted.
+
+
+<div id="map" class="map"></div>
+<div id="popup" class="ol-popup">
+  <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+  <div id="popup-content"></div>
+</div>
+
+Coordinates provided by a crawl of Wikipedia on 2019-03-12.
 
 <link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/css/ol.css" type="text/css">
     <style>
@@ -88,13 +98,8 @@ lang: en
       }
 </style>
 <script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/build/ol.js"></script>
-    <div id="map" class="map"></div>
-    <div id="popup" class="ol-popup">
-      <a href="#" id="popup-closer" class="ol-popup-closer"></a>
-      <div id="popup-content"></div>
-    </div>
 
-    <script type="text/javascript">
+<script type="text/javascript">
 
       /**
        * Elements that make up the popup.
@@ -191,5 +196,3 @@ lang: en
         overlay.setPosition(evt.coordinate);
       });
 </script>
-
-<p>Coordinates provided by a crawl of Wikipedia on 2019-03-12.</p>
