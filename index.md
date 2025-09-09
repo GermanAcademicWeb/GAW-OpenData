@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: default
+layout: home
 lang: en
 description: A description of the German Academic Web dataset
 ---

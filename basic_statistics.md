@@ -1,6 +1,6 @@
 ---
 title: Statistics
-layout: default
+layout: page
 lang: en
 ---
 
@@ -49,7 +49,7 @@ branch offices are not depicted.
 Coordinates provided by a crawl of Wikipedia on 2019-03-12.
 
 <link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/css/ol.css" type="text/css">
-    <style>
+<style>
       .map {
         height: 800px;
         width: 100%;
@@ -98,101 +98,6 @@ Coordinates provided by a crawl of Wikipedia on 2019-03-12.
       }
 </style>
 <script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/build/ol.js"></script>
-
 <script type="text/javascript">
 
-      /**
-       * Elements that make up the popup.
-       */
-      var container = document.getElementById('popup');
-      var content = document.getElementById('popup-content');
-      var closer = document.getElementById('popup-closer');
-
-      /**
-       * Create an overlay to anchor the popup to the map.
-       */
-      var overlay = new ol.Overlay({
-        element: container,
-        autoPan: true,
-        autoPanAnimation: {
-          duration: 250
-        }
-      });
-
-      /**
-       * Add a click handler to hide the popup.
-       * @return {boolean} Don't follow the href.
-       */
-      closer.onclick = function() {
-        overlay.setPosition(undefined);
-        closer.blur();
-        return false;
-      };
-
-      /**
-       * Get data for markers and popups
-       */
-      var vectorSource = new ol.source.Vector({
-        url: 'assets/geodata.geojson',
-        format: new ol.format.GeoJSON(),
-      });
-
-      /**
-       * Create the map.
-       */
-      var map = new ol.Map({
-        target: 'map',
-        layers: [
-          new ol.layer.Tile({
-            source: new ol.source.OSM()
-          }),
-          new ol.layer.Vector({
-            source: vectorSource,
-            style: new ol.style.Style({
-              image: new ol.style.Circle({
-                radius: 4,
-                fill: new ol.style.Fill({color: 'blue'})
-              })
-            })
-          })
-        ],
-        overlays: [overlay],
-        view: new ol.View({
-          center: ol.proj.fromLonLat([10.018343, 51.133481]),
-          zoom: 6
-        })
-      });
-
-      /**
-       * Get the aggregated data.
-       */
-      var displayFeatureInfo = function(pixel) {
-        var features = [];
-        map.forEachFeatureAtPixel(pixel, function(feature, layer) {
-          features.push(feature);
-        });
-        if (features.length > 0) {
-          var showing = [];
-          for (var i = 0, ii = features.length; i < ii; ++i) {
-            showing.push('<a target="_blank" href="' + (features[i].get('Subsite')) + '">' + (features[i].get('Name')) + '</a>');
-          }
-          if (showing.length > 1) {
-            content.innerHTML = showing.join('<br>') || '(unknown)';
-          }
-          else if (showing.length == 1) {
-            content.innerHTML = showing;
-          }
-        } else {
-          content.innerHTML = 'No institution selected';
-        }
-      };
-
-      /**
-       * Add a click handler to the map to render the popup.
-       */
-      map.on('click', function(evt) {
-        var pixel = evt.pixel;
-        displayFeatureInfo(pixel);
-        overlay.setPosition(evt.coordinate);
-      });
 </script>

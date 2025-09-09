@@ -1,6 +1,6 @@
 ---
 title: Downloads
-layout: default
+layout: page
 lang: en
 ---
 
