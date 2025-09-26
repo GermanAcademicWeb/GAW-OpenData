@@ -1,16 +1,21 @@
 ---
 title: Home
-layout: home
+layout: default
 lang: en
 description: A description of the German Academic Web dataset
 ---
 
 # What
+
 The German Academic Web (GAW) is a collection of snapshots of the
 public web presence of German academic institutions. This comprises a
 variety of information, for example, press releases, course material,
 or legal documents (e.g., examination regulations) as well as
-information about research projects and researchers.
+information about research projects and researchers. The archive is
+created and maintained by the [Information Processing and Analytics
+group](https://www.ibi.hu-berlin.de/en/research/Information-processing)
+at [Humboldt-Universität zu Berlin](https://hu-berlin.de/).
+
 
 The snapshots have been taken semi-annually since 2012 and are stored
 as [WARC](https://en.wikipedia.org/wiki/Web_ARChive) files.  Each
