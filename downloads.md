@@ -22,8 +22,8 @@ available on [Zenodo](https://zenodo.org/communities/regio):
 - [GAW 2013-12 ![GAW 2013-12](/assets/img/zenodo.3826695.svg)](https://doi.org/10.5281/zenodo.3826695)
 
 In addition, the following data is available:
-- [summary data ![Zenodo DOI](/assets/images/zenodo/zenodo.3843507.svg)](https://doi.org/10.5281/zenodo.3843507)
-- [geolocations of German academic institutions ![Zenodo DOI](/assets/images/zenodo/zenodo.3795574.svg)](https://doi.org/10.5281/zenodo.3795574)
+- [summary data ![Zenodo DOI](/assets/img/zenodo/zenodo.3843507.svg)](https://doi.org/10.5281/zenodo.3843507)
+- [geolocations of German academic institutions ![Zenodo DOI](/assets/img/zenodo/zenodo.3795574.svg)](https://doi.org/10.5281/zenodo.3795574)
 
 
 To access the WARC files or the CDX index files please [get in contact
