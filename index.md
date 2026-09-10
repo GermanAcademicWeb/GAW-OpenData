@@ -149,13 +149,16 @@ Publications and other works utilizing the GAW dataset:
   von Creative Commons-Lizenzen auf Webseiten deutscher
   Wissenschaftseinrichtungen mittels des German Academic
   Web. *Berliner Handreichungen zur Bibliotheks- und
-  Informationswissenschaft*, 565. doi:[10.18452/35509](https://doi.org/10.18452/35509)
+  Informationswissenschaft*, 565.
+  doi:[10.18452/35509](https://doi.org/10.18452/35509)
 - Michael Paris, Hande Çelikkanat, and Luca Foppiano (2026). Measuring
   What the Crawler Sees: Discovery Curves, Core Persistence, and Shell
-  Dynamics in Longitudinal Web Crawls. *CoRR abs/2607.13636*
+  Dynamics in Longitudinal Web Crawls. *CoRR abs/2607.13636*.
+  doi:[10.48550/arXiv.2607.13636](https://doi.org/10.48550/arXiv.2607.13636)
 - Michael Paris, Grigori Paris, and Fabian Baumann (2026). Estimating
   Absolute Web Crawl Coverage From Longitudinal Set
-  Intersections. *CoRR abs/2603.15416*
+  Intersections. *CoRR abs/2603.15416*.
+  doi:[10.48550/arXiv.2603.15416](https://doi.org/10.48550/arXiv.2603.15416)
 
 # Latest Crawl
 
